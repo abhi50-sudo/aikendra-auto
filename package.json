@@ -5,15 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/fetchData.js && vite build && node scripts/generateStatic.js",
-    "preview": "npm run build && wrangler dev",
+    "build": "vite build && node scripts/generateStatic.js",
+    "preview": "vite preview",
     "scrape": "python scripts/run_daily_pipeline.py",
-    "deploy": "npm run build && wrangler deploy"
+    "deploy": "npx wrangler pages deploy dist --project-name aikendra"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^1.31.2",
     "csv-parse": "^6.2.1",
-    "vite": "^8.0.0",
-    "wrangler": "^4.81.1"
+    "vite": "^8.0.0"
   }
 }
