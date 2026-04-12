@@ -1,0 +1,39 @@
+name: Daily Auto-Scraper
+
+on:
+  schedule:
+    # Runs at midnight (00:00 UTC) every day
+    - cron: '0 0 * * *'
+  # Allows you to manually trigger the workflow from the Actions tab on GitHub
+  workflow_dispatch:
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    # We need permission to push code changes back to the repository
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Python Scraper Engine
+        run: python scripts/run_daily_pipeline.py
+
+      - name: Commit newly found tools to database
+        run: |
+          # If data/tools.json was updated, commit and push it.
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          
+          git add data/tools.json
+          
+          # Only commit if there are actual changes
+          git diff --staged --quiet || (git commit -m "🤖 Auto-added new AI tools to database" && git push)
