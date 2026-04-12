@@ -6,12 +6,14 @@
   "scripts": {
     "dev": "vite",
     "build": "node scripts/fetchData.js && vite build && node scripts/generateStatic.js",
-    "preview": "vite preview",
+    "preview": "npm run build && wrangler dev",
     "scrape": "python scripts/run_daily_pipeline.py",
-    "deploy": "npx wrangler pages deploy dist --project-name aikendra"
+    "deploy": "npm run build && wrangler deploy"
   },
   "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.31.2",
     "csv-parse": "^6.2.1",
-    "vite": "^8.0.0"
+    "vite": "^8.0.0",
+    "wrangler": "^4.81.1"
   }
 }
