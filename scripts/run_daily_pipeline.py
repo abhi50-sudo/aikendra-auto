@@ -22,7 +22,7 @@ def scrape_tools_engine():
             "category": "Image Generation",
             "pricing": "Paid",
             "website": "https://midjourney.com",
-            "logo": "https://midjourney.com/favicon.ico",
+            "logo": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=128",
             "tags": ["Image Generation", "Art", "Discord"],
             "features": ["Text-to-Image", "Photorealism", "Style Tuning"],
             "dateAdded": today
@@ -35,7 +35,7 @@ def scrape_tools_engine():
             "category": "Research",
             "pricing": "Freemium",
             "website": "https://perplexity.ai",
-            "logo": "https://perplexity.ai/favicon.ico",
+            "logo": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128",
             "tags": ["Search Engine", "Research", "Citations"],
             "features": ["Copilot Search", "File Upload", "Inline Citations"],
             "dateAdded": today
