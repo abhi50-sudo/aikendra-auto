@@ -1,29 +1,45 @@
 [
   {
-    "Name": "Perplexity AI",
-    "Slug": "perplexity",
-    "Short Description": "The AI search engine that gives you citations and instant answers.",
-    "Full Details": "Perplexity is a conversational search engine that gives you instant, referenced answers to any question. Unlike traditional search engines that give you a list of links, Perplexity reads the links and writes a comprehensive answer with inline citations.",
-    "Category": "Search",
-    "Pricing": "Freemium",
-    "URL": "https://perplexity.ai",
-    "Logo URL": "https://perplexity.ai/favicon.ico",
-    "Tags": "Search Engine, Research, Citations",
-    "Features": "Copilot Search, File Upload, Inline Citations",
-    "Date Added": "2026-04-12"
+    "name": "Perplexity AI",
+    "slug": "perplexity-ai",
+    "shortDescription": "The AI search engine that gives you citations and instant answers.",
+    "description": "Perplexity is a conversational search engine that gives you instant, referenced answers to any question. Unlike traditional search engines that give you a list of links, Perplexity reads the links and writes a comprehensive answer with inline citations.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://perplexity.ai",
+    "logo": "https://perplexity.ai/favicon.ico",
+    "tags": [
+      "Search Engine",
+      "Research",
+      "Citations"
+    ],
+    "features": [
+      "Copilot Search",
+      "File Upload",
+      "Inline Citations"
+    ],
+    "dateAdded": "04/12/2026"
   },
   {
-    "Name": "Midjourney V6",
-    "Slug": "midjourney-v6",
-    "Short Description": "Generate hyper-realistic AI art and images from text prompts via Discord.",
-    "Full Details": "Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. V6 brings incredibly realistic photorealistic generation, massive text-rendering improvements, and granular prompting control.",
-    "Category": "Design",
-    "Pricing": "Paid",
-    "URL": "https://midjourney.com",
-    "Logo URL": "https://midjourney.com/favicon.ico",
-    "Tags": "Image Generation, Art, Discord",
-    "Features": "Text-to-Image, Photorealism, Style Tuning",
-    "Date Added": "2026-04-12"
+    "name": "Midjourney V6",
+    "slug": "midjourney-v6",
+    "shortDescription": "Generate hyper-realistic AI art and images from text prompts via Discord.",
+    "description": "Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species. V6 brings incredibly realistic photorealistic generation, massive text-rendering improvements, and granular prompting control.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://midjourney.com",
+    "logo": "https://midjourney.com/favicon.ico",
+    "tags": [
+      "Image Generation",
+      "Art",
+      "Discord"
+    ],
+    "features": [
+      "Text-to-Image",
+      "Photorealism",
+      "Style Tuning"
+    ],
+    "dateAdded": "04/12/2026"
   },
   {
     "name": "Claude 3.5",
