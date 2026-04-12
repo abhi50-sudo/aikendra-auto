@@ -1,0 +1,1764 @@
+[
+  {
+    "name": "Claude 3.5",
+    "slug": "claude",
+    "shortDescription": "Extremely advanced LLM by Anthropic with massive context windows.",
+    "description": "Claude is a next-generation AI assistant built for work and trained to be safe, accurate, and secure. It offers best-in-class coding capabilities, document analysis, and conversational intelligence.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://claude.ai",
+    "logo": "https://claude.ai/favicon.ico",
+    "tags": [
+      "LLM",
+      "Chatbot",
+      "Coding"
+    ],
+    "features": [
+      "Artifacts UI",
+      "200k Context Window",
+      "Vision Analysis"
+    ],
+    "dateAdded": "4/5/2026"
+  },
+  {
+    "name": "Suno AI",
+    "slug": "suno",
+    "shortDescription": "Generate complete, studio-quality songs with vocals from a text prompt.",
+    "description": "Suno is building a future where anyone can make great music. It takes a text description of a song—including genre and topic—and generates full two-minute tracks complete with hyper-realistic human vocals and instrumentation.",
+    "category": "Audio",
+    "pricing": "Freemium",
+    "website": "https://suno.com",
+    "logo": "https://suno.com/favicon.ico",
+    "tags": [
+      "Music Generation",
+      "Audio"
+    ],
+    "features": [
+      "Vocal Generation",
+      "Custom Lyrics",
+      "Radio Quality"
+    ],
+    "dateAdded": "4/5/2026"
+  },
+  {
+    "name": "Cursor IDE",
+    "slug": "cursor",
+    "shortDescription": "The AI-first code editor designed to make you instantly more productive.",
+    "description": "Cursor is a fork of VS Code imbued with advanced AI capabilities. Features like 'Composer' allow multi-file code generation and editing, completely changing the paradigm of software development.",
+    "category": "Coding",
+    "pricing": "Freemium",
+    "website": "https://cursor.com",
+    "logo": "https://cursor.com/favicon.ico",
+    "tags": [
+      "Developer Tools",
+      "IDE"
+    ],
+    "features": [
+      "Multi-file Editing",
+      "Codebase Indexing",
+      "Copilot"
+    ],
+    "dateAdded": "4/5/2026"
+  },
+  {
+    "name": "ChatGPT",
+    "slug": "chatgpt",
+    "shortDescription": "Advanced conversational AI by OpenAI.",
+    "description": "ChatGPT is a leading tool in the Productivity space. Advanced conversational AI by OpenAI. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage LLM.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://chatgpt.com",
+    "logo": "https://www.google.com/s2/favicons?domain=chatgpt.com&sz=128",
+    "tags": [
+      "LLM",
+      "Chatbot",
+      "Assistant"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Midjourney",
+    "slug": "midjourney",
+    "shortDescription": "High-quality AI image generation from text prompts.",
+    "description": "Midjourney is a leading tool in the Image Generation space. High-quality AI image generation from text prompts. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Art.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://midjourney.com",
+    "logo": "https://www.google.com/s2/favicons?domain=midjourney.com&sz=128",
+    "tags": [
+      "Art",
+      "Design",
+      "Text-to-Image"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Perplexity",
+    "slug": "perplexity",
+    "shortDescription": "AI search engine that provides cited answers.",
+    "description": "Perplexity is a leading tool in the Research space. AI search engine that provides cited answers. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Search.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://perplexity.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128",
+    "tags": [
+      "Search",
+      "Research",
+      "Web"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Notion AI",
+    "slug": "notion-ai",
+    "shortDescription": "AI integrated workspace for notes and docs.",
+    "description": "Notion AI is a leading tool in the Productivity space. AI integrated workspace for notes and docs. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Notes.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://notion.so",
+    "logo": "https://www.google.com/s2/favicons?domain=notion.so&sz=128",
+    "tags": [
+      "Notes",
+      "Writing",
+      "Workspace"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Gamma",
+    "slug": "gamma",
+    "shortDescription": "Create beautiful presentations and documents with AI.",
+    "description": "Gamma is a leading tool in the Productivity space. Create beautiful presentations and documents with AI. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Presentations.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://gamma.app",
+    "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128",
+    "tags": [
+      "Presentations",
+      "Slides",
+      "Design"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Runway",
+    "slug": "runway",
+    "shortDescription": "Advanced AI video generation and editing tools.",
+    "description": "Runway is a leading tool in the Video Creation space. Advanced AI video generation and editing tools. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Video.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://runwayml.com",
+    "logo": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=128",
+    "tags": [
+      "Video",
+      "Generation",
+      "Editor"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "ElevenLabs",
+    "slug": "elevenlabs",
+    "shortDescription": "Ultra-realistic text-to-speech voice generation.",
+    "description": "ElevenLabs is a leading tool in the Audio & Voice space. Ultra-realistic text-to-speech voice generation. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Voice.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://elevenlabs.io",
+    "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+    "tags": [
+      "Voice",
+      "TTS",
+      "Audio"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Phind",
+    "slug": "phind",
+    "shortDescription": "AI search engine tailored specifically for developers.",
+    "description": "Phind is a leading tool in the Coding & Development space. AI search engine tailored specifically for developers. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Coding.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://phind.com",
+    "logo": "https://www.google.com/s2/favicons?domain=phind.com&sz=128",
+    "tags": [
+      "Coding",
+      "Search",
+      "Developer"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "V0 by Vercel",
+    "slug": "v0-by-vercel",
+    "shortDescription": "Generative UI system by Vercel.",
+    "description": "V0 by Vercel is a leading tool in the Coding & Development space. Generative UI system by Vercel. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage UI.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://v0.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=v0.dev&sz=128",
+    "tags": [
+      "UI",
+      "React",
+      "Frontend"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "HeyGen",
+    "slug": "heygen",
+    "shortDescription": "AI video generator with photorealistic avatars.",
+    "description": "HeyGen is a leading tool in the Video Creation space. AI video generator with photorealistic avatars. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Avatars.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://heygen.com",
+    "logo": "https://www.google.com/s2/favicons?domain=heygen.com&sz=128",
+    "tags": [
+      "Avatars",
+      "Video",
+      "Presentations"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Synthesia",
+    "slug": "synthesia",
+    "shortDescription": "Create videos from text with AI avatars.",
+    "description": "Synthesia is a leading tool in the Video Creation space. Create videos from text with AI avatars. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Video.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://synthesia.io",
+    "logo": "https://www.google.com/s2/favicons?domain=synthesia.io&sz=128",
+    "tags": [
+      "Video",
+      "Enterprise",
+      "TTS"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Copy.ai",
+    "slug": "copy-ai",
+    "shortDescription": "AI copywriter for marketing and sales teams.",
+    "description": "Copy.ai is a leading tool in the Marketing space. AI copywriter for marketing and sales teams. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Writing.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://copy.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=copy.ai&sz=128",
+    "tags": [
+      "Writing",
+      "Marketing",
+      "Copy"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Jasper",
+    "slug": "jasper",
+    "shortDescription": "Enterprise-grade AI marketing copilot.",
+    "description": "Jasper is a leading tool in the Marketing space. Enterprise-grade AI marketing copilot. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Writing.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://jasper.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=jasper.ai&sz=128",
+    "tags": [
+      "Writing",
+      "Brand",
+      "Marketing"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "DeepL",
+    "slug": "deepl",
+    "shortDescription": "The world's most accurate AI translator.",
+    "description": "DeepL is a leading tool in the Writing space. The world's most accurate AI translator. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Translation.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://deepl.com",
+    "logo": "https://www.google.com/s2/favicons?domain=deepl.com&sz=128",
+    "tags": [
+      "Translation",
+      "Languages",
+      "Writing"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Poe",
+    "slug": "poe",
+    "shortDescription": "Access multiple top-tier AI models in one app.",
+    "description": "Poe is a leading tool in the Productivity space. Access multiple top-tier AI models in one app. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Chatbot.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://poe.com",
+    "logo": "https://www.google.com/s2/favicons?domain=poe.com&sz=128",
+    "tags": [
+      "Chatbot",
+      "Multi-model",
+      "Assistant"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Gemini",
+    "slug": "gemini",
+    "shortDescription": "Google's direct competitor to ChatGPT.",
+    "description": "Gemini is a leading tool in the Productivity space. Google's direct competitor to ChatGPT. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Google.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://gemini.google.com",
+    "logo": "https://www.google.com/s2/favicons?domain=gemini.google.com&sz=128",
+    "tags": [
+      "Google",
+      "LLM",
+      "Assistant"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Github Copilot",
+    "slug": "github-copilot",
+    "shortDescription": "Your AI pair programmer inside your IDE.",
+    "description": "Github Copilot is a leading tool in the Coding & Development space. Your AI pair programmer inside your IDE. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Coding.",
+    "category": "Coding & Development",
+    "pricing": "Paid",
+    "website": "https://github.com/features/copilot",
+    "logo": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+    "tags": [
+      "Coding",
+      "Autocomplete",
+      "Developer"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Devin",
+    "slug": "devin",
+    "shortDescription": "The first fully autonomous AI software engineer.",
+    "description": "Devin is a leading tool in the Coding & Development space. The first fully autonomous AI software engineer. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Autonomous.",
+    "category": "Coding & Development",
+    "pricing": "Paid",
+    "website": "https://cognition.ai/devin",
+    "logo": "https://www.google.com/s2/favicons?domain=cognition.ai&sz=128",
+    "tags": [
+      "Autonomous",
+      "Agent",
+      "Coding"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Replicate",
+    "slug": "replicate",
+    "shortDescription": "Run open-source AI models with an API.",
+    "description": "Replicate is a leading tool in the Coding & Development space. Run open-source AI models with an API. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage API.",
+    "category": "Coding & Development",
+    "pricing": "Paid",
+    "website": "https://replicate.com",
+    "logo": "https://www.google.com/s2/favicons?domain=replicate.com&sz=128",
+    "tags": [
+      "API",
+      "Open Source",
+      "Hosting"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Hugging Face",
+    "slug": "hugging-face",
+    "shortDescription": "The platform for machine learning community.",
+    "description": "Hugging Face is a leading tool in the Coding & Development space. The platform for machine learning community. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Models.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://huggingface.co",
+    "logo": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+    "tags": [
+      "Models",
+      "Datasets",
+      "ML"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Framer",
+    "slug": "framer",
+    "shortDescription": "Design and publish stunning websites with AI.",
+    "description": "Framer is a leading tool in the Productivity space. Design and publish stunning websites with AI. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Web Design.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://framer.com",
+    "logo": "https://www.google.com/s2/favicons?domain=framer.com&sz=128",
+    "tags": [
+      "Web Design",
+      "No-Code",
+      "Editor"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Leonardo AI",
+    "slug": "leonardo-ai",
+    "shortDescription": "Produce stunning game assets and artwork.",
+    "description": "Leonardo AI is a leading tool in the Image Generation space. Produce stunning game assets and artwork. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Gaming.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://leonardo.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=leonardo.ai&sz=128",
+    "tags": [
+      "Gaming",
+      "Art",
+      "Generation"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Krea AI",
+    "slug": "krea-ai",
+    "shortDescription": "Real-time AI image generation and enhancement.",
+    "description": "Krea AI is a leading tool in the Image Generation space. Real-time AI image generation and enhancement. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Real-time.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://krea.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=krea.ai&sz=128",
+    "tags": [
+      "Real-time",
+      "Upscaling",
+      "Design"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Stable Diffusion",
+    "slug": "stable-diffusion",
+    "shortDescription": "Open-source image generation model.",
+    "description": "Stable Diffusion is a leading tool in the Image Generation space. Open-source image generation model. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Open Source.",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "website": "https://stability.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=stability.ai&sz=128",
+    "tags": [
+      "Open Source",
+      "Art",
+      "Generator"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Magnific AI",
+    "slug": "magnific-ai",
+    "shortDescription": "The most advanced AI image upscaler and enhancer.",
+    "description": "Magnific AI is a leading tool in the Image Generation space. The most advanced AI image upscaler and enhancer. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Upscaling.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://magnific.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=magnific.ai&sz=128",
+    "tags": [
+      "Upscaling",
+      "Enhancement",
+      "Resolution"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Luma Dream Machine",
+    "slug": "luma-dream-machine",
+    "shortDescription": "High quality AI video generation model.",
+    "description": "Luma Dream Machine is a leading tool in the Video Creation space. High quality AI video generation model. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Video.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://lumalabs.ai/dream-machine",
+    "logo": "https://www.google.com/s2/favicons?domain=lumalabs.ai&sz=128",
+    "tags": [
+      "Video",
+      "Generative",
+      "3D"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Suno",
+    "slug": "suno",
+    "shortDescription": "Create full songs with vocals from a prompt.",
+    "description": "Suno is a leading tool in the Audio & Voice space. Create full songs with vocals from a prompt. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Music.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://suno.com",
+    "logo": "https://www.google.com/s2/favicons?domain=suno.com&sz=128",
+    "tags": [
+      "Music",
+      "Generation",
+      "Vocals"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Udio",
+    "slug": "udio",
+    "shortDescription": "AI music generator for high-fidelity tracks.",
+    "description": "Udio is a leading tool in the Audio & Voice space. AI music generator for high-fidelity tracks. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Music.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://udio.com",
+    "logo": "https://www.google.com/s2/favicons?domain=udio.com&sz=128",
+    "tags": [
+      "Music",
+      "Audio",
+      "Tracks"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Murf AI",
+    "slug": "murf-ai",
+    "shortDescription": "Versatile text to speech software with multiple voices.",
+    "description": "Murf AI is a leading tool in the Audio & Voice space. Versatile text to speech software with multiple voices. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage TTS.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://murf.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=murf.ai&sz=128",
+    "tags": [
+      "TTS",
+      "Voiceover",
+      "Audio"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Descript",
+    "slug": "descript",
+    "shortDescription": "Edit audio and video by editing text.",
+    "description": "Descript is a leading tool in the Audio & Voice space. Edit audio and video by editing text. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Podcast.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://descript.com",
+    "logo": "https://www.google.com/s2/favicons?domain=descript.com&sz=128",
+    "tags": [
+      "Podcast",
+      "Editing",
+      "Transcription"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Otter.ai",
+    "slug": "otter-ai",
+    "shortDescription": "AI meeting assistant that records and transcribes.",
+    "description": "Otter.ai is a leading tool in the Productivity space. AI meeting assistant that records and transcribes. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Meetings.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://otter.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=otter.ai&sz=128",
+    "tags": [
+      "Meetings",
+      "Notes",
+      "Transcription"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Fireflies.ai",
+    "slug": "fireflies-ai",
+    "shortDescription": "Automate your meeting notes and transcripts.",
+    "description": "Fireflies.ai is a leading tool in the Productivity space. Automate your meeting notes and transcripts. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Meetings.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://fireflies.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=fireflies.ai&sz=128",
+    "tags": [
+      "Meetings",
+      "Search",
+      "Voice"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Zapier Central",
+    "slug": "zapier-central",
+    "shortDescription": "AI bots that automate tasks across your apps.",
+    "description": "Zapier Central is a leading tool in the Automation space. AI bots that automate tasks across your apps. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Automation.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://zapier.com/central",
+    "logo": "https://www.google.com/s2/favicons?domain=zapier.com&sz=128",
+    "tags": [
+      "Automation",
+      "Workflows",
+      "Bots"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Make",
+    "slug": "make",
+    "shortDescription": "Visual platform to design and automate workflows.",
+    "description": "Make is a leading tool in the Automation space. Visual platform to design and automate workflows. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage No-Code.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://make.com",
+    "logo": "https://www.google.com/s2/favicons?domain=make.com&sz=128",
+    "tags": [
+      "No-Code",
+      "Workflows",
+      "Integration"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Beautiful.ai",
+    "slug": "beautiful-ai",
+    "shortDescription": "Presentation maker that designs for you.",
+    "description": "Beautiful.ai is a leading tool in the Productivity space. Presentation maker that designs for you. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Slides.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://beautiful.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=beautiful.ai&sz=128",
+    "tags": [
+      "Slides",
+      "Pitch",
+      "Design"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Tome",
+    "slug": "tome",
+    "shortDescription": "AI-powered storytelling and presentation format.",
+    "description": "Tome is a leading tool in the Productivity space. AI-powered storytelling and presentation format. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Storytelling.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://tome.app",
+    "logo": "https://www.google.com/s2/favicons?domain=tome.app&sz=128",
+    "tags": [
+      "Storytelling",
+      "Decks",
+      "Layouts"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Writesonic",
+    "slug": "writesonic",
+    "shortDescription": "AI writer, copywriter and paragraph creator.",
+    "description": "Writesonic is a leading tool in the Writing space. AI writer, copywriter and paragraph creator. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage SEO.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://writesonic.com",
+    "logo": "https://www.google.com/s2/favicons?domain=writesonic.com&sz=128",
+    "tags": [
+      "SEO",
+      "Blogs",
+      "Ads"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Rytr",
+    "slug": "rytr",
+    "shortDescription": "Fast, responsive AI writing assistant.",
+    "description": "Rytr is a leading tool in the Writing space. Fast, responsive AI writing assistant. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Copy.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://rytr.me",
+    "logo": "https://www.google.com/s2/favicons?domain=rytr.me&sz=128",
+    "tags": [
+      "Copy",
+      "Emails",
+      "Content"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "GrammarlyGO",
+    "slug": "grammarlygo",
+    "shortDescription": "AI communication assistance everywhere you type.",
+    "description": "GrammarlyGO is a leading tool in the Writing space. AI communication assistance everywhere you type. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Grammar.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://grammarly.com",
+    "logo": "https://www.google.com/s2/favicons?domain=grammarly.com&sz=128",
+    "tags": [
+      "Grammar",
+      "Tone",
+      "Editing"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Cursor",
+    "slug": "cursor",
+    "shortDescription": "AI-first code editor with powerful Composer.",
+    "description": "Cursor is a leading tool in the Coding & Development space. AI-first code editor with powerful Composer. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage IDE.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://cursor.com",
+    "logo": "https://www.google.com/s2/favicons?domain=cursor.com&sz=128",
+    "tags": [
+      "IDE",
+      "Editing",
+      "AI"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Claude",
+    "slug": "claude",
+    "shortDescription": "Anthropic's LLM built for large context windows.",
+    "description": "Claude is a leading tool in the Research space. Anthropic's LLM built for large context windows. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Analysis.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://claude.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=claude.ai&sz=128",
+    "tags": [
+      "Analysis",
+      "Safe",
+      "Context"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Mistral",
+    "slug": "mistral",
+    "shortDescription": "Open-weight foundational models for developers.",
+    "description": "Mistral is a leading tool in the Coding & Development space. Open-weight foundational models for developers. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Open Source.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://mistral.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=mistral.ai&sz=128",
+    "tags": [
+      "Open Source",
+      "Models",
+      "Fast"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Cohere",
+    "slug": "cohere",
+    "shortDescription": "Enterprise AI platform for search and generation.",
+    "description": "Cohere is a leading tool in the Automation space. Enterprise AI platform for search and generation. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Enterprise.",
+    "category": "Automation",
+    "pricing": "Paid",
+    "website": "https://cohere.com",
+    "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+    "tags": [
+      "Enterprise",
+      "NLP",
+      "API"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Glean",
+    "slug": "glean",
+    "shortDescription": "AI-powered enterprise search and knowledge.",
+    "description": "Glean is a leading tool in the Productivity space. AI-powered enterprise search and knowledge. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Enterprise.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://glean.com",
+    "logo": "https://www.google.com/s2/favicons?domain=glean.com&sz=128",
+    "tags": [
+      "Enterprise",
+      "Intranet",
+      "Search"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Harvey",
+    "slug": "harvey",
+    "shortDescription": "Generative AI for elite law firms.",
+    "description": "Harvey is a leading tool in the Research space. Generative AI for elite law firms. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Legal.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://harvey.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=harvey.ai&sz=128",
+    "tags": [
+      "Legal",
+      "Professional",
+      "Analysis"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Codeium",
+    "slug": "codeium",
+    "shortDescription": "Free AI code completion and chat.",
+    "description": "Codeium is a leading tool in the Coding & Development space. Free AI code completion and chat. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Autocomplete.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://codeium.com",
+    "logo": "https://www.google.com/s2/favicons?domain=codeium.com&sz=128",
+    "tags": [
+      "Autocomplete",
+      "IDE",
+      "Free"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Tabnine",
+    "slug": "tabnine",
+    "shortDescription": "Private and secure AI assistant for developers.",
+    "description": "Tabnine is a leading tool in the Coding & Development space. Private and secure AI assistant for developers. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Privacy.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://tabnine.com",
+    "logo": "https://www.google.com/s2/favicons?domain=tabnine.com&sz=128",
+    "tags": [
+      "Privacy",
+      "Enterprise",
+      "Autocomplete"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Liner",
+    "slug": "liner",
+    "shortDescription": "AI workspace for researchers and students.",
+    "description": "Liner is a leading tool in the Research space. AI workspace for researchers and students. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Highlighting.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://getliner.com",
+    "logo": "https://www.google.com/s2/favicons?domain=getliner.com&sz=128",
+    "tags": [
+      "Highlighting",
+      "Summarization",
+      "Web"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Consensus",
+    "slug": "consensus",
+    "shortDescription": "AI search engine for scientific research.",
+    "description": "Consensus is a leading tool in the Research space. AI search engine for scientific research. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Science.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://consensus.app",
+    "logo": "https://www.google.com/s2/favicons?domain=consensus.app&sz=128",
+    "tags": [
+      "Science",
+      "Papers",
+      "Citations"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Elicit",
+    "slug": "elicit",
+    "shortDescription": "Analyze research papers at superhuman speed.",
+    "description": "Elicit is a leading tool in the Research space. Analyze research papers at superhuman speed. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Literature Review.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://elicit.com",
+    "logo": "https://www.google.com/s2/favicons?domain=elicit.com&sz=128",
+    "tags": [
+      "Literature Review",
+      "Data",
+      "Academic"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "ChatPDF",
+    "slug": "chatpdf",
+    "shortDescription": "Chat with any PDF document seamlessly.",
+    "description": "ChatPDF is a leading tool in the Productivity space. Chat with any PDF document seamlessly. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage PDF.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://chatpdf.com",
+    "logo": "https://www.google.com/s2/favicons?domain=chatpdf.com&sz=128",
+    "tags": [
+      "PDF",
+      "Reading",
+      "Search"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "SciSpace",
+    "slug": "scispace",
+    "shortDescription": "Do hours of research in minutes.",
+    "description": "SciSpace is a leading tool in the Research space. Do hours of research in minutes. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Papers.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://typeset.io",
+    "logo": "https://www.google.com/s2/favicons?domain=typeset.io&sz=128",
+    "tags": [
+      "Papers",
+      "Complex",
+      "Formats"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Canva Magic Studio",
+    "slug": "canva-magic-studio",
+    "shortDescription": "All-in-one AI design tools within Canva.",
+    "description": "Canva Magic Studio is a leading tool in the Image Generation space. All-in-one AI design tools within Canva. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Graphic Design.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://canva.com",
+    "logo": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
+    "tags": [
+      "Graphic Design",
+      "Social Media",
+      "Suite"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Adobe Firefly",
+    "slug": "adobe-firefly",
+    "shortDescription": "Generative AI for creative workflows by Adobe.",
+    "description": "Adobe Firefly is a leading tool in the Image Generation space. Generative AI for creative workflows by Adobe. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Commercial Safe.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://firefly.adobe.com",
+    "logo": "https://www.google.com/s2/favicons?domain=firefly.adobe.com&sz=128",
+    "tags": [
+      "Commercial Safe",
+      "Photoshop",
+      "Vectors"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Opus Clip",
+    "slug": "opus-clip",
+    "shortDescription": "Turn long videos into viral shorts in one click.",
+    "description": "Opus Clip is a leading tool in the Video Creation space. Turn long videos into viral shorts in one click. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Shorts.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://opus.pro",
+    "logo": "https://www.google.com/s2/favicons?domain=opus.pro&sz=128",
+    "tags": [
+      "Shorts",
+      "Repurposing",
+      "Viral"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "CapCut",
+    "slug": "capcut",
+    "shortDescription": "Free all-in-one video editor with AI features.",
+    "description": "CapCut is a leading tool in the Video Creation space. Free all-in-one video editor with AI features. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Editing.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://capcut.com",
+    "logo": "https://www.google.com/s2/favicons?domain=capcut.com&sz=128",
+    "tags": [
+      "Editing",
+      "TikTok",
+      "Captions"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Syllaby",
+    "slug": "syllaby",
+    "shortDescription": "Find viral topics and generate video scripts.",
+    "description": "Syllaby is a leading tool in the Marketing space. Find viral topics and generate video scripts. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Social Media.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://syllaby.io",
+    "logo": "https://www.google.com/s2/favicons?domain=syllaby.io&sz=128",
+    "tags": [
+      "Social Media",
+      "Scripts",
+      "Strategy"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Brandmark",
+    "slug": "brandmark",
+    "shortDescription": "Create professional logos with AI.",
+    "description": "Brandmark is a leading tool in the Image Generation space. Create professional logos with AI. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Branding.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://brandmark.io",
+    "logo": "https://www.google.com/s2/favicons?domain=brandmark.io&sz=128",
+    "tags": [
+      "Branding",
+      "Assets",
+      "Logos"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Looka",
+    "slug": "looka",
+    "shortDescription": "Design your own beautiful brand using AI.",
+    "description": "Looka is a leading tool in the Image Generation space. Design your own beautiful brand using AI. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Branding.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://looka.com",
+    "logo": "https://www.google.com/s2/favicons?domain=looka.com&sz=128",
+    "tags": [
+      "Branding",
+      "Identity",
+      "Logo"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Eightify",
+    "slug": "eightify",
+    "shortDescription": "YouTube video summaries using AI.",
+    "description": "Eightify is a leading tool in the Productivity space. YouTube video summaries using AI. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage YouTube.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://eightify.app",
+    "logo": "https://www.google.com/s2/favicons?domain=eightify.app&sz=128",
+    "tags": [
+      "YouTube",
+      "Summaries",
+      "Time-saving"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Miro Assist",
+    "slug": "miro-assist",
+    "shortDescription": "AI partner for innovation and brainstorming.",
+    "description": "Miro Assist is a leading tool in the Productivity space. AI partner for innovation and brainstorming. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Whiteboard.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://miro.com",
+    "logo": "https://www.google.com/s2/favicons?domain=miro.com&sz=128",
+    "tags": [
+      "Whiteboard",
+      "Mindmaps",
+      "Diagrams"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Whimsical AI",
+    "slug": "whimsical-ai",
+    "shortDescription": "Generate mind maps and wireframes instantly.",
+    "description": "Whimsical AI is a leading tool in the Productivity space. Generate mind maps and wireframes instantly. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Wireframes.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://whimsical.com",
+    "logo": "https://www.google.com/s2/favicons?domain=whimsical.com&sz=128",
+    "tags": [
+      "Wireframes",
+      "Planning",
+      "Ideation"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Julius AI",
+    "slug": "julius-ai",
+    "shortDescription": "Your AI data analyst. Chat with your data.",
+    "description": "Julius AI is a leading tool in the Research space. Your AI data analyst. Chat with your data. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Data Science.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://julius.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=julius.ai&sz=128",
+    "tags": [
+      "Data Science",
+      "Spreadsheets",
+      "Charts"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Rose",
+    "slug": "rose",
+    "shortDescription": "Cloud data platform to find and visualize data.",
+    "description": "Rose is a leading tool in the Finance space. Cloud data platform to find and visualize data. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Finance.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://rose.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=rose.ai&sz=128",
+    "tags": [
+      "Finance",
+      "Markets",
+      "Visualization"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "FinChat",
+    "slug": "finchat",
+    "shortDescription": "ChatGPT for investing and financial data.",
+    "description": "FinChat is a leading tool in the Finance space. ChatGPT for investing and financial data. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Stocks.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://finchat.io",
+    "logo": "https://www.google.com/s2/favicons?domain=finchat.io&sz=128",
+    "tags": [
+      "Stocks",
+      "Earnings",
+      "Investing"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "AlphaSense",
+    "slug": "alphasense",
+    "shortDescription": "Market intelligence and search platform.",
+    "description": "AlphaSense is a leading tool in the Finance space. Market intelligence and search platform. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Enterprise.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://alpha-sense.com",
+    "logo": "https://www.google.com/s2/favicons?domain=alpha-sense.com&sz=128",
+    "tags": [
+      "Enterprise",
+      "Wall Street",
+      "Research"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Apollo",
+    "slug": "apollo",
+    "shortDescription": "AI powered sales intelligence and engagement.",
+    "description": "Apollo is a leading tool in the Marketing space. AI powered sales intelligence and engagement. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Sales.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://apollo.io",
+    "logo": "https://www.google.com/s2/favicons?domain=apollo.io&sz=128",
+    "tags": [
+      "Sales",
+      "Leads",
+      "Outreach"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Instantly",
+    "slug": "instantly",
+    "shortDescription": "Scale cold email outreach with unlimited accounts.",
+    "description": "Instantly is a leading tool in the Marketing space. Scale cold email outreach with unlimited accounts. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Email.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://instantly.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=instantly.ai&sz=128",
+    "tags": [
+      "Email",
+      "Cold Outreach",
+      "B2B"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Reply.io",
+    "slug": "reply-io",
+    "shortDescription": "AI sales engagement platform.",
+    "description": "Reply.io is a leading tool in the Marketing space. AI sales engagement platform. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Multichannel.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://reply.io",
+    "logo": "https://www.google.com/s2/favicons?domain=reply.io&sz=128",
+    "tags": [
+      "Multichannel",
+      "Sequences",
+      "Sales"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Taplio",
+    "slug": "taplio",
+    "shortDescription": "Grow your personal brand on LinkedIn with AI.",
+    "description": "Taplio is a leading tool in the Marketing space. Grow your personal brand on LinkedIn with AI. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage LinkedIn.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://taplio.com",
+    "logo": "https://www.google.com/s2/favicons?domain=taplio.com&sz=128",
+    "tags": [
+      "LinkedIn",
+      "Scheduling",
+      "Growth"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "TweetHunter",
+    "slug": "tweethunter",
+    "shortDescription": "Build and monetize your Twitter audience.",
+    "description": "TweetHunter is a leading tool in the Marketing space. Build and monetize your Twitter audience. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Twitter/X.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://tweethunter.io",
+    "logo": "https://www.google.com/s2/favicons?domain=tweethunter.io&sz=128",
+    "tags": [
+      "Twitter/X",
+      "Ghostwriting",
+      "Analytics"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Superhuman",
+    "slug": "superhuman",
+    "shortDescription": "The fastest email experience ever made, now with AI.",
+    "description": "Superhuman is a leading tool in the Productivity space. The fastest email experience ever made, now with AI. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Email.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://superhuman.com",
+    "logo": "https://www.google.com/s2/favicons?domain=superhuman.com&sz=128",
+    "tags": [
+      "Email",
+      "Speed",
+      "Workflow"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Arc Search",
+    "slug": "arc-search",
+    "shortDescription": "Browser that browses for you, summarizing pages.",
+    "description": "Arc Search is a leading tool in the Productivity space. Browser that browses for you, summarizing pages. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Mobile.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://arc.net",
+    "logo": "https://www.google.com/s2/favicons?domain=arc.net&sz=128",
+    "tags": [
+      "Mobile",
+      "Browser",
+      "Tabs"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Raycast",
+    "slug": "raycast",
+    "shortDescription": "Blazingly fast, totally extendable launcher.",
+    "description": "Raycast is a leading tool in the Productivity space. Blazingly fast, totally extendable launcher. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Mac.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://raycast.com",
+    "logo": "https://www.google.com/s2/favicons?domain=raycast.com&sz=128",
+    "tags": [
+      "Mac",
+      "Commands",
+      "AI Integration"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Mem",
+    "slug": "mem",
+    "shortDescription": "The AI workspace that organizes itself.",
+    "description": "Mem is a leading tool in the Productivity space. The AI workspace that organizes itself. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Notes.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://mem.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=mem.ai&sz=128",
+    "tags": [
+      "Notes",
+      "Self-organizing",
+      "Brain"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Taskade",
+    "slug": "taskade",
+    "shortDescription": "Build a team of AI agents for your workflows.",
+    "description": "Taskade is a leading tool in the Automation space. Build a team of AI agents for your workflows. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Tasks.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://taskade.com",
+    "logo": "https://www.google.com/s2/favicons?domain=taskade.com&sz=128",
+    "tags": [
+      "Tasks",
+      "Agents",
+      "Collaboration"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Bardeen",
+    "slug": "bardeen",
+    "shortDescription": "Automate repetitive tasks with one click.",
+    "description": "Bardeen is a leading tool in the Automation space. Automate repetitive tasks with one click. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Scraping.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://bardeen.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=bardeen.ai&sz=128",
+    "tags": [
+      "Scraping",
+      "Shortcuts",
+      "Integration"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "Browse AI",
+    "slug": "browse-ai",
+    "shortDescription": "Extract and monitor web data easily.",
+    "description": "Browse AI is a leading tool in the Automation space. Extract and monitor web data easily. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Scraping.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://browse.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=browse.ai&sz=128",
+    "tags": [
+      "Scraping",
+      "Monitoring",
+      "No-Code"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "AgentGPT",
+    "slug": "agentgpt",
+    "shortDescription": "Assemble, configure, and deploy autonomous AI Agents.",
+    "description": "AgentGPT is a leading tool in the Automation space. Assemble, configure, and deploy autonomous AI Agents. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Browser Agents.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://agentgpt.reworkd.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=agentgpt.reworkd.ai&sz=128",
+    "tags": [
+      "Browser Agents",
+      "Tasks",
+      "Goals"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "BabyAGI",
+    "slug": "babyagi",
+    "shortDescription": "An AI-powered task management system.",
+    "description": "BabyAGI is a leading tool in the Coding & Development space. An AI-powered task management system. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Open Source.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://github.com/yoheinakajima/babyagi",
+    "logo": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+    "tags": [
+      "Open Source",
+      "Autonomous",
+      "Scripts"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  },
+  {
+    "name": "AutoGPT",
+    "slug": "autogpt",
+    "shortDescription": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "description": "AutoGPT is a leading tool in the Coding & Development space. An experimental open-source attempt to make GPT-4 fully autonomous. Designed to optimize workflows and provide state-of-the-art AI capabilities, it is highly recommended for professionals looking to leverage Agents.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://agpt.co",
+    "logo": "https://www.google.com/s2/favicons?domain=agpt.co&sz=128",
+    "tags": [
+      "Agents",
+      "Local",
+      "Advanced"
+    ],
+    "features": [
+      "AI Integration",
+      "Cloud Sync",
+      "Analytics"
+    ],
+    "dateAdded": "4/6/2026"
+  }
+]

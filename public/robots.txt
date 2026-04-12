@@ -1,0 +1,6 @@
+# AI Kendra Sitemap
+
+User-agent: *
+Allow: /
+
+Sitemap: https://aikendra.com/sitemap.xml

@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEOLensAI — SEO, AEO & GEO Checker for Chrome</title>
+    <meta name="description" content="Check if your page is optimized for AI search engines. Instant SEO, AEO, and GEO scores with actionable fix recommendations. Free Chrome extension.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: #0a0a0f;
+            color: #e0e0e8;
+            line-height: 1.7;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 60px 20px 40px;
+            background: linear-gradient(135deg, rgba(79, 140, 255, 0.05), rgba(168, 85, 247, 0.05), rgba(16, 185, 129, 0.05));
+        }
+
+        .logo {
+            font-size: 36px;
+            font-weight: 800;
+            background: linear-gradient(135deg, #4f8cff, #a855f7, #10b981);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 4px;
+        }
+
+        .tagline {
+            font-size: 12px;
+            color: #666;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 24px;
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 12px;
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .hero-desc {
+            font-size: 15px;
+            color: #888;
+            max-width: 480px;
+            margin: 0 auto 28px;
+        }
+
+        .cta-btn {
+            display: inline-block;
+            padding: 14px 32px;
+            background: linear-gradient(135deg, #4f8cff, #a855f7);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 15px;
+            font-weight: 700;
+            text-decoration: none;
+            transition: opacity 0.2s, transform 0.2s;
+        }
+        .cta-btn:hover { opacity: 0.9; transform: translateY(-2px); }
+
+        .section {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        h2 {
+            font-size: 22px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        .feature-card {
+            padding: 20px;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 12px;
+        }
+
+        .feature-icon { font-size: 24px; margin-bottom: 8px; }
+        .feature-title { font-size: 14px; font-weight: 700; color: #fff; margin-bottom: 4px; }
+        .feature-desc { font-size: 12px; color: #888; }
+
+        .pricing {
+            text-align: center;
+            padding: 40px 20px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+        }
+
+        .price-cards {
+            display: flex;
+            gap: 16px;
+            max-width: 560px;
+            margin: 20px auto 0;
+        }
+
+        .price-card {
+            flex: 1;
+            padding: 24px;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 12px;
+            text-align: center;
+        }
+
+        .price-card.pro {
+            border-color: rgba(168, 85, 247, 0.3);
+            background: linear-gradient(135deg, rgba(168, 85, 247, 0.06), rgba(16, 185, 129, 0.06));
+        }
+
+        .plan-name { font-size: 16px; font-weight: 700; color: #fff; margin-bottom: 4px; }
+        .plan-price { font-size: 24px; font-weight: 800; color: #10b981; margin-bottom: 12px; }
+        .plan-price span { font-size: 13px; color: #666; font-weight: 400; }
+        .plan-features { font-size: 12px; color: #888; line-height: 2; text-align: left; }
+
+        .footer {
+            text-align: center;
+            padding: 24px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            font-size: 12px;
+            color: #444;
+        }
+        .footer a { color: #4f8cff; text-decoration: none; }
+        .footer a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <div class="logo">SEOLensAI</div>
+        <div class="tagline">SEO · AEO · GEO</div>
+        <h1>Is your page ready for AI search engines?</h1>
+        <p class="hero-desc">Scan any webpage and get instant scores for SEO, Answer Engine, and AI Citation readiness. 30 checks, actionable fixes, zero data collection.</p>
+        <a href="https://chrome.google.com/webstore/detail/seolensai" class="cta-btn">Add to Chrome — Free</a>
+    </div>
+
+    <div class="section">
+        <h2>What SEOLensAI Checks</h2>
+        <div class="features">
+            <div class="feature-card">
+                <div class="feature-icon">🔍</div>
+                <div class="feature-title">SEO (14 Checks)</div>
+                <div class="feature-desc">Title tags, meta descriptions, headings, images, links, schema markup, and more.</div>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">🤖</div>
+                <div class="feature-title">AEO (8 Checks)</div>
+                <div class="feature-desc">Answer blocks, FAQ schema, voice search readiness, featured snippet optimization.</div>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">🌐</div>
+                <div class="feature-title">GEO (8 Checks)</div>
+                <div class="feature-desc">AI citation readiness, entity clarity, source authority, structured claims.</div>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">📊</div>
+                <div class="feature-title">Instant Insights</div>
+                <div class="feature-desc">Top keywords, scan history with trends, one-click report copy, and shareable scores.</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="pricing">
+        <h2>Simple Pricing</h2>
+        <div class="price-cards">
+            <div class="price-card">
+                <div class="plan-name">Free</div>
+                <div class="plan-price">$0</div>
+                <div class="plan-features">
+                    ✅ All 8 GEO checks<br>
+                    ✅ AI readiness score<br>
+                    ✅ Top keywords<br>
+                    ✅ 3 scans per day<br>
+                    🔒 SEO & AEO locked
+                </div>
+            </div>
+            <div class="price-card pro">
+                <div class="plan-name">Pro</div>
+                <div class="plan-price">$9.99 <span>lifetime</span></div>
+                <div class="plan-features">
+                    ✅ All 30 checks<br>
+                    ✅ Unlimited scans<br>
+                    ✅ Copy report & history<br>
+                    ✅ Light theme<br>
+                    ✅ Full combined score
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        © 2026 SEOLensAI · <a href="privacy.html">Privacy Policy</a> · Built with ❤️ by <a href="https://aikendra.com">AIkendra</a>
+    </div>
+</body>
+</html>

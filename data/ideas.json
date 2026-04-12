@@ -1,0 +1,20 @@
+[
+  {
+    "title": "AI Resume Builder",
+    "slug": "ai-resume-builder",
+    "summary": "A SaaS tool that generates ATS-optimized resumes using AI.",
+    "difficulty": "Beginner",
+    "category": "Writing",
+    "tags": [],
+    "features": []
+  },
+  {
+    "title": "Autonomous AI Dev Agency",
+    "slug": "auto-dev-agency",
+    "summary": "An agency model using advanced coding agents to build products.",
+    "difficulty": "Advanced",
+    "category": "Coding",
+    "tags": [],
+    "features": []
+  }
+]
