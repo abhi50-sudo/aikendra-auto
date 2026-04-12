@@ -1,0 +1,17 @@
+{
+  "name": "ai-kendra",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/fetchData.js && vite build && node scripts/generateStatic.js",
+    "preview": "vite preview",
+    "scrape": "python scripts/run_daily_pipeline.py",
+    "deploy": "npx wrangler pages deploy dist --project-name aikendra"
+  },
+  "devDependencies": {
+    "csv-parse": "^6.2.1",
+    "vite": "^8.0.0"
+  }
+}

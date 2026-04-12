@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Kendra — Discover AI Tools & Startup Ideas</title>
+  <meta name="description" content="AI Kendra is your central hub to discover the best AI tools and explore startup ideas powered by artificial intelligence." />
+  <meta name="keywords" content="AI tools, AI startup ideas, artificial intelligence, AI directory, AI hub" />
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="AI Kendra" />
+  <meta property="og:title" content="AI Kendra — Discover AI Tools & Startup Ideas" />
+  <meta property="og:description" content="Your central hub to discover the best AI tools and explore startup ideas powered by artificial intelligence." />
+  <meta property="og:url" content="https://aikendra.com" />
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="AI Kendra — Discover AI Tools & Startup Ideas" />
+  <meta name="twitter:description" content="Your central hub to discover the best AI tools and explore startup ideas powered by artificial intelligence." />
+  <!-- Canonical -->
+  <link rel="canonical" href="https://aikendra.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="/" class="nav-logo" data-link>
+        <span class="logo-icon">◆</span>
+        <span class="logo-text">AI Kendra</span>
+      </a>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="/ai-tools" data-link>AI Tools</a></li>
+        <li><a href="/startup-ideas" data-link>Startup Ideas</a></li>
+        <li><a href="/submit" data-link>Submit</a></li>
+        <li><a href="/about" data-link>About</a></li>
+      </ul>
+      <div class="nav-actions">
+        <button class="nav-icon-btn" id="searchToggle" aria-label="Search">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        </button>
+        <button class="nav-icon-btn" id="themeToggle" aria-label="Toggle theme">
+          <svg class="icon-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+          <svg class="icon-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+        <a href="/submit" class="btn btn-primary btn-sm nav-submit-btn" data-link>Submit Tool</a>
+        <button class="hamburger" id="hamburger" aria-label="Menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+    <!-- Global Search Overlay -->
+    <div class="search-overlay" id="searchOverlay">
+      <div class="search-overlay-inner">
+        <input type="text" id="globalSearch" placeholder="Search AI tools and ideas..." autocomplete="off" />
+        <button class="search-close" id="searchClose" aria-label="Close search">✕</button>
+      </div>
+      <div class="search-results" id="globalSearchResults"></div>
+    </div>
+  </nav>
+
+  <!-- Main content -->
+  <main id="app"></main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-col footer-brand">
+          <a href="/" class="footer-logo" data-link>
+            <span class="logo-icon">◆</span> AI Kendra
+          </a>
+          <p>Your central hub to discover the best AI tools and explore startup ideas powered by artificial intelligence.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Directory</h4>
+          <ul>
+            <li><a href="/ai-tools" data-link>AI Tools</a></li>
+            <li><a href="/startup-ideas" data-link>Startup Ideas</a></li>
+            <li><a href="/submit" data-link>Submit Tool</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Company</h4>
+          <ul>
+            <li><a href="/about" data-link>About</a></li>
+            <li><a href="/contact" data-link>Contact</a></li>
+            <li><a href="/privacy" data-link>Privacy Policy</a></li>
+            <li><a href="/terms" data-link>Terms of Service</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Connect</h4>
+          <div class="footer-social">
+            <a href="#" aria-label="Twitter" class="social-link">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            <a href="#" aria-label="GitHub" class="social-link">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>© 2026 AI Kendra. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script type="module" src="/main.js"></script>
+</body>
+</html>
