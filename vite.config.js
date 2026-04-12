@@ -1,9 +1,7 @@
 import { defineConfig } from 'vite';
 
-import { cloudflare } from "@cloudflare/vite-plugin";
-
 export default defineConfig({
-  plugins: [cloudflare()],
+  plugins: [],
   // SPA fallback — serve index.html for all routes
   appType: 'spa',
   server: {
