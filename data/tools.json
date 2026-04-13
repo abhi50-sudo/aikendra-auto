@@ -39,7 +39,8 @@
       "One-Click Deploy"
     ],
     "dateAdded": "01/16/2026",
-    "logo": "https://www.google.com/s2/favicons?domain=bolt.new&sz=128"
+    "logo": "https://www.google.com/s2/favicons?domain=bolt.new&sz=128",
+    "featured": true
   },
   {
     "name": "Vercel v0",
@@ -123,7 +124,8 @@
       "File Upload",
       "Inline Citations"
     ],
-    "dateAdded": "04/12/2026"
+    "dateAdded": "04/12/2026",
+    "featured": true
   },
   {
     "name": "Midjourney V6",
@@ -186,7 +188,8 @@
       "Custom Lyrics",
       "Radio Quality"
     ],
-    "dateAdded": "4/5/2026"
+    "dateAdded": "4/5/2026",
+    "featured": true
   },
   {
     "name": "Cursor IDE",
@@ -294,7 +297,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Gamma",
@@ -443,7 +447,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Copy.ai",
@@ -464,7 +469,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Jasper",
@@ -485,7 +491,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "DeepL",
@@ -592,7 +599,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Replicate",
@@ -718,7 +726,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Magnific AI",
@@ -781,7 +790,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Udio",
@@ -865,7 +875,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Fireflies.ai",
@@ -928,7 +939,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Beautiful.ai",
@@ -1245,7 +1257,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Elicit",
@@ -1266,7 +1279,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "ChatPDF",
@@ -1581,7 +1595,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "AlphaSense",
@@ -1602,7 +1617,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Apollo",
@@ -1623,7 +1639,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Instantly",
@@ -1644,7 +1661,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Reply.io",
@@ -1833,7 +1851,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Browse AI",
@@ -1917,7 +1936,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Grammarly",
@@ -1934,7 +1954,8 @@
     ],
     "features": [],
     "dateAdded": "01/30/2026",
-    "description": "AI writing assistant for grammar, tone, and clarity."
+    "description": "AI writing assistant for grammar, tone, and clarity.",
+    "featured": true
   },
   {
     "name": "Copy.ai",
@@ -2687,7 +2708,8 @@
     ],
     "features": [],
     "dateAdded": "02/16/2026",
-    "description": "OpenAI's AI image generation integrated with ChatGPT."
+    "description": "OpenAI's AI image generation integrated with ChatGPT.",
+    "featured": true
   },
   {
     "name": "Ideogram",
@@ -2703,7 +2725,8 @@
     ],
     "features": [],
     "dateAdded": "01/19/2026",
-    "description": "AI image generation with best-in-class text rendering."
+    "description": "AI image generation with best-in-class text rendering.",
+    "featured": true
   },
   {
     "name": "Flux AI",
@@ -5485,7 +5508,8 @@
     ],
     "features": [],
     "dateAdded": "03/26/2026",
-    "description": "AI-powered CRM and marketing platform."
+    "description": "AI-powered CRM and marketing platform.",
+    "featured": true
   },
   {
     "name": "Mailchimp AI",
@@ -5725,7 +5749,8 @@
     ],
     "features": [],
     "dateAdded": "02/16/2026",
-    "description": "AI-powered SEO and marketing toolkit."
+    "description": "AI-powered SEO and marketing toolkit.",
+    "featured": true
   },
   {
     "name": "Ahrefs",
@@ -5980,7 +6005,8 @@
     ],
     "features": [],
     "dateAdded": "02/13/2026",
-    "description": "AI ad creative generation."
+    "description": "AI ad creative generation.",
+    "featured": true
   },
   {
     "name": "Pencil AI",
@@ -6284,7 +6310,8 @@
     ],
     "features": [],
     "dateAdded": "04/13/2026",
-    "description": "Google's AI research and notes assistant."
+    "description": "Google's AI research and notes assistant.",
+    "featured": true
   },
   {
     "name": "Humata",
@@ -6508,7 +6535,8 @@
     ],
     "features": [],
     "dateAdded": "03/01/2026",
-    "description": "AI-powered app automation platform."
+    "description": "AI-powered app automation platform.",
+    "featured": true
   },
   {
     "name": "n8n",
@@ -6892,7 +6920,8 @@
     ],
     "features": [],
     "dateAdded": "03/26/2026",
-    "description": "AI corporate card and expense management."
+    "description": "AI corporate card and expense management.",
+    "featured": true
   },
   {
     "name": "Brex",
@@ -7036,7 +7065,8 @@
     ],
     "features": [],
     "dateAdded": "03/09/2026",
-    "description": "AI payment processing infrastructure."
+    "description": "AI payment processing infrastructure.",
+    "featured": true
   },
   {
     "name": "Kensho",
@@ -7228,7 +7258,8 @@
     ],
     "features": [],
     "dateAdded": "03/09/2026",
-    "description": "AI charting and trading platform."
+    "description": "AI charting and trading platform.",
+    "featured": true
   },
   {
     "name": "Kavout",
@@ -7325,5 +7356,4910 @@
     "features": [],
     "dateAdded": "01/28/2026",
     "description": "AI analytics platform for enterprise."
+  },
+  {
+    "name": "Writerly",
+    "slug": "writerly",
+    "shortDescription": "AI content platform for enterprise brands.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://writerly.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=writerly.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/15/2026",
+    "description": "AI content platform for enterprise brands."
+  },
+  {
+    "name": "Aiseo",
+    "slug": "aiseo",
+    "shortDescription": "AI SEO-focused content writer.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://aiseo.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=aiseo.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/05/2026",
+    "description": "AI SEO-focused content writer."
+  },
+  {
+    "name": "Longshot AI",
+    "slug": "longshot-ai",
+    "shortDescription": "AI fact-checked long-form content writer.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://longshot.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=longshot.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "04/12/2026",
+    "description": "AI fact-checked long-form content writer."
+  },
+  {
+    "name": "Bramework",
+    "slug": "bramework",
+    "shortDescription": "AI blog writing assistant for bloggers.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://bramework.com",
+    "logo": "https://www.google.com/s2/favicons?domain=bramework.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/22/2026",
+    "description": "AI blog writing assistant for bloggers."
+  },
+  {
+    "name": "Reword",
+    "slug": "reword",
+    "shortDescription": "AI collaborative article editor.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://reword.co",
+    "logo": "https://www.google.com/s2/favicons?domain=reword.co&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/30/2026",
+    "description": "AI collaborative article editor."
+  },
+  {
+    "name": "Friday AI",
+    "slug": "friday-ai",
+    "shortDescription": "AI email and writing assistant.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://friday.app",
+    "logo": "https://www.google.com/s2/favicons?domain=friday.app&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/06/2026",
+    "description": "AI email and writing assistant."
+  },
+  {
+    "name": "TextCortex",
+    "slug": "textcortex",
+    "shortDescription": "AI content generator and rewriter.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://textcortex.com",
+    "logo": "https://www.google.com/s2/favicons?domain=textcortex.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "01/20/2026",
+    "description": "AI content generator and rewriter."
+  },
+  {
+    "name": "Shortly AI",
+    "slug": "shortly-ai",
+    "shortDescription": "AI-powered long-form writing assistant.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://shortlyai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=shortlyai.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/15/2026",
+    "description": "AI-powered long-form writing assistant."
+  },
+  {
+    "name": "Writecream",
+    "slug": "writecream",
+    "shortDescription": "AI content, voice, and chatbot platform.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://writecream.com",
+    "logo": "https://www.google.com/s2/favicons?domain=writecream.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/24/2026",
+    "description": "AI content, voice, and chatbot platform."
+  },
+  {
+    "name": "Creaitor AI",
+    "slug": "creaitor-ai",
+    "shortDescription": "AI content creation for SEO.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://creaitor.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=creaitor.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/29/2026",
+    "description": "AI content creation for SEO."
+  },
+  {
+    "name": "Wordhero",
+    "slug": "wordhero",
+    "shortDescription": "AI content generator with 70+ tools.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://wordhero.co",
+    "logo": "https://www.google.com/s2/favicons?domain=wordhero.co&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/19/2026",
+    "description": "AI content generator with 70+ tools."
+  },
+  {
+    "name": "Nichesss",
+    "slug": "nichesss",
+    "shortDescription": "AI content ideas and generator.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://nichesss.com",
+    "logo": "https://www.google.com/s2/favicons?domain=nichesss.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/03/2026",
+    "description": "AI content ideas and generator."
+  },
+  {
+    "name": "Autoblogging AI",
+    "slug": "autoblogging-ai",
+    "shortDescription": "AI automated blog post generation.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://autoblogging.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=autoblogging.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "01/22/2026",
+    "description": "AI automated blog post generation."
+  },
+  {
+    "name": "SEO AI",
+    "slug": "seo-ai",
+    "shortDescription": "AI SEO content optimization.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://seo.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=seo.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/29/2026",
+    "description": "AI SEO content optimization."
+  },
+  {
+    "name": "Dashword",
+    "slug": "dashword",
+    "shortDescription": "AI content optimization for SEO teams.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://dashword.com",
+    "logo": "https://www.google.com/s2/favicons?domain=dashword.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/31/2026",
+    "description": "AI content optimization for SEO teams."
+  },
+  {
+    "name": "GrowthBar",
+    "slug": "growthbar",
+    "shortDescription": "AI SEO tool with blog writer.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://growthbarseo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=growthbarseo.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/15/2026",
+    "description": "AI SEO tool with blog writer."
+  },
+  {
+    "name": "Neuraltext",
+    "slug": "neuraltext",
+    "shortDescription": "AI content writing and SEO tool.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://neuraltext.com",
+    "logo": "https://www.google.com/s2/favicons?domain=neuraltext.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/05/2026",
+    "description": "AI content writing and SEO tool."
+  },
+  {
+    "name": "Rightblogger",
+    "slug": "rightblogger",
+    "shortDescription": "AI blogging tools for content creators.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://rightblogger.com",
+    "logo": "https://www.google.com/s2/favicons?domain=rightblogger.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/14/2026",
+    "description": "AI blogging tools for content creators."
+  },
+  {
+    "name": "Blog NLP",
+    "slug": "blog-nlp",
+    "shortDescription": "AI blog content analysis tool.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://blognlp.com",
+    "logo": "https://www.google.com/s2/favicons?domain=blognlp.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/20/2026",
+    "description": "AI blog content analysis tool."
+  },
+  {
+    "name": "ContentShake",
+    "slug": "contentshake",
+    "shortDescription": "AI content creation by Semrush.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://contentshake.com",
+    "logo": "https://www.google.com/s2/favicons?domain=contentshake.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/08/2026",
+    "description": "AI content creation by Semrush."
+  },
+  {
+    "name": "Eilla AI",
+    "slug": "eilla-ai",
+    "shortDescription": "AI content creation for marketing.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://eilla.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=eilla.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/19/2026",
+    "description": "AI content creation for marketing."
+  },
+  {
+    "name": "Mark Copy AI",
+    "slug": "mark-copy-ai",
+    "shortDescription": "AI brand-aligned content generator.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://markcopy.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=markcopy.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/11/2026",
+    "description": "AI brand-aligned content generator."
+  },
+  {
+    "name": "WiziShop",
+    "slug": "wizishop",
+    "shortDescription": "AI ecommerce content generator.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://wizishop.com",
+    "logo": "https://www.google.com/s2/favicons?domain=wizishop.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/26/2026",
+    "description": "AI ecommerce content generator."
+  },
+  {
+    "name": "Describely",
+    "slug": "describely",
+    "shortDescription": "AI product description generator.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://describely.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=describely.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "01/29/2026",
+    "description": "AI product description generator."
+  },
+  {
+    "name": "Yaara AI",
+    "slug": "yaara-ai",
+    "shortDescription": "AI writing assistant for businesses.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://yaara.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=yaara.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "01/16/2026",
+    "description": "AI writing assistant for businesses."
+  },
+  {
+    "name": "Craftly AI",
+    "slug": "craftly-ai",
+    "shortDescription": "AI brand voice content creation.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://craftly.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=craftly.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "02/22/2026",
+    "description": "AI brand voice content creation."
+  },
+  {
+    "name": "HeadlinesAI",
+    "slug": "headlinesai",
+    "shortDescription": "AI headline generator for content.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://headlinesai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=headlinesai.com&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/16/2026",
+    "description": "AI headline generator for content."
+  },
+  {
+    "name": "SmartWriter",
+    "slug": "smartwriter",
+    "shortDescription": "AI personalized email writer.",
+    "category": "Writing",
+    "pricing": "Paid",
+    "website": "https://smartwriter.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=smartwriter.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/13/2026",
+    "description": "AI personalized email writer."
+  },
+  {
+    "name": "PostNitro",
+    "slug": "postnitro",
+    "shortDescription": "AI carousel post generator.",
+    "category": "Writing",
+    "pricing": "Freemium",
+    "website": "https://postnitro.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=postnitro.ai&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "03/15/2026",
+    "description": "AI carousel post generator."
+  },
+  {
+    "name": "Editpad",
+    "slug": "editpad",
+    "shortDescription": "AI text editor and paraphrasing tool.",
+    "category": "Writing",
+    "pricing": "Free",
+    "website": "https://editpad.org",
+    "logo": "https://www.google.com/s2/favicons?domain=editpad.org&sz=128",
+    "tags": [
+      "Writing"
+    ],
+    "features": [],
+    "dateAdded": "04/01/2026",
+    "description": "AI text editor and paraphrasing tool."
+  },
+  {
+    "name": "Tensorart",
+    "slug": "tensorart",
+    "shortDescription": "AI image generation community platform.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://tensor.art",
+    "logo": "https://www.google.com/s2/favicons?domain=tensor.art&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "02/12/2026",
+    "description": "AI image generation community platform."
+  },
+  {
+    "name": "Civitai",
+    "slug": "civitai",
+    "shortDescription": "Community hub for AI image models.",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "website": "https://civitai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=civitai.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/29/2026",
+    "description": "Community hub for AI image models."
+  },
+  {
+    "name": "Mage Space",
+    "slug": "mage-space",
+    "shortDescription": "Free unlimited AI image generation.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://mage.space",
+    "logo": "https://www.google.com/s2/favicons?domain=mage.space&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "02/05/2026",
+    "description": "Free unlimited AI image generation."
+  },
+  {
+    "name": "Dreamlike Art",
+    "slug": "dreamlike-art",
+    "shortDescription": "AI image generator with multiple models.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://dreamlike.art",
+    "logo": "https://www.google.com/s2/favicons?domain=dreamlike.art&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/03/2026",
+    "description": "AI image generator with multiple models."
+  },
+  {
+    "name": "Openart AI",
+    "slug": "openart-ai",
+    "shortDescription": "AI art search and generation.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://openart.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=openart.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/17/2026",
+    "description": "AI art search and generation."
+  },
+  {
+    "name": "PromptHero",
+    "slug": "prompthero",
+    "shortDescription": "AI art prompt search engine.",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "website": "https://prompthero.com",
+    "logo": "https://www.google.com/s2/favicons?domain=prompthero.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/27/2026",
+    "description": "AI art prompt search engine."
+  },
+  {
+    "name": "Lexica Art",
+    "slug": "lexica-art",
+    "shortDescription": "AI image search and generation engine.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://lexica.art",
+    "logo": "https://www.google.com/s2/favicons?domain=lexica.art&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "04/13/2026",
+    "description": "AI image search and generation engine."
+  },
+  {
+    "name": "Bing Image Creator",
+    "slug": "bing-image-creator",
+    "shortDescription": "Free AI image generation by Microsoft.",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "website": "https://bing.com/images/create",
+    "logo": "https://www.google.com/s2/favicons?domain=bing.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "02/12/2026",
+    "description": "Free AI image generation by Microsoft."
+  },
+  {
+    "name": "Meta AI Imagine",
+    "slug": "meta-ai-imagine",
+    "shortDescription": "Meta's free AI image generator.",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "website": "https://imagine.meta.com",
+    "logo": "https://www.google.com/s2/favicons?domain=imagine.meta.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/29/2026",
+    "description": "Meta's free AI image generator."
+  },
+  {
+    "name": "Grok Image Gen",
+    "slug": "grok-image-gen",
+    "shortDescription": "xAI's image generation via Grok.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://grok.x.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=grok.x.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/07/2026",
+    "description": "xAI's image generation via Grok."
+  },
+  {
+    "name": "Dzine AI",
+    "slug": "dzine-ai",
+    "shortDescription": "AI graphic design platform.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://dzine.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=dzine.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "04/02/2026",
+    "description": "AI graphic design platform."
+  },
+  {
+    "name": "Autodraw",
+    "slug": "autodraw",
+    "shortDescription": "AI quick drawing tool by Google.",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "website": "https://autodraw.com",
+    "logo": "https://www.google.com/s2/favicons?domain=autodraw.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/14/2026",
+    "description": "AI quick drawing tool by Google."
+  },
+  {
+    "name": "Deep Art Effects",
+    "slug": "deep-art-effects",
+    "shortDescription": "AI artistic style transfer.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://deeparteffects.com",
+    "logo": "https://www.google.com/s2/favicons?domain=deeparteffects.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/25/2026",
+    "description": "AI artistic style transfer."
+  },
+  {
+    "name": "GoArt",
+    "slug": "goart",
+    "shortDescription": "AI art style transfer and filters.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://goart.fotor.com",
+    "logo": "https://www.google.com/s2/favicons?domain=goart.fotor.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "02/27/2026",
+    "description": "AI art style transfer and filters."
+  },
+  {
+    "name": "Neural Style",
+    "slug": "neural-style",
+    "shortDescription": "AI artistic neural style transfer.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://neuralstyle.art",
+    "logo": "https://www.google.com/s2/favicons?domain=neuralstyle.art&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/15/2026",
+    "description": "AI artistic neural style transfer."
+  },
+  {
+    "name": "RunDiffusion",
+    "slug": "rundiffusion",
+    "shortDescription": "Cloud GPU for Stable Diffusion.",
+    "category": "Image Generation",
+    "pricing": "Pay-per-use",
+    "website": "https://rundiffusion.com",
+    "logo": "https://www.google.com/s2/favicons?domain=rundiffusion.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/09/2026",
+    "description": "Cloud GPU for Stable Diffusion."
+  },
+  {
+    "name": "ThinkDiffusion",
+    "slug": "thinkdiffusion",
+    "shortDescription": "Browser-based Stable Diffusion.",
+    "category": "Image Generation",
+    "pricing": "Pay-per-use",
+    "website": "https://thinkdiffusion.com",
+    "logo": "https://www.google.com/s2/favicons?domain=thinkdiffusion.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "04/10/2026",
+    "description": "Browser-based Stable Diffusion."
+  },
+  {
+    "name": "PixAI Art",
+    "slug": "pixai-art",
+    "shortDescription": "Anime AI art generation.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://pixai.art",
+    "logo": "https://www.google.com/s2/favicons?domain=pixai.art&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/24/2026",
+    "description": "Anime AI art generation."
+  },
+  {
+    "name": "Yodayo",
+    "slug": "yodayo",
+    "shortDescription": "AI anime image generation platform.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://yodayo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=yodayo.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "02/22/2026",
+    "description": "AI anime image generation platform."
+  },
+  {
+    "name": "SeaArt",
+    "slug": "seaart",
+    "shortDescription": "AI art generation community.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://seaart.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=seaart.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/25/2026",
+    "description": "AI art generation community."
+  },
+  {
+    "name": "Picfinder",
+    "slug": "picfinder",
+    "shortDescription": "AI image search and generation.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://picfinder.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=picfinder.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/01/2026",
+    "description": "AI image search and generation."
+  },
+  {
+    "name": "Stock AI",
+    "slug": "stock-ai",
+    "shortDescription": "AI-generated stock photos.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://stockai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=stockai.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "02/12/2026",
+    "description": "AI-generated stock photos."
+  },
+  {
+    "name": "Stockimg AI",
+    "slug": "stockimg-ai",
+    "shortDescription": "AI stock image generation.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://stockimg.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=stockimg.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "04/01/2026",
+    "description": "AI stock image generation."
+  },
+  {
+    "name": "Freepik AI",
+    "slug": "freepik-ai",
+    "shortDescription": "AI image generator by Freepik.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://freepik.com/ai",
+    "logo": "https://www.google.com/s2/favicons?domain=freepik.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/16/2026",
+    "description": "AI image generator by Freepik."
+  },
+  {
+    "name": "Phot.AI",
+    "slug": "photai",
+    "shortDescription": "AI photo editing and generation.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://phot.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=phot.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "04/03/2026",
+    "description": "AI photo editing and generation."
+  },
+  {
+    "name": "DeepArt.io",
+    "slug": "deepartio",
+    "shortDescription": "AI art and style transfer.",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "website": "https://deepart.io",
+    "logo": "https://www.google.com/s2/favicons?domain=deepart.io&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/15/2026",
+    "description": "AI art and style transfer."
+  },
+  {
+    "name": "Artguru",
+    "slug": "artguru",
+    "shortDescription": "Free AI art generator online.",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "website": "https://artguru.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=artguru.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/21/2026",
+    "description": "Free AI art generator online."
+  },
+  {
+    "name": "Neural Love",
+    "slug": "neural-love",
+    "shortDescription": "AI image enhancement and generation.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://neural.love",
+    "logo": "https://www.google.com/s2/favicons?domain=neural.love&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/21/2026",
+    "description": "AI image enhancement and generation."
+  },
+  {
+    "name": "Imgupscaler",
+    "slug": "imgupscaler",
+    "shortDescription": "AI image upscaling tool.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://imgupscaler.com",
+    "logo": "https://www.google.com/s2/favicons?domain=imgupscaler.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/15/2026",
+    "description": "AI image upscaling tool."
+  },
+  {
+    "name": "Upscale Media",
+    "slug": "upscale-media",
+    "shortDescription": "AI image upscaling by PixelBin.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://upscale.media",
+    "logo": "https://www.google.com/s2/favicons?domain=upscale.media&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "02/24/2026",
+    "description": "AI image upscaling by PixelBin."
+  },
+  {
+    "name": "Face Generator",
+    "slug": "face-generator",
+    "shortDescription": "AI realistic face generation.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://generated.photos",
+    "logo": "https://www.google.com/s2/favicons?domain=generated.photos&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/25/2026",
+    "description": "AI realistic face generation."
+  },
+  {
+    "name": "This Person Does Not Exist",
+    "slug": "this-person-does-not-exist",
+    "shortDescription": "AI-generated realistic faces.",
+    "category": "Image Generation",
+    "pricing": "Free",
+    "website": "https://thispersondoesnotexist.com",
+    "logo": "https://www.google.com/s2/favicons?domain=thispersondoesnotexist.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/15/2026",
+    "description": "AI-generated realistic faces."
+  },
+  {
+    "name": "Profile Picture AI",
+    "slug": "profile-picture-ai",
+    "shortDescription": "AI professional headshot generator.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://pfpmaker.com",
+    "logo": "https://www.google.com/s2/favicons?domain=pfpmaker.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/30/2026",
+    "description": "AI professional headshot generator."
+  },
+  {
+    "name": "HeadshotPro",
+    "slug": "headshotpro",
+    "shortDescription": "AI professional headshot photos.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://headshotpro.com",
+    "logo": "https://www.google.com/s2/favicons?domain=headshotpro.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "04/01/2026",
+    "description": "AI professional headshot photos."
+  },
+  {
+    "name": "Aragon AI",
+    "slug": "aragon-ai",
+    "shortDescription": "AI professional headshots in minutes.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://aragon.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=aragon.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/27/2026",
+    "description": "AI professional headshots in minutes."
+  },
+  {
+    "name": "BetterPic",
+    "slug": "betterpic",
+    "shortDescription": "AI corporate headshots.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://betterpic.io",
+    "logo": "https://www.google.com/s2/favicons?domain=betterpic.io&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/21/2026",
+    "description": "AI corporate headshots."
+  },
+  {
+    "name": "AI Headshot Generator",
+    "slug": "ai-headshot-generator",
+    "shortDescription": "AI business headshot creation.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://aiheadshots.com",
+    "logo": "https://www.google.com/s2/favicons?domain=aiheadshots.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "02/05/2026",
+    "description": "AI business headshot creation."
+  },
+  {
+    "name": "Interior AI",
+    "slug": "interior-ai",
+    "shortDescription": "AI interior design visualization.",
+    "category": "Image Generation",
+    "pricing": "Paid",
+    "website": "https://interiorai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=interiorai.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "03/24/2026",
+    "description": "AI interior design visualization."
+  },
+  {
+    "name": "Reimagine Home",
+    "slug": "reimagine-home",
+    "shortDescription": "AI home redesign and staging.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://reimaginehome.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=reimaginehome.ai&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "01/25/2026",
+    "description": "AI home redesign and staging."
+  },
+  {
+    "name": "Planner 5D",
+    "slug": "planner-5d",
+    "shortDescription": "AI interior design planner.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://planner5d.com",
+    "logo": "https://www.google.com/s2/favicons?domain=planner5d.com&sz=128",
+    "tags": [
+      "Image Generation"
+    ],
+    "features": [],
+    "dateAdded": "02/26/2026",
+    "description": "AI interior design planner."
+  },
+  {
+    "name": "Runway Gen-3",
+    "slug": "runway-gen-3",
+    "shortDescription": "Latest Runway AI video generation model.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://runwayml.com",
+    "logo": "https://www.google.com/s2/favicons?domain=runwayml.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/07/2026",
+    "description": "Latest Runway AI video generation model."
+  },
+  {
+    "name": "Genmo",
+    "slug": "genmo",
+    "shortDescription": "AI video generation from text and images.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://genmo.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=genmo.ai&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/15/2026",
+    "description": "AI video generation from text and images."
+  },
+  {
+    "name": "Neural Frames",
+    "slug": "neural-frames",
+    "shortDescription": "AI music video generation.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://neuralframes.com",
+    "logo": "https://www.google.com/s2/favicons?domain=neuralframes.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "01/13/2026",
+    "description": "AI music video generation."
+  },
+  {
+    "name": "Haiper",
+    "slug": "haiper",
+    "shortDescription": "AI video creation with motion control.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://haiper.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=haiper.ai&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "01/21/2026",
+    "description": "AI video creation with motion control."
+  },
+  {
+    "name": "Morph Studio",
+    "slug": "morph-studio",
+    "shortDescription": "AI cinematic video generation.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://morphstudio.com",
+    "logo": "https://www.google.com/s2/favicons?domain=morphstudio.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "03/21/2026",
+    "description": "AI cinematic video generation."
+  },
+  {
+    "name": "PixVerse",
+    "slug": "pixverse",
+    "shortDescription": "AI video creation from text and images.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://pixverse.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=pixverse.ai&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "01/19/2026",
+    "description": "AI video creation from text and images."
+  },
+  {
+    "name": "Stable Video",
+    "slug": "stable-video",
+    "shortDescription": "Stability AI's video generation model.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://stablevideo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=stablevideo.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/15/2026",
+    "description": "Stability AI's video generation model."
+  },
+  {
+    "name": "Modelscope",
+    "slug": "modelscope",
+    "shortDescription": "AI text-to-video generation.",
+    "category": "Video Creation",
+    "pricing": "Free",
+    "website": "https://modelscope.cn",
+    "logo": "https://www.google.com/s2/favicons?domain=modelscope.cn&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/16/2026",
+    "description": "AI text-to-video generation."
+  },
+  {
+    "name": "Deforum",
+    "slug": "deforum",
+    "shortDescription": "AI video animation from text prompts.",
+    "category": "Video Creation",
+    "pricing": "Open Source",
+    "website": "https://deforum.github.io",
+    "logo": "https://www.google.com/s2/favicons?domain=deforum.github.io&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/23/2026",
+    "description": "AI video animation from text prompts."
+  },
+  {
+    "name": "Biteable",
+    "slug": "biteable",
+    "shortDescription": "AI video maker for social media.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://biteable.com",
+    "logo": "https://www.google.com/s2/favicons?domain=biteable.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "03/03/2026",
+    "description": "AI video maker for social media."
+  },
+  {
+    "name": "Powtoon",
+    "slug": "powtoon",
+    "shortDescription": "AI animated video and presentation maker.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://powtoon.com",
+    "logo": "https://www.google.com/s2/favicons?domain=powtoon.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/26/2026",
+    "description": "AI animated video and presentation maker."
+  },
+  {
+    "name": "Renderforest",
+    "slug": "renderforest",
+    "shortDescription": "AI video and animation maker.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://renderforest.com",
+    "logo": "https://www.google.com/s2/favicons?domain=renderforest.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "01/29/2026",
+    "description": "AI video and animation maker."
+  },
+  {
+    "name": "FlexClip",
+    "slug": "flexclip",
+    "shortDescription": "AI online video editor.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://flexclip.com",
+    "logo": "https://www.google.com/s2/favicons?domain=flexclip.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "03/22/2026",
+    "description": "AI online video editor."
+  },
+  {
+    "name": "Clipchamp",
+    "slug": "clipchamp",
+    "shortDescription": "Microsoft's AI video editor.",
+    "category": "Video Creation",
+    "pricing": "Free",
+    "website": "https://clipchamp.com",
+    "logo": "https://www.google.com/s2/favicons?domain=clipchamp.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "01/21/2026",
+    "description": "Microsoft's AI video editor."
+  },
+  {
+    "name": "WeVideo",
+    "slug": "wevideo",
+    "shortDescription": "AI cloud-based video editor.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://wevideo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=wevideo.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "03/01/2026",
+    "description": "AI cloud-based video editor."
+  },
+  {
+    "name": "Clideo",
+    "slug": "clideo",
+    "shortDescription": "AI online video editing tools.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://clideo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=clideo.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "03/12/2026",
+    "description": "AI online video editing tools."
+  },
+  {
+    "name": "Videowise",
+    "slug": "videowise",
+    "shortDescription": "AI shoppable video platform.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://videowise.com",
+    "logo": "https://www.google.com/s2/favicons?domain=videowise.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "01/22/2026",
+    "description": "AI shoppable video platform."
+  },
+  {
+    "name": "Sendspark",
+    "slug": "sendspark",
+    "shortDescription": "AI personalized video messaging.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://sendspark.com",
+    "logo": "https://www.google.com/s2/favicons?domain=sendspark.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/01/2026",
+    "description": "AI personalized video messaging."
+  },
+  {
+    "name": "Hippo Video",
+    "slug": "hippo-video",
+    "shortDescription": "AI video for sales and marketing.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://hippovideo.io",
+    "logo": "https://www.google.com/s2/favicons?domain=hippovideo.io&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/26/2026",
+    "description": "AI video for sales and marketing."
+  },
+  {
+    "name": "Colossyan Creator",
+    "slug": "colossyan-creator",
+    "shortDescription": "AI training video platform.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://colossyan.com",
+    "logo": "https://www.google.com/s2/favicons?domain=colossyan.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "01/21/2026",
+    "description": "AI training video platform."
+  },
+  {
+    "name": "Hour One",
+    "slug": "hour-one",
+    "shortDescription": "AI virtual presenter videos.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://hourone.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=hourone.ai&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "01/26/2026",
+    "description": "AI virtual presenter videos."
+  },
+  {
+    "name": "Yepic",
+    "slug": "yepic",
+    "shortDescription": "AI talking head video platform.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://yepic.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=yepic.ai&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "03/03/2026",
+    "description": "AI talking head video platform."
+  },
+  {
+    "name": "Rephrase AI",
+    "slug": "rephrase-ai",
+    "shortDescription": "AI video personalization at scale.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://rephrase.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=rephrase.ai&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "03/28/2026",
+    "description": "AI video personalization at scale."
+  },
+  {
+    "name": "Woxo",
+    "slug": "woxo",
+    "shortDescription": "AI video creation from text in seconds.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://woxo.tech",
+    "logo": "https://www.google.com/s2/favicons?domain=woxo.tech&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "03/09/2026",
+    "description": "AI video creation from text in seconds."
+  },
+  {
+    "name": "Rawshorts",
+    "slug": "rawshorts",
+    "shortDescription": "AI animated video maker.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://rawshorts.com",
+    "logo": "https://www.google.com/s2/favicons?domain=rawshorts.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/01/2026",
+    "description": "AI animated video maker."
+  },
+  {
+    "name": "Designs AI Video",
+    "slug": "designs-ai-video",
+    "shortDescription": "AI video creation suite.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://designs.ai/videomaker",
+    "logo": "https://www.google.com/s2/favicons?domain=designs.ai&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/20/2026",
+    "description": "AI video creation suite."
+  },
+  {
+    "name": "Typito",
+    "slug": "typito",
+    "shortDescription": "AI video editor with text animations.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://typito.com",
+    "logo": "https://www.google.com/s2/favicons?domain=typito.com&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/27/2026",
+    "description": "AI video editor with text animations."
+  },
+  {
+    "name": "Submagic",
+    "slug": "submagic",
+    "shortDescription": "AI auto-captions for short-form videos.",
+    "category": "Video Creation",
+    "pricing": "Paid",
+    "website": "https://submagic.co",
+    "logo": "https://www.google.com/s2/favicons?domain=submagic.co&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "02/26/2026",
+    "description": "AI auto-captions for short-form videos."
+  },
+  {
+    "name": "AutoCaption",
+    "slug": "autocaption",
+    "shortDescription": "AI automatic video captioning.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://autocaption.io",
+    "logo": "https://www.google.com/s2/favicons?domain=autocaption.io&sz=128",
+    "tags": [
+      "Video Creation"
+    ],
+    "features": [],
+    "dateAdded": "04/04/2026",
+    "description": "AI automatic video captioning."
+  },
+  {
+    "name": "Fliki AI",
+    "slug": "fliki-ai",
+    "shortDescription": "AI video and audio creation platform.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://fliki.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=fliki.ai&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/01/2026",
+    "description": "AI video and audio creation platform."
+  },
+  {
+    "name": "Kits AI",
+    "slug": "kits-ai",
+    "shortDescription": "AI voice conversion for musicians.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://kits.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=kits.ai&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/10/2026",
+    "description": "AI voice conversion for musicians."
+  },
+  {
+    "name": "Voice AI",
+    "slug": "voice-ai",
+    "shortDescription": "Real-time AI voice changer.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://voice.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=voice.ai&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "01/14/2026",
+    "description": "Real-time AI voice changer."
+  },
+  {
+    "name": "Uberduck",
+    "slug": "uberduck",
+    "shortDescription": "AI text-to-speech with custom voices.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://uberduck.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=uberduck.ai&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/08/2026",
+    "description": "AI text-to-speech with custom voices."
+  },
+  {
+    "name": "FakeYou",
+    "slug": "fakeyou",
+    "shortDescription": "AI deep fake text-to-speech.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://fakeyou.com",
+    "logo": "https://www.google.com/s2/favicons?domain=fakeyou.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/09/2026",
+    "description": "AI deep fake text-to-speech."
+  },
+  {
+    "name": "Typecast",
+    "slug": "typecast",
+    "shortDescription": "AI voice actors and text-to-speech.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://typecast.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=typecast.ai&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "01/30/2026",
+    "description": "AI voice actors and text-to-speech."
+  },
+  {
+    "name": "Replica Studios",
+    "slug": "replica-studios",
+    "shortDescription": "AI voice actors for games.",
+    "category": "Audio & Voice",
+    "pricing": "Paid",
+    "website": "https://replicastudios.com",
+    "logo": "https://www.google.com/s2/favicons?domain=replicastudios.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "01/27/2026",
+    "description": "AI voice actors for games."
+  },
+  {
+    "name": "Voicera",
+    "slug": "voicera",
+    "shortDescription": "AI voice generation platform.",
+    "category": "Audio & Voice",
+    "pricing": "Paid",
+    "website": "https://voicera.co",
+    "logo": "https://www.google.com/s2/favicons?domain=voicera.co&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "04/04/2026",
+    "description": "AI voice generation platform."
+  },
+  {
+    "name": "Narakeet",
+    "slug": "narakeet",
+    "shortDescription": "AI text to audio and video.",
+    "category": "Audio & Voice",
+    "pricing": "Pay-per-use",
+    "website": "https://narakeet.com",
+    "logo": "https://www.google.com/s2/favicons?domain=narakeet.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "01/18/2026",
+    "description": "AI text to audio and video."
+  },
+  {
+    "name": "NaturalReader",
+    "slug": "naturalreader",
+    "shortDescription": "AI text-to-speech reader.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://naturalreaders.com",
+    "logo": "https://www.google.com/s2/favicons?domain=naturalreaders.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "04/11/2026",
+    "description": "AI text-to-speech reader."
+  },
+  {
+    "name": "TTSMaker",
+    "slug": "ttsmaker",
+    "shortDescription": "Free AI text-to-speech online.",
+    "category": "Audio & Voice",
+    "pricing": "Free",
+    "website": "https://ttsmaker.com",
+    "logo": "https://www.google.com/s2/favicons?domain=ttsmaker.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/17/2026",
+    "description": "Free AI text-to-speech online."
+  },
+  {
+    "name": "Revoicer",
+    "slug": "revoicer",
+    "shortDescription": "AI text-to-speech with emotion.",
+    "category": "Audio & Voice",
+    "pricing": "Paid",
+    "website": "https://revoicer.com",
+    "logo": "https://www.google.com/s2/favicons?domain=revoicer.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "03/01/2026",
+    "description": "AI text-to-speech with emotion."
+  },
+  {
+    "name": "Overdub by Descript",
+    "slug": "overdub-by-descript",
+    "shortDescription": "AI voice cloning for podcasters.",
+    "category": "Audio & Voice",
+    "pricing": "Paid",
+    "website": "https://descript.com/overdub",
+    "logo": "https://www.google.com/s2/favicons?domain=descript.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "03/21/2026",
+    "description": "AI voice cloning for podcasters."
+  },
+  {
+    "name": "Voicify AI",
+    "slug": "voicify-ai",
+    "shortDescription": "AI voice covers for music.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://voicify.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=voicify.ai&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "03/18/2026",
+    "description": "AI voice covers for music."
+  },
+  {
+    "name": "Covers AI",
+    "slug": "covers-ai",
+    "shortDescription": "AI song voice conversion.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://covers.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=covers.ai&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/26/2026",
+    "description": "AI song voice conversion."
+  },
+  {
+    "name": "Soundful",
+    "slug": "soundful",
+    "shortDescription": "AI background music generator.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://soundful.com",
+    "logo": "https://www.google.com/s2/favicons?domain=soundful.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "03/31/2026",
+    "description": "AI background music generator."
+  },
+  {
+    "name": "Ecrett Music",
+    "slug": "ecrett-music",
+    "shortDescription": "AI music for content creators.",
+    "category": "Audio & Voice",
+    "pricing": "Paid",
+    "website": "https://ecrettmusic.com",
+    "logo": "https://www.google.com/s2/favicons?domain=ecrettmusic.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "04/04/2026",
+    "description": "AI music for content creators."
+  },
+  {
+    "name": "Mubert",
+    "slug": "mubert",
+    "shortDescription": "AI generative music for content.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://mubert.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mubert.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "03/28/2026",
+    "description": "AI generative music for content."
+  },
+  {
+    "name": "Epidemic Sound",
+    "slug": "epidemic-sound",
+    "shortDescription": "AI-curated royalty-free music.",
+    "category": "Audio & Voice",
+    "pricing": "Paid",
+    "website": "https://epidemicsound.com",
+    "logo": "https://www.google.com/s2/favicons?domain=epidemicsound.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "03/09/2026",
+    "description": "AI-curated royalty-free music."
+  },
+  {
+    "name": "Artlist",
+    "slug": "artlist",
+    "shortDescription": "Music and SFX for video creators.",
+    "category": "Audio & Voice",
+    "pricing": "Paid",
+    "website": "https://artlist.io",
+    "logo": "https://www.google.com/s2/favicons?domain=artlist.io&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "01/25/2026",
+    "description": "Music and SFX for video creators."
+  },
+  {
+    "name": "AudioPen",
+    "slug": "audiopen",
+    "shortDescription": "AI voice note to text converter.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://audiopen.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=audiopen.ai&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "04/12/2026",
+    "description": "AI voice note to text converter."
+  },
+  {
+    "name": "Tactiq",
+    "slug": "tactiq",
+    "shortDescription": "AI meeting transcription for Google Meet.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://tactiq.io",
+    "logo": "https://www.google.com/s2/favicons?domain=tactiq.io&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/21/2026",
+    "description": "AI meeting transcription for Google Meet."
+  },
+  {
+    "name": "Airgram",
+    "slug": "airgram",
+    "shortDescription": "AI meeting recording and notes.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://airgram.io",
+    "logo": "https://www.google.com/s2/favicons?domain=airgram.io&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/14/2026",
+    "description": "AI meeting recording and notes."
+  },
+  {
+    "name": "Transkriptor",
+    "slug": "transkriptor",
+    "shortDescription": "AI audio and video transcription.",
+    "category": "Audio & Voice",
+    "pricing": "Freemium",
+    "website": "https://transkriptor.com",
+    "logo": "https://www.google.com/s2/favicons?domain=transkriptor.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/17/2026",
+    "description": "AI audio and video transcription."
+  },
+  {
+    "name": "Speechnotes",
+    "slug": "speechnotes",
+    "shortDescription": "AI speech-to-text online notepad.",
+    "category": "Audio & Voice",
+    "pricing": "Free",
+    "website": "https://speechnotes.co",
+    "logo": "https://www.google.com/s2/favicons?domain=speechnotes.co&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "04/10/2026",
+    "description": "AI speech-to-text online notepad."
+  },
+  {
+    "name": "Whisper Transcribe",
+    "slug": "whisper-transcribe",
+    "shortDescription": "Easy UI for OpenAI Whisper.",
+    "category": "Audio & Voice",
+    "pricing": "Paid",
+    "website": "https://goodsnooze.gumroad.com",
+    "logo": "https://www.google.com/s2/favicons?domain=goodsnooze.gumroad.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "03/07/2026",
+    "description": "Easy UI for OpenAI Whisper."
+  },
+  {
+    "name": "Glasp",
+    "slug": "glasp",
+    "shortDescription": "AI YouTube transcript summarizer.",
+    "category": "Audio & Voice",
+    "pricing": "Free",
+    "website": "https://glasp.co",
+    "logo": "https://www.google.com/s2/favicons?domain=glasp.co&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/10/2026",
+    "description": "AI YouTube transcript summarizer."
+  },
+  {
+    "name": "Castmagic",
+    "slug": "castmagic",
+    "shortDescription": "AI podcast content repurposing.",
+    "category": "Audio & Voice",
+    "pricing": "Paid",
+    "website": "https://castmagic.io",
+    "logo": "https://www.google.com/s2/favicons?domain=castmagic.io&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "01/22/2026",
+    "description": "AI podcast content repurposing."
+  },
+  {
+    "name": "Snipd",
+    "slug": "snipd",
+    "shortDescription": "AI podcast highlights and notes.",
+    "category": "Audio & Voice",
+    "pricing": "Free",
+    "website": "https://snipd.com",
+    "logo": "https://www.google.com/s2/favicons?domain=snipd.com&sz=128",
+    "tags": [
+      "Audio & Voice"
+    ],
+    "features": [],
+    "dateAdded": "02/26/2026",
+    "description": "AI podcast highlights and notes."
+  },
+  {
+    "name": "JetBrains AI",
+    "slug": "jetbrains-ai",
+    "shortDescription": "AI coding assistant for JetBrains IDEs.",
+    "category": "Coding & Development",
+    "pricing": "Paid",
+    "website": "https://jetbrains.com/ai",
+    "logo": "https://www.google.com/s2/favicons?domain=jetbrains.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/27/2026",
+    "description": "AI coding assistant for JetBrains IDEs."
+  },
+  {
+    "name": "Cline",
+    "slug": "cline",
+    "shortDescription": "AI coding agent for VS Code.",
+    "category": "Coding & Development",
+    "pricing": "Open Source",
+    "website": "https://github.com/cline/cline",
+    "logo": "https://www.google.com/s2/favicons?domain=github.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "04/06/2026",
+    "description": "AI coding agent for VS Code."
+  },
+  {
+    "name": "Roo Code",
+    "slug": "roo-code",
+    "shortDescription": "AI coding assistant with memory.",
+    "category": "Coding & Development",
+    "pricing": "Open Source",
+    "website": "https://roocode.com",
+    "logo": "https://www.google.com/s2/favicons?domain=roocode.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "03/31/2026",
+    "description": "AI coding assistant with memory."
+  },
+  {
+    "name": "Zed AI",
+    "slug": "zed-ai",
+    "shortDescription": "AI-native code editor.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://zed.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=zed.dev&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "03/31/2026",
+    "description": "AI-native code editor."
+  },
+  {
+    "name": "Void",
+    "slug": "void",
+    "shortDescription": "Open-source AI code editor.",
+    "category": "Coding & Development",
+    "pricing": "Open Source",
+    "website": "https://voideditor.com",
+    "logo": "https://www.google.com/s2/favicons?domain=voideditor.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "04/13/2026",
+    "description": "Open-source AI code editor."
+  },
+  {
+    "name": "Trae",
+    "slug": "trae",
+    "shortDescription": "AI IDE by ByteDance.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://trae.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=trae.ai&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/05/2026",
+    "description": "AI IDE by ByteDance."
+  },
+  {
+    "name": "Augment Code",
+    "slug": "augment-code",
+    "shortDescription": "AI code assistant with deep context.",
+    "category": "Coding & Development",
+    "pricing": "Paid",
+    "website": "https://augmentcode.com",
+    "logo": "https://www.google.com/s2/favicons?domain=augmentcode.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "01/14/2026",
+    "description": "AI code assistant with deep context."
+  },
+  {
+    "name": "Coderabbit",
+    "slug": "coderabbit",
+    "shortDescription": "AI code review platform.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://coderabbit.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=coderabbit.ai&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "01/16/2026",
+    "description": "AI code review platform."
+  },
+  {
+    "name": "Codacy",
+    "slug": "codacy",
+    "shortDescription": "AI code quality and security.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://codacy.com",
+    "logo": "https://www.google.com/s2/favicons?domain=codacy.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "01/19/2026",
+    "description": "AI code quality and security."
+  },
+  {
+    "name": "DeepCode",
+    "slug": "deepcode",
+    "shortDescription": "AI code review by Snyk.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://deepcode.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=deepcode.ai&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/14/2026",
+    "description": "AI code review by Snyk."
+  },
+  {
+    "name": "SonarQube",
+    "slug": "sonarqube",
+    "shortDescription": "AI code quality inspection.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://sonarqube.org",
+    "logo": "https://www.google.com/s2/favicons?domain=sonarqube.org&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/24/2026",
+    "description": "AI code quality inspection."
+  },
+  {
+    "name": "Codeclimate",
+    "slug": "codeclimate",
+    "shortDescription": "AI code quality analysis.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://codeclimate.com",
+    "logo": "https://www.google.com/s2/favicons?domain=codeclimate.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "04/11/2026",
+    "description": "AI code quality analysis."
+  },
+  {
+    "name": "Swimm",
+    "slug": "swimm",
+    "shortDescription": "AI code documentation platform.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://swimm.io",
+    "logo": "https://www.google.com/s2/favicons?domain=swimm.io&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "03/31/2026",
+    "description": "AI code documentation platform."
+  },
+  {
+    "name": "Readme AI",
+    "slug": "readme-ai",
+    "shortDescription": "AI-generated README documentation.",
+    "category": "Coding & Development",
+    "pricing": "Open Source",
+    "website": "https://readmeai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=readmeai.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "04/01/2026",
+    "description": "AI-generated README documentation."
+  },
+  {
+    "name": "Docusaurus",
+    "slug": "docusaurus",
+    "shortDescription": "AI-enhanced documentation framework.",
+    "category": "Coding & Development",
+    "pricing": "Open Source",
+    "website": "https://docusaurus.io",
+    "logo": "https://www.google.com/s2/favicons?domain=docusaurus.io&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/07/2026",
+    "description": "AI-enhanced documentation framework."
+  },
+  {
+    "name": "GitBook",
+    "slug": "gitbook",
+    "shortDescription": "AI-powered technical documentation.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://gitbook.com",
+    "logo": "https://www.google.com/s2/favicons?domain=gitbook.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "04/09/2026",
+    "description": "AI-powered technical documentation."
+  },
+  {
+    "name": "Stepsize",
+    "slug": "stepsize",
+    "shortDescription": "AI issue tracker for code.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://stepsize.com",
+    "logo": "https://www.google.com/s2/favicons?domain=stepsize.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/15/2026",
+    "description": "AI issue tracker for code."
+  },
+  {
+    "name": "Snappify",
+    "slug": "snappify",
+    "shortDescription": "AI code snippet sharing.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://snappify.com",
+    "logo": "https://www.google.com/s2/favicons?domain=snappify.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "04/09/2026",
+    "description": "AI code snippet sharing."
+  },
+  {
+    "name": "Codeimage",
+    "slug": "codeimage",
+    "shortDescription": "AI beautiful code screenshots.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://codeimage.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=codeimage.dev&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/10/2026",
+    "description": "AI beautiful code screenshots."
+  },
+  {
+    "name": "Ray.so",
+    "slug": "rayso",
+    "shortDescription": "AI code screenshot generator.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://ray.so",
+    "logo": "https://www.google.com/s2/favicons?domain=ray.so&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "04/07/2026",
+    "description": "AI code screenshot generator."
+  },
+  {
+    "name": "Regex AI",
+    "slug": "regex-ai",
+    "shortDescription": "AI regex pattern generator.",
+    "category": "Coding & Development",
+    "pricing": "Free",
+    "website": "https://regex.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=regex.ai&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "03/11/2026",
+    "description": "AI regex pattern generator."
+  },
+  {
+    "name": "SQL Chat",
+    "slug": "sql-chat",
+    "shortDescription": "AI SQL query assistant.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://sqlchat.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=sqlchat.ai&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "03/14/2026",
+    "description": "AI SQL query assistant."
+  },
+  {
+    "name": "AI2SQL",
+    "slug": "ai2sql",
+    "shortDescription": "AI natural language to SQL converter.",
+    "category": "Coding & Development",
+    "pricing": "Paid",
+    "website": "https://ai2sql.io",
+    "logo": "https://www.google.com/s2/favicons?domain=ai2sql.io&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "04/11/2026",
+    "description": "AI natural language to SQL converter."
+  },
+  {
+    "name": "Text2SQL",
+    "slug": "text2sql",
+    "shortDescription": "AI text to SQL query generator.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://text2sql.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=text2sql.ai&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "01/27/2026",
+    "description": "AI text to SQL query generator."
+  },
+  {
+    "name": "Supabase AI",
+    "slug": "supabase-ai",
+    "shortDescription": "AI-powered backend and database.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://supabase.com",
+    "logo": "https://www.google.com/s2/favicons?domain=supabase.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/16/2026",
+    "description": "AI-powered backend and database."
+  },
+  {
+    "name": "Neon AI",
+    "slug": "neon-ai",
+    "shortDescription": "AI serverless Postgres database.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://neon.tech",
+    "logo": "https://www.google.com/s2/favicons?domain=neon.tech&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/15/2026",
+    "description": "AI serverless Postgres database."
+  },
+  {
+    "name": "Railway",
+    "slug": "railway",
+    "shortDescription": "AI cloud deployment platform.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://railway.app",
+    "logo": "https://www.google.com/s2/favicons?domain=railway.app&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "03/04/2026",
+    "description": "AI cloud deployment platform."
+  },
+  {
+    "name": "Render",
+    "slug": "render",
+    "shortDescription": "AI cloud hosting and deployment.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://render.com",
+    "logo": "https://www.google.com/s2/favicons?domain=render.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/16/2026",
+    "description": "AI cloud hosting and deployment."
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "shortDescription": "AI-powered frontend deployment.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://vercel.com",
+    "logo": "https://www.google.com/s2/favicons?domain=vercel.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "02/18/2026",
+    "description": "AI-powered frontend deployment."
+  },
+  {
+    "name": "Netlify",
+    "slug": "netlify",
+    "shortDescription": "AI web deployment platform.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://netlify.com",
+    "logo": "https://www.google.com/s2/favicons?domain=netlify.com&sz=128",
+    "tags": [
+      "Coding & Development"
+    ],
+    "features": [],
+    "dateAdded": "01/13/2026",
+    "description": "AI web deployment platform."
+  },
+  {
+    "name": "Copilot.microsoft",
+    "slug": "copilotmicrosoft",
+    "shortDescription": "Microsoft 365 AI assistant.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://copilot.microsoft.com",
+    "logo": "https://www.google.com/s2/favicons?domain=copilot.microsoft.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "01/19/2026",
+    "description": "Microsoft 365 AI assistant."
+  },
+  {
+    "name": "Bing Chat",
+    "slug": "bing-chat",
+    "shortDescription": "Microsoft's AI search chat.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://bing.com/chat",
+    "logo": "https://www.google.com/s2/favicons?domain=bing.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/08/2026",
+    "description": "Microsoft's AI search chat."
+  },
+  {
+    "name": "Google AI Studio",
+    "slug": "google-ai-studio",
+    "shortDescription": "Google's AI experimentation platform.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://aistudio.google.com",
+    "logo": "https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/22/2026",
+    "description": "Google's AI experimentation platform."
+  },
+  {
+    "name": "HuggingChat",
+    "slug": "huggingchat",
+    "shortDescription": "Open-source AI chatbot.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://huggingface.co/chat",
+    "logo": "https://www.google.com/s2/favicons?domain=huggingface.co&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "04/12/2026",
+    "description": "Open-source AI chatbot."
+  },
+  {
+    "name": "Mistral Chat",
+    "slug": "mistral-chat",
+    "shortDescription": "Mistral AI's chat assistant.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://chat.mistral.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=chat.mistral.ai&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/11/2026",
+    "description": "Mistral AI's chat assistant."
+  },
+  {
+    "name": "DeepSeek",
+    "slug": "deepseek",
+    "shortDescription": "Chinese AI assistant and coder.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://deepseek.com",
+    "logo": "https://www.google.com/s2/favicons?domain=deepseek.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "03/29/2026",
+    "description": "Chinese AI assistant and coder."
+  },
+  {
+    "name": "Groq",
+    "slug": "groq",
+    "shortDescription": "Ultra-fast AI inference platform.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://groq.com",
+    "logo": "https://www.google.com/s2/favicons?domain=groq.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "03/26/2026",
+    "description": "Ultra-fast AI inference platform."
+  },
+  {
+    "name": "Cohere Chat",
+    "slug": "cohere-chat",
+    "shortDescription": "Enterprise AI chat by Cohere.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://cohere.com",
+    "logo": "https://www.google.com/s2/favicons?domain=cohere.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "03/10/2026",
+    "description": "Enterprise AI chat by Cohere."
+  },
+  {
+    "name": "Character AI",
+    "slug": "character-ai",
+    "shortDescription": "AI character conversation platform.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://character.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=character.ai&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "01/17/2026",
+    "description": "AI character conversation platform."
+  },
+  {
+    "name": "Chai AI",
+    "slug": "chai-ai",
+    "shortDescription": "AI chat platform with personalities.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://chai.ml",
+    "logo": "https://www.google.com/s2/favicons?domain=chai.ml&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/11/2026",
+    "description": "AI chat platform with personalities."
+  },
+  {
+    "name": "Forefront AI",
+    "slug": "forefront-ai",
+    "shortDescription": "AI assistant with multiple models.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://forefront.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=forefront.ai&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/14/2026",
+    "description": "AI assistant with multiple models."
+  },
+  {
+    "name": "Chatsonic",
+    "slug": "chatsonic",
+    "shortDescription": "AI chat with web access.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://writesonic.com/chat",
+    "logo": "https://www.google.com/s2/favicons?domain=writesonic.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "03/05/2026",
+    "description": "AI chat with web access."
+  },
+  {
+    "name": "Jasper Chat",
+    "slug": "jasper-chat",
+    "shortDescription": "AI chat for marketing teams.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://jasper.ai/chat",
+    "logo": "https://www.google.com/s2/favicons?domain=jasper.ai&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "04/02/2026",
+    "description": "AI chat for marketing teams."
+  },
+  {
+    "name": "YouChat",
+    "slug": "youchat",
+    "shortDescription": "AI search chat by You.com.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://you.com",
+    "logo": "https://www.google.com/s2/favicons?domain=you.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "04/04/2026",
+    "description": "AI search chat by You.com."
+  },
+  {
+    "name": "Phind Search",
+    "slug": "phind-search",
+    "shortDescription": "AI search for developers.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://phind.com",
+    "logo": "https://www.google.com/s2/favicons?domain=phind.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/16/2026",
+    "description": "AI search for developers."
+  },
+  {
+    "name": "Komo AI",
+    "slug": "komo-ai",
+    "shortDescription": "AI search engine.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://komo.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=komo.ai&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "03/12/2026",
+    "description": "AI search engine."
+  },
+  {
+    "name": "Andi",
+    "slug": "andi",
+    "shortDescription": "AI search assistant.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://andisearch.com",
+    "logo": "https://www.google.com/s2/favicons?domain=andisearch.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/25/2026",
+    "description": "AI search assistant."
+  },
+  {
+    "name": "iAsk AI",
+    "slug": "iask-ai",
+    "shortDescription": "AI question answering engine.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://iask.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=iask.ai&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "01/24/2026",
+    "description": "AI question answering engine."
+  },
+  {
+    "name": "Waldo",
+    "slug": "waldo",
+    "shortDescription": "AI search for your files and docs.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://waldo.so",
+    "logo": "https://www.google.com/s2/favicons?domain=waldo.so&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "01/29/2026",
+    "description": "AI search for your files and docs."
+  },
+  {
+    "name": "MyMind",
+    "slug": "mymind",
+    "shortDescription": "AI visual bookmarking tool.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://mymind.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mymind.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/13/2026",
+    "description": "AI visual bookmarking tool."
+  },
+  {
+    "name": "Raindrop",
+    "slug": "raindrop",
+    "shortDescription": "AI bookmark manager.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://raindrop.io",
+    "logo": "https://www.google.com/s2/favicons?domain=raindrop.io&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "04/09/2026",
+    "description": "AI bookmark manager."
+  },
+  {
+    "name": "Capacities",
+    "slug": "capacities",
+    "shortDescription": "AI note-taking with object-based structure.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://capacities.io",
+    "logo": "https://www.google.com/s2/favicons?domain=capacities.io&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/23/2026",
+    "description": "AI note-taking with object-based structure."
+  },
+  {
+    "name": "Tana",
+    "slug": "tana",
+    "shortDescription": "AI-powered workspace for knowledge work.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://tana.inc",
+    "logo": "https://www.google.com/s2/favicons?domain=tana.inc&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "04/10/2026",
+    "description": "AI-powered workspace for knowledge work."
+  },
+  {
+    "name": "Heptabase",
+    "slug": "heptabase",
+    "shortDescription": "AI visual note-taking for learning.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://heptabase.com",
+    "logo": "https://www.google.com/s2/favicons?domain=heptabase.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "03/21/2026",
+    "description": "AI visual note-taking for learning."
+  },
+  {
+    "name": "Logseq",
+    "slug": "logseq",
+    "shortDescription": "AI open-source knowledge management.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://logseq.com",
+    "logo": "https://www.google.com/s2/favicons?domain=logseq.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "03/21/2026",
+    "description": "AI open-source knowledge management."
+  },
+  {
+    "name": "Obsidian",
+    "slug": "obsidian",
+    "shortDescription": "AI-enhanced knowledge base and notes.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://obsidian.md",
+    "logo": "https://www.google.com/s2/favicons?domain=obsidian.md&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "03/20/2026",
+    "description": "AI-enhanced knowledge base and notes."
+  },
+  {
+    "name": "Roam Research",
+    "slug": "roam-research",
+    "shortDescription": "AI networked thought tool.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://roamresearch.com",
+    "logo": "https://www.google.com/s2/favicons?domain=roamresearch.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "04/03/2026",
+    "description": "AI networked thought tool."
+  },
+  {
+    "name": "Todoist",
+    "slug": "todoist",
+    "shortDescription": "AI task management app.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://todoist.com",
+    "logo": "https://www.google.com/s2/favicons?domain=todoist.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "01/29/2026",
+    "description": "AI task management app."
+  },
+  {
+    "name": "Things 3",
+    "slug": "things-3",
+    "shortDescription": "AI task manager for Apple devices.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://culturedcode.com/things",
+    "logo": "https://www.google.com/s2/favicons?domain=culturedcode.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/05/2026",
+    "description": "AI task manager for Apple devices."
+  },
+  {
+    "name": "TickTick",
+    "slug": "ticktick",
+    "shortDescription": "AI task and habit tracker.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://ticktick.com",
+    "logo": "https://www.google.com/s2/favicons?domain=ticktick.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/07/2026",
+    "description": "AI task and habit tracker."
+  },
+  {
+    "name": "Any.do",
+    "slug": "anydo",
+    "shortDescription": "AI daily planner and to-do list.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://any.do",
+    "logo": "https://www.google.com/s2/favicons?domain=any.do&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "04/12/2026",
+    "description": "AI daily planner and to-do list."
+  },
+  {
+    "name": "Sunsama",
+    "slug": "sunsama",
+    "shortDescription": "AI daily planner for professionals.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://sunsama.com",
+    "logo": "https://www.google.com/s2/favicons?domain=sunsama.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "01/26/2026",
+    "description": "AI daily planner for professionals."
+  },
+  {
+    "name": "Akiflow",
+    "slug": "akiflow",
+    "shortDescription": "AI time-blocking and task management.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://akiflow.com",
+    "logo": "https://www.google.com/s2/favicons?domain=akiflow.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "01/25/2026",
+    "description": "AI time-blocking and task management."
+  },
+  {
+    "name": "Fantastical",
+    "slug": "fantastical",
+    "shortDescription": "AI calendar app for Apple.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://flexibits.com/fantastical",
+    "logo": "https://www.google.com/s2/favicons?domain=flexibits.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "03/08/2026",
+    "description": "AI calendar app for Apple."
+  },
+  {
+    "name": "Spike",
+    "slug": "spike",
+    "shortDescription": "AI conversational email app.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://spikenow.com",
+    "logo": "https://www.google.com/s2/favicons?domain=spikenow.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "04/03/2026",
+    "description": "AI conversational email app."
+  },
+  {
+    "name": "Canary Mail",
+    "slug": "canary-mail",
+    "shortDescription": "AI-powered email client.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://canarymail.io",
+    "logo": "https://www.google.com/s2/favicons?domain=canarymail.io&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/12/2026",
+    "description": "AI-powered email client."
+  },
+  {
+    "name": "Clean Email",
+    "slug": "clean-email",
+    "shortDescription": "AI email cleaning and organizing.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://clean.email",
+    "logo": "https://www.google.com/s2/favicons?domain=clean.email&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/04/2026",
+    "description": "AI email cleaning and organizing."
+  },
+  {
+    "name": "Unroll.Me",
+    "slug": "unrollme",
+    "shortDescription": "AI email unsubscribe tool.",
+    "category": "Productivity",
+    "pricing": "Free",
+    "website": "https://unroll.me",
+    "logo": "https://www.google.com/s2/favicons?domain=unroll.me&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/05/2026",
+    "description": "AI email unsubscribe tool."
+  },
+  {
+    "name": "TextExpander",
+    "slug": "textexpander",
+    "shortDescription": "AI text expansion and snippets.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://textexpander.com",
+    "logo": "https://www.google.com/s2/favicons?domain=textexpander.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "01/27/2026",
+    "description": "AI text expansion and snippets."
+  },
+  {
+    "name": "Alfred",
+    "slug": "alfred",
+    "shortDescription": "AI productivity app for Mac.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://alfredapp.com",
+    "logo": "https://www.google.com/s2/favicons?domain=alfredapp.com&sz=128",
+    "tags": [
+      "Productivity"
+    ],
+    "features": [],
+    "dateAdded": "02/03/2026",
+    "description": "AI productivity app for Mac."
+  },
+  {
+    "name": "Clearbit",
+    "slug": "clearbit",
+    "shortDescription": "AI data enrichment for B2B.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://clearbit.com",
+    "logo": "https://www.google.com/s2/favicons?domain=clearbit.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "01/15/2026",
+    "description": "AI data enrichment for B2B."
+  },
+  {
+    "name": "ZoomInfo",
+    "slug": "zoominfo",
+    "shortDescription": "AI B2B contact database.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://zoominfo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=zoominfo.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "01/20/2026",
+    "description": "AI B2B contact database."
+  },
+  {
+    "name": "Lusha",
+    "slug": "lusha",
+    "shortDescription": "AI B2B contact finder.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://lusha.com",
+    "logo": "https://www.google.com/s2/favicons?domain=lusha.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/11/2026",
+    "description": "AI B2B contact finder."
+  },
+  {
+    "name": "RocketReach",
+    "slug": "rocketreach",
+    "shortDescription": "AI email and phone number finder.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://rocketreach.co",
+    "logo": "https://www.google.com/s2/favicons?domain=rocketreach.co&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "01/31/2026",
+    "description": "AI email and phone number finder."
+  },
+  {
+    "name": "Hunter.io",
+    "slug": "hunterio",
+    "shortDescription": "AI email finder and verification.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://hunter.io",
+    "logo": "https://www.google.com/s2/favicons?domain=hunter.io&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/16/2026",
+    "description": "AI email finder and verification."
+  },
+  {
+    "name": "Snov.io",
+    "slug": "snovio",
+    "shortDescription": "AI email finder and outreach platform.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://snov.io",
+    "logo": "https://www.google.com/s2/favicons?domain=snov.io&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/19/2026",
+    "description": "AI email finder and outreach platform."
+  },
+  {
+    "name": "Dropcontact",
+    "slug": "dropcontact",
+    "shortDescription": "AI email enrichment without database.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://dropcontact.com",
+    "logo": "https://www.google.com/s2/favicons?domain=dropcontact.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/12/2026",
+    "description": "AI email enrichment without database."
+  },
+  {
+    "name": "Seamless AI",
+    "slug": "seamless-ai",
+    "shortDescription": "AI B2B lead generation.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://seamless.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=seamless.ai&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/27/2026",
+    "description": "AI B2B lead generation."
+  },
+  {
+    "name": "Lead411",
+    "slug": "lead411",
+    "shortDescription": "AI B2B data and intent signals.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://lead411.com",
+    "logo": "https://www.google.com/s2/favicons?domain=lead411.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/12/2026",
+    "description": "AI B2B data and intent signals."
+  },
+  {
+    "name": "Uplead",
+    "slug": "uplead",
+    "shortDescription": "AI B2B lead generation platform.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://uplead.com",
+    "logo": "https://www.google.com/s2/favicons?domain=uplead.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/11/2026",
+    "description": "AI B2B lead generation platform."
+  },
+  {
+    "name": "Warmbox",
+    "slug": "warmbox",
+    "shortDescription": "AI email warm-up tool.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://warmbox.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=warmbox.ai&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/30/2026",
+    "description": "AI email warm-up tool."
+  },
+  {
+    "name": "Mailwarm",
+    "slug": "mailwarm",
+    "shortDescription": "AI email deliverability warm-up.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://mailwarm.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mailwarm.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/21/2026",
+    "description": "AI email deliverability warm-up."
+  },
+  {
+    "name": "Mailreach",
+    "slug": "mailreach",
+    "shortDescription": "AI email warm-up and deliverability.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://mailreach.co",
+    "logo": "https://www.google.com/s2/favicons?domain=mailreach.co&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "04/05/2026",
+    "description": "AI email warm-up and deliverability."
+  },
+  {
+    "name": "Postaga",
+    "slug": "postaga",
+    "shortDescription": "AI cold email outreach platform.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://postaga.com",
+    "logo": "https://www.google.com/s2/favicons?domain=postaga.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "01/23/2026",
+    "description": "AI cold email outreach platform."
+  },
+  {
+    "name": "Outreach.io",
+    "slug": "outreachio",
+    "shortDescription": "AI sales engagement platform.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://outreach.io",
+    "logo": "https://www.google.com/s2/favicons?domain=outreach.io&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/24/2026",
+    "description": "AI sales engagement platform."
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
+    "shortDescription": "AI revenue orchestration platform.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://salesloft.com",
+    "logo": "https://www.google.com/s2/favicons?domain=salesloft.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/09/2026",
+    "description": "AI revenue orchestration platform."
+  },
+  {
+    "name": "Gong",
+    "slug": "gong",
+    "shortDescription": "AI revenue intelligence platform.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://gong.io",
+    "logo": "https://www.google.com/s2/favicons?domain=gong.io&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/28/2026",
+    "description": "AI revenue intelligence platform."
+  },
+  {
+    "name": "Chorus",
+    "slug": "chorus",
+    "shortDescription": "AI conversation intelligence by ZoomInfo.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://chorus.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=chorus.ai&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/11/2026",
+    "description": "AI conversation intelligence by ZoomInfo."
+  },
+  {
+    "name": "Clari",
+    "slug": "clari",
+    "shortDescription": "AI revenue platform.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://clari.com",
+    "logo": "https://www.google.com/s2/favicons?domain=clari.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/21/2026",
+    "description": "AI revenue platform."
+  },
+  {
+    "name": "Vidyard",
+    "slug": "vidyard",
+    "shortDescription": "AI video messaging for sales.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://vidyard.com",
+    "logo": "https://www.google.com/s2/favicons?domain=vidyard.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/31/2026",
+    "description": "AI video messaging for sales."
+  },
+  {
+    "name": "Canva Logo Maker",
+    "slug": "canva-logo-maker",
+    "shortDescription": "AI logo design tool.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://canva.com/logo-maker",
+    "logo": "https://www.google.com/s2/favicons?domain=canva.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "04/05/2026",
+    "description": "AI logo design tool."
+  },
+  {
+    "name": "LogoAI",
+    "slug": "logoai",
+    "shortDescription": "AI logo design generator.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://logoai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=logoai.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "04/11/2026",
+    "description": "AI logo design generator."
+  },
+  {
+    "name": "Tailor Brands",
+    "slug": "tailor-brands",
+    "shortDescription": "AI branding and logo design.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://tailorbrands.com",
+    "logo": "https://www.google.com/s2/favicons?domain=tailorbrands.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/03/2026",
+    "description": "AI branding and logo design."
+  },
+  {
+    "name": "Wix Logo Maker",
+    "slug": "wix-logo-maker",
+    "shortDescription": "AI logo generator by Wix.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://wix.com/logo/maker",
+    "logo": "https://www.google.com/s2/favicons?domain=wix.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/02/2026",
+    "description": "AI logo generator by Wix."
+  },
+  {
+    "name": "Hostinger AI",
+    "slug": "hostinger-ai",
+    "shortDescription": "AI website builder.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://hostinger.com",
+    "logo": "https://www.google.com/s2/favicons?domain=hostinger.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/23/2026",
+    "description": "AI website builder."
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "shortDescription": "AI visual web development platform.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://webflow.com",
+    "logo": "https://www.google.com/s2/favicons?domain=webflow.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/20/2026",
+    "description": "AI visual web development platform."
+  },
+  {
+    "name": "Wix AI",
+    "slug": "wix-ai",
+    "shortDescription": "AI website builder platform.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://wix.com",
+    "logo": "https://www.google.com/s2/favicons?domain=wix.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/11/2026",
+    "description": "AI website builder platform."
+  },
+  {
+    "name": "Squarespace",
+    "slug": "squarespace",
+    "shortDescription": "AI website builder with templates.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://squarespace.com",
+    "logo": "https://www.google.com/s2/favicons?domain=squarespace.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "01/22/2026",
+    "description": "AI website builder with templates."
+  },
+  {
+    "name": "10Web",
+    "slug": "10web",
+    "shortDescription": "AI WordPress website builder.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://10web.io",
+    "logo": "https://www.google.com/s2/favicons?domain=10web.io&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/15/2026",
+    "description": "AI WordPress website builder."
+  },
+  {
+    "name": "Zyro",
+    "slug": "zyro",
+    "shortDescription": "AI website builder by Hostinger.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://zyro.com",
+    "logo": "https://www.google.com/s2/favicons?domain=zyro.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/28/2026",
+    "description": "AI website builder by Hostinger."
+  },
+  {
+    "name": "SendGrid",
+    "slug": "sendgrid",
+    "shortDescription": "AI email delivery platform.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://sendgrid.com",
+    "logo": "https://www.google.com/s2/favicons?domain=sendgrid.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/08/2026",
+    "description": "AI email delivery platform."
+  },
+  {
+    "name": "ConvertKit",
+    "slug": "convertkit",
+    "shortDescription": "AI email marketing for creators.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://convertkit.com",
+    "logo": "https://www.google.com/s2/favicons?domain=convertkit.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/08/2026",
+    "description": "AI email marketing for creators."
+  },
+  {
+    "name": "Beehiiv",
+    "slug": "beehiiv",
+    "shortDescription": "AI newsletter platform.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://beehiiv.com",
+    "logo": "https://www.google.com/s2/favicons?domain=beehiiv.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/28/2026",
+    "description": "AI newsletter platform."
+  },
+  {
+    "name": "Substack",
+    "slug": "substack",
+    "shortDescription": "AI newsletter and subscription platform.",
+    "category": "Marketing",
+    "pricing": "Free",
+    "website": "https://substack.com",
+    "logo": "https://www.google.com/s2/favicons?domain=substack.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "01/20/2026",
+    "description": "AI newsletter and subscription platform."
+  },
+  {
+    "name": "Brevo",
+    "slug": "brevo",
+    "shortDescription": "AI email and CRM platform.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://brevo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=brevo.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/03/2026",
+    "description": "AI email and CRM platform."
+  },
+  {
+    "name": "ActiveCampaign",
+    "slug": "activecampaign",
+    "shortDescription": "AI marketing automation.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://activecampaign.com",
+    "logo": "https://www.google.com/s2/favicons?domain=activecampaign.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "02/18/2026",
+    "description": "AI marketing automation."
+  },
+  {
+    "name": "Drip",
+    "slug": "drip",
+    "shortDescription": "AI ecommerce CRM.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://drip.com",
+    "logo": "https://www.google.com/s2/favicons?domain=drip.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/02/2026",
+    "description": "AI ecommerce CRM."
+  },
+  {
+    "name": "Moosend",
+    "slug": "moosend",
+    "shortDescription": "AI email marketing platform.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://moosend.com",
+    "logo": "https://www.google.com/s2/favicons?domain=moosend.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "03/11/2026",
+    "description": "AI email marketing platform."
+  },
+  {
+    "name": "Omnisend",
+    "slug": "omnisend",
+    "shortDescription": "AI ecommerce email marketing.",
+    "category": "Marketing",
+    "pricing": "Freemium",
+    "website": "https://omnisend.com",
+    "logo": "https://www.google.com/s2/favicons?domain=omnisend.com&sz=128",
+    "tags": [
+      "Marketing"
+    ],
+    "features": [],
+    "dateAdded": "01/17/2026",
+    "description": "AI ecommerce email marketing."
+  },
+  {
+    "name": "Arxiv Sanity",
+    "slug": "arxiv-sanity",
+    "shortDescription": "AI paper recommendation for arXiv.",
+    "category": "Research",
+    "pricing": "Free",
+    "website": "https://arxiv-sanity-lite.com",
+    "logo": "https://www.google.com/s2/favicons?domain=arxiv-sanity-lite.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "03/20/2026",
+    "description": "AI paper recommendation for arXiv."
+  },
+  {
+    "name": "Papers with Code",
+    "slug": "papers-with-code",
+    "shortDescription": "AI research paper repository.",
+    "category": "Research",
+    "pricing": "Free",
+    "website": "https://paperswithcode.com",
+    "logo": "https://www.google.com/s2/favicons?domain=paperswithcode.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "03/30/2026",
+    "description": "AI research paper repository."
+  },
+  {
+    "name": "Google Scholar",
+    "slug": "google-scholar",
+    "shortDescription": "AI academic paper search.",
+    "category": "Research",
+    "pricing": "Free",
+    "website": "https://scholar.google.com",
+    "logo": "https://www.google.com/s2/favicons?domain=scholar.google.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "02/09/2026",
+    "description": "AI academic paper search."
+  },
+  {
+    "name": "Iris AI",
+    "slug": "iris-ai",
+    "shortDescription": "AI research workbench.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://iris.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=iris.ai&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "02/06/2026",
+    "description": "AI research workbench."
+  },
+  {
+    "name": "Dimensions AI",
+    "slug": "dimensions-ai",
+    "shortDescription": "AI research analytics platform.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://dimensions.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=dimensions.ai&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "02/15/2026",
+    "description": "AI research analytics platform."
+  },
+  {
+    "name": "Inciteful",
+    "slug": "inciteful",
+    "shortDescription": "AI academic paper network explorer.",
+    "category": "Research",
+    "pricing": "Free",
+    "website": "https://inciteful.xyz",
+    "logo": "https://www.google.com/s2/favicons?domain=inciteful.xyz&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "02/26/2026",
+    "description": "AI academic paper network explorer."
+  },
+  {
+    "name": "System Pro",
+    "slug": "system-pro",
+    "shortDescription": "AI document analysis tool.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://system.com",
+    "logo": "https://www.google.com/s2/favicons?domain=system.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "01/28/2026",
+    "description": "AI document analysis tool."
+  },
+  {
+    "name": "AskYourPDF",
+    "slug": "askyourpdf",
+    "shortDescription": "AI chat with PDF documents.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://askyourpdf.com",
+    "logo": "https://www.google.com/s2/favicons?domain=askyourpdf.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "01/15/2026",
+    "description": "AI chat with PDF documents."
+  },
+  {
+    "name": "PDF AI",
+    "slug": "pdf-ai",
+    "shortDescription": "AI PDF document assistant.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://pdf.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=pdf.ai&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "04/01/2026",
+    "description": "AI PDF document assistant."
+  },
+  {
+    "name": "DocAnalyzer",
+    "slug": "docanalyzer",
+    "shortDescription": "AI document analysis and Q&A.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://docanalyzer.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=docanalyzer.ai&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "02/26/2026",
+    "description": "AI document analysis and Q&A."
+  },
+  {
+    "name": "AnySummary",
+    "slug": "anysummary",
+    "shortDescription": "AI file and document summarizer.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://anysummary.app",
+    "logo": "https://www.google.com/s2/favicons?domain=anysummary.app&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "03/10/2026",
+    "description": "AI file and document summarizer."
+  },
+  {
+    "name": "TLDR This",
+    "slug": "tldr-this",
+    "shortDescription": "AI article summarizer.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://tldrthis.com",
+    "logo": "https://www.google.com/s2/favicons?domain=tldrthis.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "02/10/2026",
+    "description": "AI article summarizer."
+  },
+  {
+    "name": "Summarize Tech",
+    "slug": "summarize-tech",
+    "shortDescription": "AI video summarizer.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://summarize.tech",
+    "logo": "https://www.google.com/s2/favicons?domain=summarize.tech&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "01/14/2026",
+    "description": "AI video summarizer."
+  },
+  {
+    "name": "Genei",
+    "slug": "genei",
+    "shortDescription": "AI research and note-taking.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://genei.io",
+    "logo": "https://www.google.com/s2/favicons?domain=genei.io&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "03/14/2026",
+    "description": "AI research and note-taking."
+  },
+  {
+    "name": "Knowt",
+    "slug": "knowt",
+    "shortDescription": "AI flashcard and study tool.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://knowt.com",
+    "logo": "https://www.google.com/s2/favicons?domain=knowt.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "04/11/2026",
+    "description": "AI flashcard and study tool."
+  },
+  {
+    "name": "Quizgecko",
+    "slug": "quizgecko",
+    "shortDescription": "AI quiz and test generator.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://quizgecko.com",
+    "logo": "https://www.google.com/s2/favicons?domain=quizgecko.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "02/03/2026",
+    "description": "AI quiz and test generator."
+  },
+  {
+    "name": "Revisely",
+    "slug": "revisely",
+    "shortDescription": "AI exam revision tool.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://revisely.com",
+    "logo": "https://www.google.com/s2/favicons?domain=revisely.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "03/05/2026",
+    "description": "AI exam revision tool."
+  },
+  {
+    "name": "Studdy",
+    "slug": "studdy",
+    "shortDescription": "AI math tutor.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://studdy.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=studdy.ai&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "03/29/2026",
+    "description": "AI math tutor."
+  },
+  {
+    "name": "Photomath",
+    "slug": "photomath",
+    "shortDescription": "AI math problem solver.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://photomath.com",
+    "logo": "https://www.google.com/s2/favicons?domain=photomath.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "03/28/2026",
+    "description": "AI math problem solver."
+  },
+  {
+    "name": "Mathway",
+    "slug": "mathway",
+    "shortDescription": "AI math solver and calculator.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://mathway.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mathway.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "03/28/2026",
+    "description": "AI math solver and calculator."
+  },
+  {
+    "name": "Socratic by Google",
+    "slug": "socratic-by-google",
+    "shortDescription": "AI homework helper.",
+    "category": "Research",
+    "pricing": "Free",
+    "website": "https://socratic.org",
+    "logo": "https://www.google.com/s2/favicons?domain=socratic.org&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "01/19/2026",
+    "description": "AI homework helper."
+  },
+  {
+    "name": "Khan Academy Khanmigo",
+    "slug": "khan-academy-khanmigo",
+    "shortDescription": "AI tutor by Khan Academy.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://khanacademy.org",
+    "logo": "https://www.google.com/s2/favicons?domain=khanacademy.org&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "04/05/2026",
+    "description": "AI tutor by Khan Academy."
+  },
+  {
+    "name": "Gradescope",
+    "slug": "gradescope",
+    "shortDescription": "AI grading and assessment.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://gradescope.com",
+    "logo": "https://www.google.com/s2/favicons?domain=gradescope.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "04/08/2026",
+    "description": "AI grading and assessment."
+  },
+  {
+    "name": "Turnitin",
+    "slug": "turnitin",
+    "shortDescription": "AI plagiarism detection.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://turnitin.com",
+    "logo": "https://www.google.com/s2/favicons?domain=turnitin.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "04/07/2026",
+    "description": "AI plagiarism detection."
+  },
+  {
+    "name": "Querium",
+    "slug": "querium",
+    "shortDescription": "AI STEM tutoring platform.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://querium.com",
+    "logo": "https://www.google.com/s2/favicons?domain=querium.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "01/20/2026",
+    "description": "AI STEM tutoring platform."
+  },
+  {
+    "name": "Ello",
+    "slug": "ello",
+    "shortDescription": "AI reading tutor for kids.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://ello.com",
+    "logo": "https://www.google.com/s2/favicons?domain=ello.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "02/04/2026",
+    "description": "AI reading tutor for kids."
+  },
+  {
+    "name": "Duolingo Max",
+    "slug": "duolingo-max",
+    "shortDescription": "AI language learning with GPT-4.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://duolingo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=duolingo.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "02/20/2026",
+    "description": "AI language learning with GPT-4."
+  },
+  {
+    "name": "Speak",
+    "slug": "speak",
+    "shortDescription": "AI language tutor powered by AI.",
+    "category": "Research",
+    "pricing": "Paid",
+    "website": "https://speak.com",
+    "logo": "https://www.google.com/s2/favicons?domain=speak.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "04/06/2026",
+    "description": "AI language tutor powered by AI."
+  },
+  {
+    "name": "Lingvist",
+    "slug": "lingvist",
+    "shortDescription": "AI adaptive language learning.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://lingvist.com",
+    "logo": "https://www.google.com/s2/favicons?domain=lingvist.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "01/24/2026",
+    "description": "AI adaptive language learning."
+  },
+  {
+    "name": "Elsa Speak",
+    "slug": "elsa-speak",
+    "shortDescription": "AI English pronunciation coach.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://elsaspeak.com",
+    "logo": "https://www.google.com/s2/favicons?domain=elsaspeak.com&sz=128",
+    "tags": [
+      "Research"
+    ],
+    "features": [],
+    "dateAdded": "01/21/2026",
+    "description": "AI English pronunciation coach."
+  },
+  {
+    "name": "ActivePieces",
+    "slug": "activepieces",
+    "shortDescription": "Open-source AI automation platform.",
+    "category": "Automation",
+    "pricing": "Open Source",
+    "website": "https://activepieces.com",
+    "logo": "https://www.google.com/s2/favicons?domain=activepieces.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/04/2026",
+    "description": "Open-source AI automation platform."
+  },
+  {
+    "name": "Pipedream",
+    "slug": "pipedream",
+    "shortDescription": "AI workflow automation for developers.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://pipedream.com",
+    "logo": "https://www.google.com/s2/favicons?domain=pipedream.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "04/02/2026",
+    "description": "AI workflow automation for developers."
+  },
+  {
+    "name": "IFTTT",
+    "slug": "ifttt",
+    "shortDescription": "AI app connection and automation.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://ifttt.com",
+    "logo": "https://www.google.com/s2/favicons?domain=ifttt.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/27/2026",
+    "description": "AI app connection and automation."
+  },
+  {
+    "name": "Pabbly Connect",
+    "slug": "pabbly-connect",
+    "shortDescription": "AI automation alternative to Zapier.",
+    "category": "Automation",
+    "pricing": "Paid",
+    "website": "https://pabbly.com",
+    "logo": "https://www.google.com/s2/favicons?domain=pabbly.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "01/14/2026",
+    "description": "AI automation alternative to Zapier."
+  },
+  {
+    "name": "Integrately",
+    "slug": "integrately",
+    "shortDescription": "AI app integration platform.",
+    "category": "Automation",
+    "pricing": "Paid",
+    "website": "https://integrately.com",
+    "logo": "https://www.google.com/s2/favicons?domain=integrately.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/22/2026",
+    "description": "AI app integration platform."
+  },
+  {
+    "name": "Albato",
+    "slug": "albato",
+    "shortDescription": "AI integration and automation tool.",
+    "category": "Automation",
+    "pricing": "Paid",
+    "website": "https://albato.com",
+    "logo": "https://www.google.com/s2/favicons?domain=albato.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/17/2026",
+    "description": "AI integration and automation tool."
+  },
+  {
+    "name": "Latenode",
+    "slug": "latenode",
+    "shortDescription": "AI low-code automation platform.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://latenode.com",
+    "logo": "https://www.google.com/s2/favicons?domain=latenode.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/14/2026",
+    "description": "AI low-code automation platform."
+  },
+  {
+    "name": "Automa",
+    "slug": "automa",
+    "shortDescription": "Browser automation extension.",
+    "category": "Automation",
+    "pricing": "Free",
+    "website": "https://automa.site",
+    "logo": "https://www.google.com/s2/favicons?domain=automa.site&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "01/29/2026",
+    "description": "Browser automation extension."
+  },
+  {
+    "name": "Selenium IDE",
+    "slug": "selenium-ide",
+    "shortDescription": "AI browser test automation.",
+    "category": "Automation",
+    "pricing": "Open Source",
+    "website": "https://selenium.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=selenium.dev&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/18/2026",
+    "description": "AI browser test automation."
+  },
+  {
+    "name": "Playwright",
+    "slug": "playwright",
+    "shortDescription": "AI browser automation framework.",
+    "category": "Automation",
+    "pricing": "Open Source",
+    "website": "https://playwright.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=playwright.dev&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "01/13/2026",
+    "description": "AI browser automation framework."
+  },
+  {
+    "name": "Puppeteer",
+    "slug": "puppeteer",
+    "shortDescription": "AI headless browser automation.",
+    "category": "Automation",
+    "pricing": "Open Source",
+    "website": "https://pptr.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=pptr.dev&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/15/2026",
+    "description": "AI headless browser automation."
+  },
+  {
+    "name": "Superagent",
+    "slug": "superagent",
+    "shortDescription": "AI agent framework for developers.",
+    "category": "Automation",
+    "pricing": "Open Source",
+    "website": "https://superagent.sh",
+    "logo": "https://www.google.com/s2/favicons?domain=superagent.sh&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/22/2026",
+    "description": "AI agent framework for developers."
+  },
+  {
+    "name": "Dify",
+    "slug": "dify",
+    "shortDescription": "Open source LLM app development platform.",
+    "category": "Automation",
+    "pricing": "Open Source",
+    "website": "https://dify.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=dify.ai&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "04/04/2026",
+    "description": "Open source LLM app development platform."
+  },
+  {
+    "name": "Langflow",
+    "slug": "langflow",
+    "shortDescription": "Visual LLM flow builder.",
+    "category": "Automation",
+    "pricing": "Open Source",
+    "website": "https://langflow.org",
+    "logo": "https://www.google.com/s2/favicons?domain=langflow.org&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/05/2026",
+    "description": "Visual LLM flow builder."
+  },
+  {
+    "name": "Coze",
+    "slug": "coze",
+    "shortDescription": "AI chatbot builder by ByteDance.",
+    "category": "Automation",
+    "pricing": "Free",
+    "website": "https://coze.com",
+    "logo": "https://www.google.com/s2/favicons?domain=coze.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "04/04/2026",
+    "description": "AI chatbot builder by ByteDance."
+  },
+  {
+    "name": "Stack AI",
+    "slug": "stack-ai",
+    "shortDescription": "AI workflow builder for enterprise.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://stack-ai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=stack-ai.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "04/04/2026",
+    "description": "AI workflow builder for enterprise."
+  },
+  {
+    "name": "Promptflow",
+    "slug": "promptflow",
+    "shortDescription": "Microsoft AI prompt engineering toolkit.",
+    "category": "Automation",
+    "pricing": "Open Source",
+    "website": "https://microsoft.github.io/promptflow",
+    "logo": "https://www.google.com/s2/favicons?domain=microsoft.github.io&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/15/2026",
+    "description": "Microsoft AI prompt engineering toolkit."
+  },
+  {
+    "name": "Dust",
+    "slug": "dust",
+    "shortDescription": "AI assistant platform for teams.",
+    "category": "Automation",
+    "pricing": "Paid",
+    "website": "https://dust.tt",
+    "logo": "https://www.google.com/s2/favicons?domain=dust.tt&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/12/2026",
+    "description": "AI assistant platform for teams."
+  },
+  {
+    "name": "Spell AI",
+    "slug": "spell-ai",
+    "shortDescription": "AI agent with plugin integrations.",
+    "category": "Automation",
+    "pricing": "Paid",
+    "website": "https://spell.so",
+    "logo": "https://www.google.com/s2/favicons?domain=spell.so&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "01/30/2026",
+    "description": "AI agent with plugin integrations."
+  },
+  {
+    "name": "E2B",
+    "slug": "e2b",
+    "shortDescription": "AI code execution sandbox.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://e2b.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=e2b.dev&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "01/30/2026",
+    "description": "AI code execution sandbox."
+  },
+  {
+    "name": "Modal",
+    "slug": "modal",
+    "shortDescription": "AI cloud infrastructure for ML.",
+    "category": "Automation",
+    "pricing": "Pay-per-use",
+    "website": "https://modal.com",
+    "logo": "https://www.google.com/s2/favicons?domain=modal.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/27/2026",
+    "description": "AI cloud infrastructure for ML."
+  },
+  {
+    "name": "Banana Dev",
+    "slug": "banana-dev",
+    "shortDescription": "AI model deployment infrastructure.",
+    "category": "Automation",
+    "pricing": "Pay-per-use",
+    "website": "https://banana.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=banana.dev&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "02/17/2026",
+    "description": "AI model deployment infrastructure."
+  },
+  {
+    "name": "Beam Cloud",
+    "slug": "beam-cloud",
+    "shortDescription": "AI serverless GPU infrastructure.",
+    "category": "Automation",
+    "pricing": "Pay-per-use",
+    "website": "https://beam.cloud",
+    "logo": "https://www.google.com/s2/favicons?domain=beam.cloud&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "02/27/2026",
+    "description": "AI serverless GPU infrastructure."
+  },
+  {
+    "name": "RunPod",
+    "slug": "runpod",
+    "shortDescription": "AI GPU cloud for inference.",
+    "category": "Automation",
+    "pricing": "Pay-per-use",
+    "website": "https://runpod.io",
+    "logo": "https://www.google.com/s2/favicons?domain=runpod.io&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "04/07/2026",
+    "description": "AI GPU cloud for inference."
+  },
+  {
+    "name": "Lambda Labs",
+    "slug": "lambda-labs",
+    "shortDescription": "AI GPU cloud computing.",
+    "category": "Automation",
+    "pricing": "Pay-per-use",
+    "website": "https://lambdalabs.com",
+    "logo": "https://www.google.com/s2/favicons?domain=lambdalabs.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "01/29/2026",
+    "description": "AI GPU cloud computing."
+  },
+  {
+    "name": "Vast AI",
+    "slug": "vast-ai",
+    "shortDescription": "GPU marketplace for AI.",
+    "category": "Automation",
+    "pricing": "Pay-per-use",
+    "website": "https://vast.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=vast.ai&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "01/13/2026",
+    "description": "GPU marketplace for AI."
+  },
+  {
+    "name": "CoreWeave",
+    "slug": "coreweave",
+    "shortDescription": "AI-specialized cloud provider.",
+    "category": "Automation",
+    "pricing": "Pay-per-use",
+    "website": "https://coreweave.com",
+    "logo": "https://www.google.com/s2/favicons?domain=coreweave.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/10/2026",
+    "description": "AI-specialized cloud provider."
+  },
+  {
+    "name": "Paperspace",
+    "slug": "paperspace",
+    "shortDescription": "AI cloud GPU platform.",
+    "category": "Automation",
+    "pricing": "Pay-per-use",
+    "website": "https://paperspace.com",
+    "logo": "https://www.google.com/s2/favicons?domain=paperspace.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "03/24/2026",
+    "description": "AI cloud GPU platform."
+  },
+  {
+    "name": "Teachable Machine",
+    "slug": "teachable-machine",
+    "shortDescription": "Google AI model trainer no-code.",
+    "category": "Automation",
+    "pricing": "Free",
+    "website": "https://teachablemachine.withgoogle.com",
+    "logo": "https://www.google.com/s2/favicons?domain=teachablemachine.withgoogle.com&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "04/06/2026",
+    "description": "Google AI model trainer no-code."
+  },
+  {
+    "name": "Lobe",
+    "slug": "lobe",
+    "shortDescription": "Microsoft AI model training without code.",
+    "category": "Automation",
+    "pricing": "Free",
+    "website": "https://lobe.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=lobe.ai&sz=128",
+    "tags": [
+      "Automation"
+    ],
+    "features": [],
+    "dateAdded": "02/22/2026",
+    "description": "Microsoft AI model training without code."
+  },
+  {
+    "name": "Quickbooks AI",
+    "slug": "quickbooks-ai",
+    "shortDescription": "AI accounting and bookkeeping.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://quickbooks.intuit.com",
+    "logo": "https://www.google.com/s2/favicons?domain=quickbooks.intuit.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/16/2026",
+    "description": "AI accounting and bookkeeping."
+  },
+  {
+    "name": "FreshBooks",
+    "slug": "freshbooks",
+    "shortDescription": "AI invoicing and accounting.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://freshbooks.com",
+    "logo": "https://www.google.com/s2/favicons?domain=freshbooks.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "04/08/2026",
+    "description": "AI invoicing and accounting."
+  },
+  {
+    "name": "Wave",
+    "slug": "wave",
+    "shortDescription": "Free AI accounting software.",
+    "category": "Finance",
+    "pricing": "Free",
+    "website": "https://waveapps.com",
+    "logo": "https://www.google.com/s2/favicons?domain=waveapps.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "01/23/2026",
+    "description": "Free AI accounting software."
+  },
+  {
+    "name": "Bench",
+    "slug": "bench",
+    "shortDescription": "AI-powered bookkeeping service.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://bench.co",
+    "logo": "https://www.google.com/s2/favicons?domain=bench.co&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "01/27/2026",
+    "description": "AI-powered bookkeeping service."
+  },
+  {
+    "name": "Pilot",
+    "slug": "pilot",
+    "shortDescription": "AI bookkeeping for startups.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://pilot.com",
+    "logo": "https://www.google.com/s2/favicons?domain=pilot.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "02/20/2026",
+    "description": "AI bookkeeping for startups."
+  },
+  {
+    "name": "Mercury",
+    "slug": "mercury",
+    "shortDescription": "AI banking for startups.",
+    "category": "Finance",
+    "pricing": "Free",
+    "website": "https://mercury.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mercury.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/01/2026",
+    "description": "AI banking for startups."
+  },
+  {
+    "name": "Carta",
+    "slug": "carta",
+    "shortDescription": "AI equity management platform.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://carta.com",
+    "logo": "https://www.google.com/s2/favicons?domain=carta.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "02/12/2026",
+    "description": "AI equity management platform."
+  },
+  {
+    "name": "Capchase",
+    "slug": "capchase",
+    "shortDescription": "AI revenue financing for SaaS.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://capchase.com",
+    "logo": "https://www.google.com/s2/favicons?domain=capchase.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/24/2026",
+    "description": "AI revenue financing for SaaS."
+  },
+  {
+    "name": "Pipe",
+    "slug": "pipe",
+    "shortDescription": "AI revenue-based financing platform.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://pipe.com",
+    "logo": "https://www.google.com/s2/favicons?domain=pipe.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "04/05/2026",
+    "description": "AI revenue-based financing platform."
+  },
+  {
+    "name": "Clearco",
+    "slug": "clearco",
+    "shortDescription": "AI revenue-based funding.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://clear.co",
+    "logo": "https://www.google.com/s2/favicons?domain=clear.co&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/26/2026",
+    "description": "AI revenue-based funding."
+  },
+  {
+    "name": "Payoneer",
+    "slug": "payoneer",
+    "shortDescription": "AI international payment platform.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://payoneer.com",
+    "logo": "https://www.google.com/s2/favicons?domain=payoneer.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/27/2026",
+    "description": "AI international payment platform."
+  },
+  {
+    "name": "Wise",
+    "slug": "wise",
+    "shortDescription": "AI international money transfer.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://wise.com",
+    "logo": "https://www.google.com/s2/favicons?domain=wise.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/11/2026",
+    "description": "AI international money transfer."
+  },
+  {
+    "name": "Deel",
+    "slug": "deel",
+    "shortDescription": "AI global payroll and compliance.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://deel.com",
+    "logo": "https://www.google.com/s2/favicons?domain=deel.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "04/05/2026",
+    "description": "AI global payroll and compliance."
+  },
+  {
+    "name": "Gusto",
+    "slug": "gusto",
+    "shortDescription": "AI payroll and HR platform.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://gusto.com",
+    "logo": "https://www.google.com/s2/favicons?domain=gusto.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "01/28/2026",
+    "description": "AI payroll and HR platform."
+  },
+  {
+    "name": "Rippling",
+    "slug": "rippling",
+    "shortDescription": "AI HR and finance platform.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://rippling.com",
+    "logo": "https://www.google.com/s2/favicons?domain=rippling.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/30/2026",
+    "description": "AI HR and finance platform."
+  },
+  {
+    "name": "Expensify",
+    "slug": "expensify",
+    "shortDescription": "AI expense management.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://expensify.com",
+    "logo": "https://www.google.com/s2/favicons?domain=expensify.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "02/05/2026",
+    "description": "AI expense management."
+  },
+  {
+    "name": "Divvy",
+    "slug": "divvy",
+    "shortDescription": "AI expense management and corporate cards.",
+    "category": "Finance",
+    "pricing": "Free",
+    "website": "https://divvy.co",
+    "logo": "https://www.google.com/s2/favicons?domain=divvy.co&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "02/28/2026",
+    "description": "AI expense management and corporate cards."
+  },
+  {
+    "name": "Spendesk",
+    "slug": "spendesk",
+    "shortDescription": "AI spend management for finance teams.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://spendesk.com",
+    "logo": "https://www.google.com/s2/favicons?domain=spendesk.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/23/2026",
+    "description": "AI spend management for finance teams."
+  },
+  {
+    "name": "Pleo",
+    "slug": "pleo",
+    "shortDescription": "AI company spending solution.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://pleo.io",
+    "logo": "https://www.google.com/s2/favicons?domain=pleo.io&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/09/2026",
+    "description": "AI company spending solution."
+  },
+  {
+    "name": "Airwallex",
+    "slug": "airwallex",
+    "shortDescription": "AI global payments platform.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://airwallex.com",
+    "logo": "https://www.google.com/s2/favicons?domain=airwallex.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "01/18/2026",
+    "description": "AI global payments platform."
+  },
+  {
+    "name": "Chargebee",
+    "slug": "chargebee",
+    "shortDescription": "AI subscription billing management.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://chargebee.com",
+    "logo": "https://www.google.com/s2/favicons?domain=chargebee.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "02/01/2026",
+    "description": "AI subscription billing management."
+  },
+  {
+    "name": "Paddle",
+    "slug": "paddle",
+    "shortDescription": "AI payment infrastructure for SaaS.",
+    "category": "Finance",
+    "pricing": "Pay-per-use",
+    "website": "https://paddle.com",
+    "logo": "https://www.google.com/s2/favicons?domain=paddle.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/16/2026",
+    "description": "AI payment infrastructure for SaaS."
+  },
+  {
+    "name": "ProfitWell",
+    "slug": "profitwell",
+    "shortDescription": "AI subscription analytics.",
+    "category": "Finance",
+    "pricing": "Free",
+    "website": "https://profitwell.com",
+    "logo": "https://www.google.com/s2/favicons?domain=profitwell.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "02/24/2026",
+    "description": "AI subscription analytics."
+  },
+  {
+    "name": "Baremetrics",
+    "slug": "baremetrics",
+    "shortDescription": "AI subscription analytics dashboard.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://baremetrics.com",
+    "logo": "https://www.google.com/s2/favicons?domain=baremetrics.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/14/2026",
+    "description": "AI subscription analytics dashboard."
+  },
+  {
+    "name": "ChartMogul",
+    "slug": "chartmogul",
+    "shortDescription": "AI subscription data platform.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://chartmogul.com",
+    "logo": "https://www.google.com/s2/favicons?domain=chartmogul.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "01/21/2026",
+    "description": "AI subscription data platform."
+  },
+  {
+    "name": "Finbox",
+    "slug": "finbox",
+    "shortDescription": "AI stock analysis and valuation.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://finbox.com",
+    "logo": "https://www.google.com/s2/favicons?domain=finbox.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "01/26/2026",
+    "description": "AI stock analysis and valuation."
+  },
+  {
+    "name": "Simply Wall St",
+    "slug": "simply-wall-st",
+    "shortDescription": "AI visual stock analysis.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://simplywall.st",
+    "logo": "https://www.google.com/s2/favicons?domain=simplywall.st&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/07/2026",
+    "description": "AI visual stock analysis."
+  },
+  {
+    "name": "Stock Analysis",
+    "slug": "stock-analysis",
+    "shortDescription": "AI stock research platform.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://stockanalysis.com",
+    "logo": "https://www.google.com/s2/favicons?domain=stockanalysis.com&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "02/13/2026",
+    "description": "AI stock research platform."
+  },
+  {
+    "name": "Atom Finance",
+    "slug": "atom-finance",
+    "shortDescription": "AI investment research platform.",
+    "category": "Finance",
+    "pricing": "Free",
+    "website": "https://atom.finance",
+    "logo": "https://www.google.com/s2/favicons?domain=atom.finance&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "03/15/2026",
+    "description": "AI investment research platform."
+  },
+  {
+    "name": "Composer",
+    "slug": "composer",
+    "shortDescription": "AI automated trading strategies.",
+    "category": "Finance",
+    "pricing": "Paid",
+    "website": "https://composer.trade",
+    "logo": "https://www.google.com/s2/favicons?domain=composer.trade&sz=128",
+    "tags": [
+      "Finance"
+    ],
+    "features": [],
+    "dateAdded": "04/09/2026",
+    "description": "AI automated trading strategies."
   }
 ]
