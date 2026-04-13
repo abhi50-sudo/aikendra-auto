@@ -20,7 +20,7 @@ window.__AK_IDEAS = ideasData;
 
 // --- Theme ---
 function initTheme() {
-  const saved = localStorage.getItem('ak-theme') || 'dark';
+  const saved = localStorage.getItem('ak-theme') || 'light';
   document.documentElement.setAttribute('data-theme', saved);
 }
 
