@@ -2,6 +2,9 @@
    AI Kendra — Design System
    ======================================== */
 
+/* --- Base Font Scale (110% for better readability) --- */
+html { font-size: 110%; }
+
 /* --- CSS Custom Properties --- */
 :root {
   /* Colors - Light theme (High Contrast Monochrome) */
