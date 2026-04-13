@@ -1,5 +1,110 @@
 [
   {
+    "name": "Lovable",
+    "slug": "lovable",
+    "shortDescription": "Build production-grade web apps from natural language.",
+    "description": "Lovable (formerly GPT Engineer) turns your ideas into fully functional web applications. Describe what you want, iterate with AI, and ship a production-ready app.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://lovable.dev",
+    "tags": [
+      "App Builder",
+      "No-Code",
+      "AI Development"
+    ],
+    "features": [
+      "Natural Language Building",
+      "Real-Time Preview",
+      "Git Integration"
+    ],
+    "dateAdded": "04/13/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=lovable.dev&sz=128"
+  },
+  {
+    "name": "Bolt.new",
+    "slug": "bolt-new",
+    "shortDescription": "Build and deploy full-stack web apps from a prompt.",
+    "description": "Bolt.new by StackBlitz lets you prompt, run, edit, and deploy full-stack web applications entirely in the browser. Uses AI to scaffold entire projects with working backends.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://bolt.new",
+    "tags": [
+      "Full-Stack",
+      "Web Apps",
+      "AI Builder"
+    ],
+    "features": [
+      "Prompt to App",
+      "In-Browser IDE",
+      "One-Click Deploy"
+    ],
+    "dateAdded": "04/13/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=bolt.new&sz=128"
+  },
+  {
+    "name": "Vercel v0",
+    "slug": "vercel-v0",
+    "shortDescription": "Generate React UI components from text descriptions.",
+    "description": "v0 by Vercel uses AI to generate production-ready React components from natural language prompts. Outputs clean, modern UI code using shadcn/ui and Tailwind CSS.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://v0.dev",
+    "tags": [
+      "UI Generation",
+      "React",
+      "Frontend"
+    ],
+    "features": [
+      "Text-to-UI",
+      "shadcn/ui Output",
+      "Tailwind CSS"
+    ],
+    "dateAdded": "04/13/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=v0.dev&sz=128"
+  },
+  {
+    "name": "Replit AI",
+    "slug": "replit-ai",
+    "shortDescription": "AI-powered coding environment for building apps in your browser.",
+    "description": "Replit AI turns natural language descriptions into working applications. Write, run, and deploy code directly in your browser with AI assistance that understands your entire project.",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "website": "https://replit.com",
+    "tags": [
+      "IDE",
+      "Code Generation",
+      "Deployment"
+    ],
+    "features": [
+      "AI Code Completion",
+      "Instant Deploy",
+      "Multiplayer Coding"
+    ],
+    "dateAdded": "04/13/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=replit.com&sz=128"
+  },
+  {
+    "name": "Anthropic Console",
+    "slug": "anthropic-console",
+    "shortDescription": "Developer playground for building with Claude API.",
+    "description": "Anthropic Console provides a developer-friendly interface to test, iterate, and deploy applications using the Claude API. Includes prompt engineering tools, usage analytics, and API key management.",
+    "category": "Coding & Development",
+    "pricing": "Pay-per-use",
+    "website": "https://console.anthropic.com",
+    "tags": [
+      "API",
+      "Claude",
+      "Developer Tools"
+    ],
+    "features": [
+      "Prompt Playground",
+      "API Keys",
+      "Usage Dashboard"
+    ],
+    "dateAdded": "04/13/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=console.anthropic.com&sz=128"
+  },
+  {
     "name": "Perplexity AI",
     "slug": "perplexity-ai",
     "shortDescription": "The AI search engine that gives you citations and instant answers.",

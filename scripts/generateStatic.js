@@ -73,6 +73,64 @@ function generateStaticPages() {
   });
   console.log(`Generated ${categories.length} category SEO pages.`);
 
+  // --- SITEMAP.XML ---
+  const SITE_URL = 'https://aikendra.com';
+  const today = new Date().toISOString().split('T')[0];
+  
+  let urls = [];
+  
+  // Core pages
+  const corePages = [
+    { loc: '/', changefreq: 'daily', priority: '1.0' },
+    { loc: '/ai-tools', changefreq: 'daily', priority: '0.9' },
+    { loc: '/startup-ideas', changefreq: 'weekly', priority: '0.8' },
+    { loc: '/submit', changefreq: 'monthly', priority: '0.5' },
+    { loc: '/about', changefreq: 'monthly', priority: '0.4' },
+    { loc: '/contact', changefreq: 'monthly', priority: '0.3' },
+    { loc: '/privacy', changefreq: 'monthly', priority: '0.2' },
+    { loc: '/terms', changefreq: 'monthly', priority: '0.2' },
+  ];
+  corePages.forEach(p => urls.push(p));
+  
+  // Tool pages
+  tools.forEach(tool => {
+    if (!tool.slug) return;
+    urls.push({ loc: `/ai-tools/tool/${tool.slug}`, changefreq: 'weekly', priority: '0.7' });
+  });
+  
+  // Idea pages
+  ideas.forEach(idea => {
+    if (!idea.slug) return;
+    urls.push({ loc: `/startup-ideas/${idea.slug}`, changefreq: 'weekly', priority: '0.6' });
+  });
+  
+  // Category pages
+  categories.forEach(cat => {
+    const slug = cat.toLowerCase().replace(/ & /g, '-').replace(/ /g, '-');
+    urls.push({ loc: `/ai-tools/${slug}`, changefreq: 'weekly', priority: '0.6' });
+  });
+  
+  const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${urls.map(u => `  <url>
+    <loc>${SITE_URL}${u.loc}</loc>
+    <lastmod>${today}</lastmod>
+    <changefreq>${u.changefreq}</changefreq>
+    <priority>${u.priority}</priority>
+  </url>`).join('\n')}
+</urlset>`;
+  
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemapXml);
+  console.log(`Generated sitemap.xml with ${urls.length} URLs.`);
+  
+  // robots.txt
+  const robotsTxt = `User-agent: *
+Allow: /
+
+Sitemap: ${SITE_URL}/sitemap.xml`;
+  fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), robotsTxt);
+  console.log('Generated robots.txt.');
+
   console.log('Static Site Generation complete!');
 }
 
