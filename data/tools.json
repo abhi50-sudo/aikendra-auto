@@ -60,14 +60,15 @@
       "200k Context Window",
       "Vision Analysis"
     ],
-    "dateAdded": "4/5/2026"
+    "dateAdded": "4/5/2026",
+    "featured": true
   },
   {
     "name": "Suno AI",
     "slug": "suno",
     "shortDescription": "Generate complete, studio-quality songs with vocals from a text prompt.",
     "description": "Suno is building a future where anyone can make great music. It takes a text description of a song—including genre and topic—and generates full two-minute tracks complete with hyper-realistic human vocals and instrumentation.",
-    "category": "Audio",
+    "category": "Audio & Voice",
     "pricing": "Freemium",
     "website": "https://suno.com",
     "logo": "https://suno.com/favicon.ico",
@@ -87,7 +88,7 @@
     "slug": "cursor",
     "shortDescription": "The AI-first code editor designed to make you instantly more productive.",
     "description": "Cursor is a fork of VS Code imbued with advanced AI capabilities. Features like 'Composer' allow multi-file code generation and editing, completely changing the paradigm of software development.",
-    "category": "Coding",
+    "category": "Coding & Development",
     "pricing": "Freemium",
     "website": "https://cursor.com",
     "logo": "https://cursor.com/favicon.ico",
@@ -100,7 +101,8 @@
       "Codebase Indexing",
       "Copilot"
     ],
-    "dateAdded": "4/5/2026"
+    "dateAdded": "4/5/2026",
+    "featured": true
   },
   {
     "name": "ChatGPT",
@@ -121,7 +123,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Midjourney",
@@ -142,7 +145,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Perplexity",
@@ -163,7 +167,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Notion AI",
@@ -226,7 +231,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "ElevenLabs",
@@ -247,7 +253,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Phind",
@@ -436,7 +443,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Github Copilot",
@@ -457,7 +465,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Devin",
@@ -940,7 +949,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Claude",
@@ -961,7 +971,8 @@
       "Cloud Sync",
       "Analytics"
     ],
-    "dateAdded": "4/6/2026"
+    "dateAdded": "4/6/2026",
+    "featured": true
   },
   {
     "name": "Mistral",
