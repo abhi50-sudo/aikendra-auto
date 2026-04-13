@@ -15,69 +15,87 @@ export function renderIdeaDetail(slug) {
     `;
   }
 
-  const diffClass = idea.difficulty.toLowerCase();
+  const diffClass = idea.difficulty ? idea.difficulty.toLowerCase() : 'beginner';
+  const diffEmoji = { beginner: '🟢', intermediate: '🟡', advanced: '🔴' }[diffClass] || '🟢';
+  const categoryEmoji = {
+    'SaaS': '💡', 'Content Creation': '🎬', 'Automation Tools': '⚙️',
+    'Developer Tools': '💻', 'Marketing Tools': '📣', 'Productivity Tools': '⚡',
+    'E-commerce Tools': '🛒', 'Coding': '💻', 'Writing': '✍️'
+  }[idea.category] || '💡';
+
+  const sections = [
+    { icon: '🚨', title: 'The Problem', content: idea.problem },
+    { icon: '✅', title: 'The Solution', content: idea.solution },
+    { icon: '👥', title: 'Target Users', content: idea.targetUsers },
+    { icon: '💰', title: 'Revenue Model', content: idea.revenueModel },
+    { icon: '🛠️', title: 'How to Build It', content: idea.exampleImplementation },
+    { icon: '🏆', title: 'Competitive Edge', content: idea.competitiveEdge },
+  ].filter(s => s.content);
 
   return `
-    <div class="container">
-      <div class="detail-hero">
-        <div style="margin-bottom:var(--space-lg);">
-          <a href="/startup-ideas" class="btn btn-secondary btn-sm" data-link>← Back to Ideas</a>
+    <div class="container" style="max-width:860px;">
+      <div style="margin-bottom:var(--space-xl);">
+        <a href="/startup-ideas" class="btn btn-secondary btn-sm" data-link>← Back to Ideas</a>
+      </div>
+
+      <!-- Hero -->
+      <div class="idea-detail-hero">
+        <div class="idea-detail-icon">${categoryEmoji}</div>
+        <div class="idea-detail-header-text">
+          <div class="idea-detail-badges">
+            <span class="badge badge-${diffClass}">${diffEmoji} ${idea.difficulty}</span>
+            <span class="badge" style="background:var(--bg-tertiary);color:var(--text-secondary);">${idea.category}</span>
+            ${(idea.tags || []).map(t => `<span class="badge" style="background:var(--bg-tertiary);color:var(--text-tertiary);font-size:var(--font-xs);">${t}</span>`).join('')}
+          </div>
+          <h1 style="margin:var(--space-md) 0 var(--space-sm);">${idea.title}</h1>
+          <p style="color:var(--text-secondary);font-size:var(--font-lg);line-height:1.6;">${idea.summary}</p>
         </div>
-        <div class="detail-info">
-          <h1>${idea.title}</h1>
-          <p>${idea.summary}</p>
-          <div class="detail-tags">
-            <span class="badge badge-${diffClass}">${idea.difficulty}</span>
-            <span class="badge">${idea.category}</span>
-            ${idea.tags.map(t => `<span class="badge" style="background:var(--bg-tertiary);color:var(--text-secondary);">${t}</span>`).join('')}
+      </div>
+
+      <!-- At a Glance Stats -->
+      <div class="idea-stats-grid">
+        ${idea.marketSize ? `
+        <div class="idea-stat-card">
+          <span class="idea-stat-icon">📊</span>
+          <div>
+            <p class="idea-stat-label">Market Size</p>
+            <p class="idea-stat-value">${idea.marketSize}</p>
+          </div>
+        </div>` : ''}
+        ${idea.timeToMVP ? `
+        <div class="idea-stat-card">
+          <span class="idea-stat-icon">⏱️</span>
+          <div>
+            <p class="idea-stat-label">Time to MVP</p>
+            <p class="idea-stat-value">${idea.timeToMVP}</p>
+          </div>
+        </div>` : ''}
+        <div class="idea-stat-card">
+          <span class="idea-stat-icon">📈</span>
+          <div>
+            <p class="idea-stat-label">Difficulty</p>
+            <p class="idea-stat-value">${idea.difficulty}</p>
           </div>
         </div>
       </div>
 
-      <div class="detail-body">
-        <div class="detail-section">
-          <h2>Problem Statement</h2>
-          <p>${idea.problem}</p>
-        </div>
-
-        <div class="detail-section">
-          <h2>Proposed Solution</h2>
-          <p>${idea.solution}</p>
-        </div>
-
-        <div class="detail-section">
-          <h2>Target Users</h2>
-          <p>${idea.targetUsers}</p>
-        </div>
-
-        <div class="detail-section">
-          <h2>Revenue Model</h2>
-          <p>${idea.revenueModel}</p>
-        </div>
-
-        <div class="detail-section">
-          <h2>Example Implementation</h2>
-          <p>${idea.exampleImplementation}</p>
-        </div>
-
-        <div class="detail-section">
-          <h2>At a Glance</h2>
-          <div class="grid grid-3" style="gap:var(--space-md);">
-            <div class="card" style="padding:var(--space-lg);">
-              <p style="color:var(--text-tertiary);font-size:var(--font-xs);font-weight:600;text-transform:uppercase;margin-bottom:var(--space-xs);">Difficulty</p>
-              <p><span class="badge badge-${diffClass}">${idea.difficulty}</span></p>
-            </div>
-            <div class="card" style="padding:var(--space-lg);">
-              <p style="color:var(--text-tertiary);font-size:var(--font-xs);font-weight:600;text-transform:uppercase;margin-bottom:var(--space-xs);">Category</p>
-              <p style="font-weight:600;color:var(--text-primary);">${idea.category}</p>
-            </div>
-            <div class="card" style="padding:var(--space-lg);">
-              <p style="color:var(--text-tertiary);font-size:var(--font-xs);font-weight:600;text-transform:uppercase;margin-bottom:var(--space-xs);">Tags</p>
-              <p style="font-weight:600;color:var(--text-primary);">${idea.tags.join(', ')}</p>
-            </div>
+      <!-- Content Sections -->
+      <div class="idea-sections">
+        ${sections.map(s => `
+          <div class="idea-section-card">
+            <h2 class="idea-section-title">${s.icon} ${s.title}</h2>
+            <p class="idea-section-body">${s.content}</p>
           </div>
-        </div>
+        `).join('')}
+      </div>
+
+      <!-- CTA -->
+      <div class="idea-cta-box">
+        <h3>Ready to build this?</h3>
+        <p>Browse our AI tools directory to find the right tools to bring this idea to life.</p>
+        <a href="/ai-tools" class="btn btn-primary" data-link>Browse AI Tools →</a>
       </div>
     </div>
+    <div style="height:var(--space-4xl);"></div>
   `;
 }

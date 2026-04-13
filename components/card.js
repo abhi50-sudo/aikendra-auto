@@ -22,14 +22,31 @@ export function toolCard(tool) {
 }
 
 export function ideaCard(idea) {
-  const diffClass = idea.difficulty.toLowerCase();
+  const diffClass = idea.difficulty ? idea.difficulty.toLowerCase() : 'beginner';
+  const diffEmoji = { beginner: '🟢', intermediate: '🟡', advanced: '🔴' }[diffClass] || '🟢';
+  const categoryEmoji = {
+    'SaaS': '💡', 'Content Creation': '🎬', 'Automation Tools': '⚙️',
+    'Developer Tools': '💻', 'Marketing Tools': '📣', 'Productivity Tools': '⚡',
+    'E-commerce Tools': '🛒', 'Coding': '💻', 'Writing': '✍️'
+  }[idea.category] || '💡';
+
   return `
     <a href="/startup-ideas/${idea.slug}" class="idea-card animate-in" data-link>
+      <div class="idea-card-top">
+        <div class="idea-card-icon">${categoryEmoji}</div>
+        <div class="idea-card-badges">
+          <span class="badge badge-${diffClass}">${diffEmoji} ${idea.difficulty}</span>
+        </div>
+      </div>
       <h3>${idea.title}</h3>
       <p>${idea.summary}</p>
+      <div class="idea-card-meta">
+        ${idea.marketSize ? `<div class="idea-meta-item"><span class="idea-meta-label">Market</span><span class="idea-meta-value">${idea.marketSize.split(' ')[0]}</span></div>` : ''}
+        ${idea.timeToMVP ? `<div class="idea-meta-item"><span class="idea-meta-label">MVP</span><span class="idea-meta-value">${idea.timeToMVP}</span></div>` : ''}
+      </div>
       <div class="idea-card-footer">
-        <span class="badge badge-${diffClass}">${idea.difficulty}</span>
-        <span class="badge">${idea.category}</span>
+        <span class="badge" style="background:var(--bg-tertiary);color:var(--text-secondary);">${idea.category}</span>
+        <span class="idea-card-cta">Explore →</span>
       </div>
     </a>
   `;
