@@ -1,5 +1,110 @@
 [
   {
+    "name": "Ramp",
+    "slug": "ramp-ai",
+    "shortDescription": "AI-powered corporate card and expense management that saves money.",
+    "description": "Ramp uses AI to automatically categorize expenses, flag duplicate subscriptions, negotiate vendor savings, and provide real-time financial insights for businesses.",
+    "category": "Finance",
+    "pricing": "Free",
+    "website": "https://ramp.com",
+    "tags": [
+      "Expense Management",
+      "Corporate Card",
+      "Financial AI"
+    ],
+    "features": [
+      "Auto Categorization",
+      "Savings Insights",
+      "Receipt Matching"
+    ],
+    "dateAdded": "04/14/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=ramp.com&sz=128"
+  },
+  {
+    "name": "Clay",
+    "slug": "clay-ai",
+    "shortDescription": "AI-powered data enrichment and outreach platform for sales teams.",
+    "description": "Clay combines 75+ data providers with AI to enrich leads, research prospects, and automate personalized outreach at scale. The modern sales intelligence platform.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://clay.com",
+    "tags": [
+      "Sales Intelligence",
+      "Lead Enrichment",
+      "Outreach"
+    ],
+    "features": [
+      "75+ Data Sources",
+      "AI Research Agent",
+      "Waterfall Enrichment"
+    ],
+    "dateAdded": "04/14/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=clay.com&sz=128"
+  },
+  {
+    "name": "Scite AI",
+    "slug": "scite-ai",
+    "shortDescription": "AI-powered research tool showing how papers cite each other.",
+    "description": "Scite analyzes millions of research papers to show you how they support or contrast each other's findings. Essential for academic research and literature reviews.",
+    "category": "Research",
+    "pricing": "Freemium",
+    "website": "https://scite.ai",
+    "tags": [
+      "Academic",
+      "Citations",
+      "Research"
+    ],
+    "features": [
+      "Smart Citations",
+      "Reference Check",
+      "Research Assistant"
+    ],
+    "dateAdded": "04/14/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=scite.ai&sz=128"
+  },
+  {
+    "name": "Sora",
+    "slug": "sora-ai",
+    "shortDescription": "OpenAI's text-to-video model for realistic video generation.",
+    "description": "Sora by OpenAI generates realistic, high-quality videos from text prompts. Can create videos up to a minute long while maintaining visual quality and adherence to the prompt.",
+    "category": "Video Creation",
+    "pricing": "Included with ChatGPT Pro",
+    "website": "https://sora.com",
+    "tags": [
+      "Text-to-Video",
+      "OpenAI",
+      "Video AI"
+    ],
+    "features": [
+      "Realistic Generation",
+      "Long-Form Video",
+      "Scene Composition"
+    ],
+    "dateAdded": "04/14/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=sora.com&sz=128"
+  },
+  {
+    "name": "Pika",
+    "slug": "pika-ai",
+    "shortDescription": "Create and edit videos with AI in seconds.",
+    "description": "Pika is an AI video generation platform that creates and edits videos from text, images, or existing clips. Features include lip sync, scene extension, and style transfer.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://pika.art",
+    "tags": [
+      "Video Editing",
+      "AI Video",
+      "Creative Tools"
+    ],
+    "features": [
+      "Text-to-Video",
+      "Video Extend",
+      "Lip Sync"
+    ],
+    "dateAdded": "04/14/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=pika.art&sz=128"
+  },
+  {
     "name": "Lovable",
     "slug": "lovable",
     "shortDescription": "Build production-grade web apps from natural language.",
