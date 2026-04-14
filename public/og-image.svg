@@ -1,0 +1,14 @@
+﻿<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0a1e"/>
+      <stop offset="100%" style="stop-color:#1a1145"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="240" text-anchor="middle" fill="#f59e0b" font-family="Arial,sans-serif" font-size="42" font-weight="bold">◆</text>
+  <text x="600" y="310" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="72" font-weight="bold">AI Kendra</text>
+  <text x="600" y="380" text-anchor="middle" fill="#a0a0b0" font-family="Arial,sans-serif" font-size="28">Discover 750+ AI Tools &amp; Startup Ideas</text>
+  <text x="600" y="430" text-anchor="middle" fill="#6b6b80" font-family="Arial,sans-serif" font-size="20">Writing · Image Gen · Video · Coding · Marketing · Finance · Automation</text>
+  <text x="600" y="530" text-anchor="middle" fill="#f59e0b" font-family="Arial,sans-serif" font-size="22">aikendra.com</text>
+</svg>

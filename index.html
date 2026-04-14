@@ -1,21 +1,29 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI Kendra — Discover AI Tools & Startup Ideas</title>
+  <title>AI Kendra â€” Discover AI Tools & Startup Ideas</title>
   <meta name="description" content="AI Kendra is your central hub to discover the best AI tools and explore startup ideas powered by artificial intelligence." />
   <meta name="keywords" content="AI tools, AI startup ideas, artificial intelligence, AI directory, AI hub" />
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="AI Kendra" />
-  <meta property="og:title" content="AI Kendra — Discover AI Tools & Startup Ideas" />
+  <meta property="og:title" content="AI Kendra â€” Discover AI Tools & Startup Ideas" />
   <meta property="og:description" content="Your central hub to discover the best AI tools and explore startup ideas powered by artificial intelligence." />
   <meta property="og:url" content="https://aikendra.com" />
+  <meta property="og:image" content="https://aikendra.com/og-image.svg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="AI Kendra â€” Discover the best AI tools and startup ideas" />
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="AI Kendra — Discover AI Tools & Startup Ideas" />
+  <meta name="twitter:title" content="AI Kendra â€” Discover AI Tools & Startup Ideas" />
   <meta name="twitter:description" content="Your central hub to discover the best AI tools and explore startup ideas powered by artificial intelligence." />
+  <meta name="twitter:image" content="https://aikendra.com/og-image.svg" />
+  <!-- Author -->
+  <meta name="author" content="AI Kendra Team" />
+  <link rel="author" href="https://aikendra.com/about" />
   <!-- Canonical -->
   <link rel="canonical" href="https://aikendra.com" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -23,13 +31,101 @@
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="stylesheet" href="/style.css" />
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "AI Kendra",
+    "url": "https://aikendra.com",
+    "logo": "https://aikendra.com/favicon.svg",
+    "description": "AI Kendra is a comprehensive AI tools directory and startup ideas platform, helping users discover the best artificial intelligence tools across 10+ categories.",
+    "foundingDate": "2026",
+    "founder": {
+      "@type": "Person",
+      "name": "Abhi",
+      "url": "https://aikendra.com/about"
+    },
+    "sameAs": [
+      "https://twitter.com/aikendra",
+      "https://github.com/abhi50-sudo/aikendra-auto"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "AI Kendra",
+    "url": "https://aikendra.com",
+    "description": "AI Kendra is a curated directory of 750+ AI tools and startup ideas, covering categories like Writing, Image Generation, Video, Coding, Marketing, and more.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://aikendra.com/ai-tools?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Abhi",
+      "url": "https://aikendra.com/about"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is AI Kendra?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AI Kendra is a curated directory of 750+ AI tools and startup ideas. It helps users discover the best artificial intelligence tools across 10+ categories including Writing, Image Generation, Video Creation, Coding, Marketing, Finance, and more."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many AI tools are listed on AI Kendra?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AI Kendra currently lists over 750 AI tools across 10 categories. New tools are added daily through automated curation from GitHub trending repositories and a curated backlog of verified tools."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What categories of AI tools does AI Kendra cover?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AI Kendra covers 10 major categories: Writing, Image Generation, Video Creation, Audio & Voice, Coding & Development, Productivity, Marketing, Finance, Automation, and Research."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I submit my AI tool to AI Kendra?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can submit your AI tool through the Submit page on AI Kendra. Provide the tool name, website URL, category, pricing model, and a short description. All submissions are reviewed before being added to the directory."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is AI Kendra free to use?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, AI Kendra is completely free to browse and use. Users can search, filter, and discover AI tools without any registration or payment required."
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
   <!-- Navbar -->
   <nav class="navbar" id="navbar">
     <div class="nav-container">
       <a href="/" class="nav-logo" data-link>
-        <span class="logo-icon">◆</span>
+        <span class="logo-icon">â—†</span>
         <span class="logo-text">AI Kendra</span>
       </a>
       <ul class="nav-links" id="navLinks">
@@ -56,7 +152,7 @@
     <div class="search-overlay" id="searchOverlay">
       <div class="search-overlay-inner">
         <input type="text" id="globalSearch" placeholder="Search AI tools and ideas..." autocomplete="off" />
-        <button class="search-close" id="searchClose" aria-label="Close search">✕</button>
+        <button class="search-close" id="searchClose" aria-label="Close search">âœ•</button>
       </div>
       <div class="search-results" id="globalSearchResults"></div>
     </div>
@@ -71,7 +167,7 @@
       <div class="footer-grid">
         <div class="footer-col footer-brand">
           <a href="/" class="footer-logo" data-link>
-            <span class="logo-icon">◆</span> AI Kendra
+            <span class="logo-icon">â—†</span> AI Kendra
           </a>
           <p>Your central hub to discover the best AI tools and explore startup ideas powered by artificial intelligence.</p>
         </div>
@@ -105,7 +201,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© 2026 AI Kendra. All rights reserved.</p>
+        <p>Â© 2026 AI Kendra. All rights reserved.</p>
       </div>
     </div>
   </footer>
