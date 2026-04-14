@@ -1,18 +1,18 @@
-// Homepage — Directory-First Layout with Full SEO Optimization
+// Homepage — Directory-First Layout (Tools First, SEO at Bottom)
 import { toolCard, ideaCard } from '../components/card.js';
 
 const categories = [
-  { slug: 'all', name: 'All', icon: '📁' },
-  { slug: 'writing', name: 'Writing', icon: '✍️' },
-  { slug: 'image-generation', name: 'Image Gen', icon: '🎨' },
-  { slug: 'video-creation', name: 'Video', icon: '🎬' },
-  { slug: 'audio-voice', name: 'Audio', icon: '🎙️' },
-  { slug: 'coding-development', name: 'Coding', icon: '💻' },
-  { slug: 'productivity', name: 'Productivity', icon: '📋' },
-  { slug: 'marketing', name: 'Marketing', icon: '📢' },
-  { slug: 'finance', name: 'Finance', icon: '🛡️' },
-  { slug: 'automation', name: 'Automation', icon: '⚡' },
-  { slug: 'research', name: 'Research', icon: '🔬' },
+  { slug: 'all', name: 'All', icon: '\u{1F4C1}' },
+  { slug: 'writing', name: 'Writing', icon: '\u270D\uFE0F' },
+  { slug: 'image-generation', name: 'Image Gen', icon: '\u{1F3A8}' },
+  { slug: 'video-creation', name: 'Video', icon: '\u{1F3AC}' },
+  { slug: 'audio-voice', name: 'Audio', icon: '\u{1F399}\uFE0F' },
+  { slug: 'coding-development', name: 'Coding', icon: '\u{1F4BB}' },
+  { slug: 'productivity', name: 'Productivity', icon: '\u{1F4CB}' },
+  { slug: 'marketing', name: 'Marketing', icon: '\u{1F4E2}' },
+  { slug: 'finance', name: 'Finance', icon: '\u{1F6E1}\uFE0F' },
+  { slug: 'automation', name: 'Automation', icon: '\u26A1' },
+  { slug: 'research', name: 'Research', icon: '\u{1F52C}' },
 ];
 
 function getCategorySlug(categoryName) {
@@ -36,7 +36,7 @@ function toolRow(t) {
     <a href="/ai-tools/tool/${t.slug}" class="tool-grid-card" data-link data-category="${getCategorySlug(t.category)}">
       <div class="tool-grid-card-top">
         <span class="tool-grid-logo" ${t.logo && t.logo.includes('http') ? `style="padding:0;background:transparent;overflow:hidden;"` : ''}>
-          ${t.logo && t.logo.includes('http') ? `<img src="${t.logo.trim()}" alt="${t.name} logo - ${t.category} AI Tool" onerror="this.parentElement.innerHTML='🤖'; this.parentElement.style='';" style="width:100%;height:100%;object-fit:cover;border-radius:var(--radius-md);">` : (t.logo || '🤖')}
+          ${t.logo && t.logo.includes('http') ? `<img src="${t.logo.trim()}" alt="${t.name} - ${t.category} AI Tool" onerror="this.parentElement.innerHTML='&#129302;'; this.parentElement.style='';" style="width:100%;height:100%;object-fit:cover;border-radius:var(--radius-md);">` : (t.logo || '&#129302;')}
         </span>
         <div class="tool-grid-title-wrap">
           <h3>${t.name}</h3>
@@ -57,7 +57,7 @@ function ideaRow(i) {
   return `
     <a href="/startup-ideas/${i.slug}" class="tool-grid-card idea-card" data-link>
       <div class="tool-grid-card-top">
-        <span class="tool-grid-logo">💡</span>
+        <span class="tool-grid-logo">&#128161;</span>
         <div class="tool-grid-title-wrap">
           <h3>${i.title}</h3>
         </div>
@@ -71,24 +71,6 @@ function ideaRow(i) {
   `;
 }
 
-function getCategoryStats(tools) {
-  const stats = {};
-  tools.forEach(t => {
-    stats[t.category] = (stats[t.category] || 0) + 1;
-  });
-  return stats;
-}
-
-function getPricingStats(tools) {
-  const stats = { Free: 0, Freemium: 0, Paid: 0, 'Open Source': 0, Other: 0 };
-  tools.forEach(t => {
-    const p = t.pricing || 'Free';
-    if (stats[p] !== undefined) stats[p]++;
-    else stats.Other++;
-  });
-  return stats;
-}
-
 export function renderHome() {
   const tools = window.__AK_TOOLS;
   const ideas = window.__AK_IDEAS;
@@ -96,60 +78,16 @@ export function renderHome() {
   const featuredTools = tools.filter(t => t.featured);
   const newestTools = [...tools].sort((a, b) => new Date(b.dateAdded) - new Date(a.dateAdded));
   const allTools = [...tools].sort((a, b) => a.name.localeCompare(b.name));
-  const catStats = getCategoryStats(tools);
-  const priceStats = getPricingStats(tools);
 
   return `
-    <!-- Compact Hero with Definition Pattern & Stats -->
+    <!-- Clean Hero — No clutter -->
     <section class="dir-hero">
       <div class="container">
         <h1>Discover AI Tools & Startup Ideas</h1>
-        <p class="dir-hero-intro">AI Kendra is the most comprehensive directory of artificial intelligence tools, featuring <strong>${tools.length}+ curated AI tools</strong> across <strong>${categories.length - 1} categories</strong> — updated daily with the latest AI products from around the world. Whether you're a developer, marketer, researcher, or entrepreneur, find the perfect AI tool for your workflow.</p>
-        <p class="dir-hero-stats">${tools.length} AI Tools · ${ideas.length} Startup Ideas · ${categories.length - 1} Categories · Updated Daily</p>
+        <p class="dir-hero-stats">${tools.length} AI Tools &#183; ${ideas.length} Startup Ideas &#183; Updated Daily</p>
         <div class="dir-search-wrap">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
           <input type="text" id="dirSearch" placeholder="Search AI tools, startup ideas..." autocomplete="off" />
-        </div>
-      </div>
-    </section>
-
-    <!-- Statistics Section -->
-    <section class="dir-stats-bar">
-      <div class="container">
-        <h2>AI Tools Directory at a Glance</h2>
-        <div class="stats-grid">
-          <div class="stat-item"><span class="stat-number">${tools.length}+</span><span class="stat-label">AI Tools Listed</span></div>
-          <div class="stat-item"><span class="stat-number">${categories.length - 1}</span><span class="stat-label">Categories</span></div>
-          <div class="stat-item"><span class="stat-number">${priceStats.Free + priceStats.Freemium + priceStats['Open Source']}</span><span class="stat-label">Free or Freemium</span></div>
-          <div class="stat-item"><span class="stat-number">${ideas.length}</span><span class="stat-label">Startup Ideas</span></div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Category Breakdown Table -->
-    <section class="dir-table-section">
-      <div class="container">
-        <h2>How many AI tools are in each category?</h2>
-        <p>AI Kendra organizes tools into ${categories.length - 1} major categories. According to our latest data, here is the breakdown of tools per category:</p>
-        <div class="table-responsive">
-          <table class="seo-table">
-            <thead>
-              <tr><th>Category</th><th>Tools Available</th><th>Pricing Range</th><th>Top Example</th></tr>
-            </thead>
-            <tbody>
-              ${categories.filter(c => c.slug !== 'all').map(c => {
-                const catName = c.slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()).replace('And', '&');
-                const count = Object.entries(catStats).find(([k]) => getCategorySlug(k) === c.slug)?.[1] || 0;
-                const topTool = tools.find(t => getCategorySlug(t.category) === c.slug);
-                return `<tr>
-                  <td>${c.icon} <a href="/ai-tools/${c.slug}" data-link>${c.name}</a></td>
-                  <td>${count} tools</td>
-                  <td>Free–Paid</td>
-                  <td>${topTool ? topTool.name : '—'}</td>
-                </tr>`;
-              }).join('')}
-            </tbody>
-          </table>
         </div>
       </div>
     </section>
@@ -158,8 +96,8 @@ export function renderHome() {
     <section class="dir-context-switch">
       <div class="container">
         <div class="dir-toggle-group" id="contextToggle">
-          <button class="dir-toggle-btn active" data-context="tools">🤖 AI Tools</button>
-          <button class="dir-toggle-btn" data-context="ideas">💡 Startup Ideas</button>
+          <button class="dir-toggle-btn active" data-context="tools">&#129302; AI Tools</button>
+          <button class="dir-toggle-btn" data-context="ideas">&#128161; Startup Ideas</button>
         </div>
       </div>
     </section>
@@ -168,9 +106,9 @@ export function renderHome() {
     <section class="dir-tabs-section" id="tabsSection">
       <div class="container">
         <div class="dir-tabs" id="dirTabs">
-          <button class="dir-tab active" data-tab="trending">🔥 Trending</button>
-          <button class="dir-tab" data-tab="new">🆕 Just Launched</button>
-          <button class="dir-tab" data-tab="all">📁 All Tools</button>
+          <button class="dir-tab active" data-tab="trending">&#128293; Trending</button>
+          <button class="dir-tab" data-tab="new">&#127381; Just Launched</button>
+          <button class="dir-tab" data-tab="all">&#128193; All Tools</button>
         </div>
         <div class="dir-category-pills" id="categoryPills">
           ${categories.map(c => `
@@ -180,10 +118,9 @@ export function renderHome() {
       </div>
     </section>
 
-    <!-- Feed -->
+    <!-- Feed — THE MAIN CONTENT -->
     <section class="dir-feed">
       <div class="container">
-        <h2 class="sr-only">Browse AI Tools</h2>
         <div class="dir-feed-list" id="dirFeed">
           ${featuredTools.map(t => toolRow(t)).join('')}
         </div>
@@ -193,40 +130,36 @@ export function renderHome() {
       </div>
     </section>
 
-    <!-- FAQ Section with Q&A Headings -->
-    <section class="dir-faq" id="faqSection">
+    <!-- Minimal CTA -->
+    <section class="dir-cta">
       <div class="container">
-        <h2>Frequently Asked Questions About AI Tools</h2>
-        <div class="faq-list">
-          <details class="faq-item" open>
-            <summary><h3>What is AI Kendra?</h3></summary>
-            <p>AI Kendra is a comprehensive, curated directory of ${tools.length}+ artificial intelligence tools and ${ideas.length} startup ideas. It is designed to help developers, marketers, researchers, entrepreneurs, and everyday users discover the best AI-powered products across ${categories.length - 1} categories — from <a href="/ai-tools/writing" data-link>AI writing assistants</a> and <a href="/ai-tools/image-generation" data-link>image generators</a> to <a href="/ai-tools/coding-development" data-link>coding tools</a> and <a href="/ai-tools/automation" data-link>automation platforms</a>. All tools are updated daily.</p>
-          </details>
-          <details class="faq-item">
-            <summary><h3>How does AI Kendra find and verify AI tools?</h3></summary>
-            <p>AI Kendra uses a dual-source approach: a curated backlog of verified, high-quality AI tools reviewed by our team, combined with automated discovery from <a href="https://github.com/trending" target="_blank" rel="noopener">GitHub trending repositories</a>. Each tool is categorized, tagged, and verified before being added to the directory. According to <a href="https://explodingtopics.com/blog/ai-tools" target="_blank" rel="noopener">Exploding Topics</a>, over 14,700 AI tools were launched in 2025 alone — making curation essential.</p>
-          </details>
-          <details class="faq-item">
-            <summary><h3>What are the most popular categories of AI tools in 2026?</h3></summary>
-            <p>Based on our directory data, the top categories by tool count are: <strong>Image Generation (${catStats['Image Generation'] || 0}+ tools)</strong>, <strong>Productivity (${catStats['Productivity'] || 0}+ tools)</strong>, <strong>Marketing (${catStats['Marketing'] || 0}+ tools)</strong>, and <strong>Writing (${catStats['Writing'] || 0}+ tools)</strong>. The AI coding category is growing fastest, driven by tools like <a href="https://github.com/features/copilot" target="_blank" rel="noopener">GitHub Copilot</a>, <a href="https://cursor.com" target="_blank" rel="noopener">Cursor</a>, and <a href="https://bolt.new" target="_blank" rel="noopener">Bolt.new</a>.</p>
-          </details>
-          <details class="faq-item">
-            <summary><h3>Are the AI tools on AI Kendra free to use?</h3></summary>
-            <p>Many are! Of the ${tools.length} tools listed, <strong>${priceStats.Free} are completely free</strong>, <strong>${priceStats.Freemium} offer freemium plans</strong>, and <strong>${priceStats['Open Source']} are open source</strong>. The remaining ${priceStats.Paid} are paid tools. You can filter tools by pricing using the category and tab filters above.</p>
-          </details>
-          <details class="faq-item">
-            <summary><h3>How can I submit my own AI tool to AI Kendra?</h3></summary>
-            <p>You can <a href="/submit" data-link>submit your AI tool here</a>. Provide the tool name, website URL, category, pricing, and a brief description. Our team reviews every submission before it goes live. Typically, approved tools appear within 24–48 hours.</p>
-          </details>
-        </div>
+        <p>Know an AI tool? <a href="/submit" data-link>Submit it &#8594;</a></p>
       </div>
     </section>
 
-    <!-- Minimal CTA with Author Attribution -->
-    <section class="dir-cta">
+    <!-- SEO-only content — below the fold, for crawlers -->
+    <section class="seo-bottom-content">
       <div class="container">
-        <p>Know an AI tool? <a href="/submit" data-link>Submit it →</a></p>
-        <p class="dir-cta-author">Curated by the <a href="/about" data-link>AI Kendra team</a> · Data sourced from <a href="https://github.com/trending" target="_blank" rel="noopener">GitHub</a>, <a href="https://producthunt.com" target="_blank" rel="noopener">Product Hunt</a>, and community submissions.</p>
+        <h2>About AI Kendra</h2>
+        <p>AI Kendra is a curated directory of artificial intelligence tools and startup ideas. We help developers, marketers, researchers, and entrepreneurs discover the best AI-powered products across categories like Writing, Image Generation, Video Creation, Coding, Marketing, Finance, Automation, and Research. New tools are added daily through automated curation and community submissions.</p>
+
+        <h2>Frequently Asked Questions</h2>
+        <details class="faq-item">
+          <summary><h3>What is AI Kendra?</h3></summary>
+          <p>AI Kendra is a free, curated directory of AI tools and startup ideas. It covers tools across writing, image generation, video, audio, coding, productivity, marketing, finance, automation, and research categories.</p>
+        </details>
+        <details class="faq-item">
+          <summary><h3>How are AI tools added to the directory?</h3></summary>
+          <p>Tools are added through a combination of curated review, automated discovery from <a href="https://github.com/trending" target="_blank" rel="noopener">GitHub trending repositories</a>, and community submissions via our <a href="/submit" data-link>submit page</a>.</p>
+        </details>
+        <details class="faq-item">
+          <summary><h3>Is AI Kendra free to use?</h3></summary>
+          <p>Yes, AI Kendra is completely free. You can browse, search, and filter all tools without registration or payment.</p>
+        </details>
+        <details class="faq-item">
+          <summary><h3>How can I submit my AI tool?</h3></summary>
+          <p>Visit our <a href="/submit" data-link>Submit page</a> and provide your tool's name, URL, category, pricing, and description. Submissions are reviewed within 24-48 hours.</p>
+        </details>
       </div>
     </section>
   `;
@@ -240,7 +173,7 @@ export function initHome() {
   const newestTools = [...tools].sort((a, b) => new Date(b.dateAdded) - new Date(a.dateAdded));
   const allToolsSorted = [...tools].sort((a, b) => a.name.localeCompare(b.name));
 
-  let currentContext = 'tools'; // 'tools' or 'ideas'
+  let currentContext = 'tools';
   let currentTab = 'trending';
   let currentCat = 'all';
   let searchQuery = '';
@@ -259,7 +192,6 @@ export function initHome() {
 
   function renderFeed() {
     if (currentContext === 'ideas') {
-      // Show ideas
       tabsSection.style.display = 'none';
       let filtered = ideas;
       if (searchQuery) {
@@ -272,7 +204,6 @@ export function initHome() {
       feedEl.innerHTML = filtered.map(i => ideaRow(i)).join('');
       emptyEl.style.display = filtered.length ? 'none' : 'block';
     } else {
-      // Show tools
       tabsSection.style.display = '';
       let filtered = getToolsForTab(currentTab);
       if (currentCat !== 'all') {
@@ -289,7 +220,6 @@ export function initHome() {
       emptyEl.style.display = filtered.length ? 'none' : 'block';
     }
 
-    // Re-bind data-link clicks
     feedEl.querySelectorAll('[data-link]').forEach(link => {
       link.addEventListener('click', (e) => {
         e.preventDefault();
@@ -299,23 +229,18 @@ export function initHome() {
     });
   }
 
-  // Context switching (AI Tools vs Startup Ideas)
   document.getElementById('contextToggle').addEventListener('click', (e) => {
     const btn = e.target.closest('.dir-toggle-btn');
     if (!btn) return;
     currentContext = btn.dataset.context;
     document.querySelectorAll('.dir-toggle-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
-    
-    // Reset search
     searchQuery = '';
     const searchInput = document.getElementById('dirSearch');
     if(searchInput) searchInput.value = '';
-    
     renderFeed();
   });
 
-  // Tab switching
   document.getElementById('dirTabs').addEventListener('click', (e) => {
     const tab = e.target.closest('.dir-tab');
     if (!tab) return;
@@ -325,7 +250,6 @@ export function initHome() {
     renderFeed();
   });
 
-  // Category pills
   pillsContainer.addEventListener('click', (e) => {
     const pill = e.target.closest('.cat-pill');
     if (!pill) return;
@@ -335,7 +259,6 @@ export function initHome() {
     renderFeed();
   });
 
-  // Inline search
   document.getElementById('dirSearch').addEventListener('input', (e) => {
     searchQuery = e.target.value.toLowerCase().trim();
     renderFeed();

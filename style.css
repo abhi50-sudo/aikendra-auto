@@ -1707,3 +1707,16 @@ select.form-control {
 @media (max-width: 480px) {
   .stats-grid { grid-template-columns: 1fr 1fr; gap: var(--space-sm); }
 }
+
+/* SEO Bottom Content - visible but below the fold */
+.seo-bottom-content { padding: var(--space-2xl) 0; border-top: 1px solid var(--border-color); }
+.seo-bottom-content h2 { font-size: var(--font-lg); font-weight: 700; margin: var(--space-xl) 0 var(--space-sm); color: var(--text-primary); }
+.seo-bottom-content h2:first-child { margin-top: 0; }
+.seo-bottom-content > .container > p { font-size: var(--font-sm); color: var(--text-secondary); line-height: 1.75; margin: 0 0 var(--space-lg); }
+.seo-bottom-content .faq-item { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: var(--radius-lg); margin-bottom: var(--space-sm); overflow: hidden; }
+.seo-bottom-content .faq-item summary { cursor: pointer; padding: var(--space-md) var(--space-lg); list-style: none; display: flex; align-items: center; justify-content: space-between; }
+.seo-bottom-content .faq-item summary::-webkit-details-marker { display: none; }
+.seo-bottom-content .faq-item summary h3 { margin: 0; font-size: var(--font-base); font-weight: 600; color: var(--text-primary); }
+.seo-bottom-content .faq-item p { padding: 0 var(--space-lg) var(--space-lg); margin: 0; font-size: var(--font-sm); color: var(--text-secondary); line-height: 1.75; }
+.seo-bottom-content .faq-item p a { color: var(--accent-primary); text-decoration: none; }
+.seo-bottom-content .faq-item p a:hover { text-decoration: underline; }
