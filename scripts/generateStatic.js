@@ -73,60 +73,96 @@ function generateStaticPages() {
   });
   console.log(`Generated ${categories.length} category SEO pages.`);
 
-  // --- SITEMAP.XML ---
+  // --- SITEMAP INDEX SYSTEM ---
   const SITE_URL = 'https://aikendra.com';
   const today = new Date().toISOString().split('T')[0];
-  
-  let urls = [];
-  
-  // Core pages
-  const corePages = [
-    { loc: '/', changefreq: 'daily', priority: '1.0' },
-    { loc: '/ai-tools', changefreq: 'daily', priority: '0.9' },
-    { loc: '/startup-ideas', changefreq: 'weekly', priority: '0.8' },
-    { loc: '/submit', changefreq: 'monthly', priority: '0.5' },
-    { loc: '/about', changefreq: 'monthly', priority: '0.4' },
-    { loc: '/contact', changefreq: 'monthly', priority: '0.3' },
-    { loc: '/privacy', changefreq: 'monthly', priority: '0.2' },
-    { loc: '/terms', changefreq: 'monthly', priority: '0.2' },
-  ];
-  corePages.forEach(p => urls.push(p));
-  
-  // Tool pages
-  tools.forEach(tool => {
-    if (!tool.slug) return;
-    urls.push({ loc: `/ai-tools/tool/${tool.slug}`, changefreq: 'weekly', priority: '0.7' });
-  });
-  
-  // Idea pages
-  ideas.forEach(idea => {
-    if (!idea.slug) return;
-    urls.push({ loc: `/startup-ideas/${idea.slug}`, changefreq: 'weekly', priority: '0.6' });
-  });
-  
-  // Category pages
-  categories.forEach(cat => {
-    const slug = cat.toLowerCase().replace(/ & /g, '-').replace(/ /g, '-');
-    urls.push({ loc: `/ai-tools/${slug}`, changefreq: 'weekly', priority: '0.6' });
-  });
-  
-  const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
+  const TOOLS_PER_SITEMAP = 500;
+
+  function buildUrlset(urls) {
+    return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map(u => `  <url>
     <loc>${SITE_URL}${u.loc}</loc>
     <lastmod>${today}</lastmod>
     <changefreq>${u.changefreq}</changefreq>
-    <priority>${u.priority}</priority>
   </url>`).join('\n')}
 </urlset>`;
-  
-  fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemapXml);
-  console.log(`Generated sitemap.xml with ${urls.length} URLs.`);
-  
-  // robots.txt
+  }
+
+  // 1. sitemap-pages.xml — Core static pages
+  const pageUrls = [
+    { loc: '/', changefreq: 'daily' },
+    { loc: '/ai-tools', changefreq: 'daily' },
+    { loc: '/startup-ideas', changefreq: 'weekly' },
+    { loc: '/submit', changefreq: 'monthly' },
+    { loc: '/about', changefreq: 'monthly' },
+    { loc: '/contact', changefreq: 'monthly' },
+    { loc: '/privacy', changefreq: 'monthly' },
+    { loc: '/terms', changefreq: 'monthly' },
+  ];
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap-pages.xml'), buildUrlset(pageUrls));
+  console.log(`Generated sitemap-pages.xml (${pageUrls.length} URLs).`);
+
+  // 2. sitemap-categories.xml — Category pages
+  const categoryUrls = categories.map(cat => {
+    const slug = cat.toLowerCase().replace(/ & /g, '-').replace(/ /g, '-');
+    return { loc: `/ai-tools/${slug}`, changefreq: 'weekly' };
+  });
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap-categories.xml'), buildUrlset(categoryUrls));
+  console.log(`Generated sitemap-categories.xml (${categoryUrls.length} URLs).`);
+
+  // 3. sitemap-ideas.xml — Startup idea pages
+  const ideaUrls = ideas.filter(i => i.slug).map(idea => ({
+    loc: `/startup-ideas/${idea.slug}`, changefreq: 'weekly'
+  }));
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap-ideas.xml'), buildUrlset(ideaUrls));
+  console.log(`Generated sitemap-ideas.xml (${ideaUrls.length} URLs).`);
+
+  // 4. sitemap-tools-N.xml — Tool pages, split into chunks of 500
+  const toolUrls = tools.filter(t => t.slug).map(t => ({
+    loc: `/ai-tools/tool/${t.slug}`, changefreq: 'weekly'
+  }));
+  const toolSitemapFiles = [];
+  for (let i = 0; i < toolUrls.length; i += TOOLS_PER_SITEMAP) {
+    const chunk = toolUrls.slice(i, i + TOOLS_PER_SITEMAP);
+    const fileNum = Math.floor(i / TOOLS_PER_SITEMAP) + 1;
+    const filename = `sitemap-tools-${fileNum}.xml`;
+    fs.writeFileSync(path.join(DIST_DIR, filename), buildUrlset(chunk));
+    toolSitemapFiles.push(filename);
+    console.log(`Generated ${filename} (${chunk.length} URLs).`);
+  }
+
+  // 5. sitemap_index.xml — Master index
+  const allSitemaps = [
+    'sitemap-pages.xml',
+    'sitemap-categories.xml',
+    'sitemap-ideas.xml',
+    ...toolSitemapFiles
+  ];
+  const sitemapIndex = `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${allSitemaps.map(f => `  <sitemap>
+    <loc>${SITE_URL}/${f}</loc>
+    <lastmod>${today}</lastmod>
+  </sitemap>`).join('\n')}
+</sitemapindex>`;
+
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap_index.xml'), sitemapIndex);
+  console.log(`Generated sitemap_index.xml (${allSitemaps.length} sub-sitemaps).`);
+
+  // Keep old sitemap.xml as a combined fallback (Google may still request it)
+  const allUrls = [...pageUrls, ...categoryUrls, ...ideaUrls, ...toolUrls];
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), buildUrlset(allUrls));
+  console.log(`Generated sitemap.xml fallback (${allUrls.length} URLs).`);
+
+  const totalUrls = pageUrls.length + categoryUrls.length + ideaUrls.length + toolUrls.length;
+  console.log(`Total indexed URLs: ${totalUrls}`);
+
+  // robots.txt — points to sitemap index
   const robotsTxt = `User-agent: *
 Allow: /
 
+Sitemap: ${SITE_URL}/sitemap_index.xml
 Sitemap: ${SITE_URL}/sitemap.xml`;
   fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), robotsTxt);
   console.log('Generated robots.txt.');
