@@ -140,25 +140,45 @@ export function renderHome() {
     <!-- SEO-only content — below the fold, for crawlers -->
     <section class="seo-bottom-content">
       <div class="container">
-        <h2>About AI Kendra</h2>
-        <p>AI Kendra is a curated directory of artificial intelligence tools and startup ideas. We help developers, marketers, researchers, and entrepreneurs discover the best AI-powered products across categories like Writing, Image Generation, Video Creation, Coding, Marketing, Finance, Automation, and Research. New tools are added daily through automated curation and community submissions.</p>
+        <h2>What is AI Kendra?</h2>
+        <p>AI Kendra is a comprehensive, free-to-use directory of artificial intelligence tools and startup ideas. The platform currently indexes <strong>${tools.length} AI tools</strong> across <strong>${categories.length - 1} categories</strong>, with new tools added daily through automated curation and community submissions. According to <a href="https://explodingtopics.com/blog/ai-tools" target="_blank" rel="noopener">Exploding Topics research</a>, more than 14,700 AI tools were launched in 2025 alone — making curated directories like AI Kendra essential for discovering the right tool.</p>
+
+        <h2>AI Tools by Category and Pricing</h2>
+        <p>The following table shows the distribution of AI tools across each category in the AI Kendra directory, along with pricing availability. Data as of ${new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}:</p>
+        <div class="table-responsive">
+          <table class="seo-table">
+            <thead><tr><th>Category</th><th>Tools Listed</th><th>Free Options</th></tr></thead>
+            <tbody>
+              ${categories.filter(c => c.slug !== 'all').map(c => {
+                const catTools = tools.filter(t => getCategorySlug(t.category) === c.slug);
+                const freeCount = catTools.filter(t => ['Free','Freemium','Open Source'].includes(t.pricing)).length;
+                return `<tr><td>${c.icon} ${c.name}</td><td>${catTools.length}</td><td>${freeCount}</td></tr>`;
+              }).join('')}
+              <tr><td><strong>Total</strong></td><td><strong>${tools.length}</strong></td><td><strong>${tools.filter(t => ['Free','Freemium','Open Source'].includes(t.pricing)).length}</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
 
         <h2>Frequently Asked Questions</h2>
         <details class="faq-item">
-          <summary><h3>What is AI Kendra?</h3></summary>
-          <p>AI Kendra is a free, curated directory of AI tools and startup ideas. It covers tools across writing, image generation, video, audio, coding, productivity, marketing, finance, automation, and research categories.</p>
+          <summary><h3>What is AI Kendra and how does it work?</h3></summary>
+          <p>AI Kendra is a curated directory that indexes ${tools.length}+ AI tools across ${categories.length - 1} categories including Writing, Image Generation, Video Creation, Audio, Coding, Productivity, Marketing, Finance, Automation, and Research. Each tool is categorized by function, pricing model, and use case. Users can search, filter by category, and browse trending or newly launched tools — all without registration. According to <a href="https://www.statista.com/topics/3104/ai-market-worldwide/" target="_blank" rel="noopener">Statista</a>, the global AI market is projected to reach $305 billion by 2026.</p>
         </details>
         <details class="faq-item">
           <summary><h3>How are AI tools added to the directory?</h3></summary>
-          <p>Tools are added through a combination of curated review, automated discovery from <a href="https://github.com/trending" target="_blank" rel="noopener">GitHub trending repositories</a>, and community submissions via our <a href="/submit" data-link>submit page</a>.</p>
+          <p>Tools are added through three sources: (1) a curated backlog of verified, high-quality AI products reviewed by our team, (2) automated discovery from <a href="https://github.com/trending" target="_blank" rel="noopener">GitHub trending repositories</a> with 50+ stars in the AI/ML category, and (3) community submissions via our <a href="/submit" data-link>submit page</a>. On average, 5-8 new tools are added per day. As noted by <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai" target="_blank" rel="noopener">McKinsey's State of AI report</a>, 72% of organizations now use AI in at least one business function.</p>
+        </details>
+        <details class="faq-item">
+          <summary><h3>What are the best free AI tools in 2026?</h3></summary>
+          <p>AI Kendra lists ${tools.filter(t => t.pricing === 'Free').length} completely free AI tools and ${tools.filter(t => t.pricing === 'Freemium').length} freemium tools. Popular free options include ChatGPT for general AI assistance, Canva for design, CapCut for video editing, Craiyon for image generation, and Codeium for code completion. The open-source category includes ${tools.filter(t => t.pricing === 'Open Source').length} tools like Stable Diffusion, Whisper AI, and LangChain.</p>
         </details>
         <details class="faq-item">
           <summary><h3>Is AI Kendra free to use?</h3></summary>
-          <p>Yes, AI Kendra is completely free. You can browse, search, and filter all tools without registration or payment.</p>
+          <p>Yes, AI Kendra is completely free to browse, search, and use. No registration, login, or payment is required. The platform is supported by the community and updated daily with new AI tools and startup ideas.</p>
         </details>
         <details class="faq-item">
-          <summary><h3>How can I submit my AI tool?</h3></summary>
-          <p>Visit our <a href="/submit" data-link>Submit page</a> and provide your tool's name, URL, category, pricing, and description. Submissions are reviewed within 24-48 hours.</p>
+          <summary><h3>How can I submit my AI tool to the directory?</h3></summary>
+          <p>Visit our <a href="/submit" data-link>Submit page</a> and provide your tool's name, website URL, category, pricing model, and a short description. All submissions are reviewed by our team within 24-48 hours before being published to the directory.</p>
         </details>
       </div>
     </section>
