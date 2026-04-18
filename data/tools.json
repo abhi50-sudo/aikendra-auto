@@ -1,5 +1,110 @@
 [
   {
+    "name": "Heygen",
+    "slug": "heygen-ai",
+    "shortDescription": "Create AI avatar videos with realistic digital humans.",
+    "description": "HeyGen lets you create professional videos with AI-generated avatars that look and speak like real humans. Translate videos into 175+ languages with lip-sync.",
+    "category": "Video Creation",
+    "pricing": "Freemium",
+    "website": "https://heygen.com",
+    "tags": [
+      "AI Avatars",
+      "Video Translation",
+      "Digital Humans"
+    ],
+    "features": [
+      "100+ Avatars",
+      "175+ Languages",
+      "Lip Sync"
+    ],
+    "dateAdded": "04/18/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=heygen.com&sz=128"
+  },
+  {
+    "name": "Gamma",
+    "slug": "gamma-app",
+    "shortDescription": "Create beautiful presentations, documents, and websites with AI.",
+    "description": "Gamma generates polished presentations, docs, and even mini websites from a simple prompt. No more fighting with templates — just describe what you want.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://gamma.app",
+    "tags": [
+      "Presentations",
+      "Documents",
+      "AI Design"
+    ],
+    "features": [
+      "One-Click Design",
+      "Web Publishing",
+      "Analytics"
+    ],
+    "dateAdded": "04/18/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128"
+  },
+  {
+    "name": "Notion AI Q&A",
+    "slug": "notion-ai-qa",
+    "shortDescription": "Ask questions about your Notion workspace and get instant AI answers.",
+    "description": "Notion AI Q&A searches across your entire workspace and surfaces answers from your team's docs, wikis, and projects. Like having an AI assistant that knows everything your company does.",
+    "category": "Productivity",
+    "pricing": "Add-on ($10/mo)",
+    "website": "https://notion.so",
+    "tags": [
+      "Knowledge Base",
+      "Q&A",
+      "Workspace AI"
+    ],
+    "features": [
+      "Workspace Search",
+      "Instant Answers",
+      "Source Links"
+    ],
+    "dateAdded": "04/18/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=notion.so&sz=128"
+  },
+  {
+    "name": "Loom AI",
+    "slug": "loom-ai",
+    "shortDescription": "Record async video messages with AI-generated summaries and chapters.",
+    "description": "Loom lets you record quick video messages with AI that auto-generates titles, summaries, chapters, and action items. Perfect for async communication in remote teams.",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "website": "https://loom.com",
+    "tags": [
+      "Video Messaging",
+      "Async Communication",
+      "Remote Work"
+    ],
+    "features": [
+      "Auto Summaries",
+      "AI Chapters",
+      "Task Generation"
+    ],
+    "dateAdded": "04/18/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=loom.com&sz=128"
+  },
+  {
+    "name": "Cleo",
+    "slug": "cleo-ai",
+    "shortDescription": "AI money assistant that helps you budget, save, and build credit.",
+    "description": "Cleo is a personal finance AI chatbot that analyzes your spending, creates budgets, spots subscriptions you forgot about, and helps you build credit.",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "website": "https://web.meetcleo.com",
+    "tags": [
+      "Personal Finance",
+      "Budgeting",
+      "Chatbot"
+    ],
+    "features": [
+      "Spending Analysis",
+      "Auto-Savings",
+      "Credit Builder"
+    ],
+    "dateAdded": "04/18/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=web.meetcleo.com&sz=128"
+  },
+  {
     "name": "Ramp",
     "slug": "ramp-ai",
     "shortDescription": "AI-powered corporate card and expense management that saves money.",
