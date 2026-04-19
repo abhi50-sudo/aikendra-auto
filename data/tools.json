@@ -1,5 +1,89 @@
 [
   {
+    "name": "Durable",
+    "slug": "durable-ai",
+    "shortDescription": "Build a complete business website with AI in 30 seconds.",
+    "description": "Durable generates a full business website, complete with copy, images, and a CRM, in under 30 seconds. Includes invoicing, AI-powered blog, and Google Ads integration.",
+    "category": "Marketing",
+    "pricing": "Paid",
+    "website": "https://durable.co",
+    "tags": [
+      "Website Builder",
+      "Small Business",
+      "CRM"
+    ],
+    "features": [
+      "30-Second Sites",
+      "Built-In CRM",
+      "AI Blog Writer"
+    ],
+    "dateAdded": "04/19/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=durable.co&sz=128"
+  },
+  {
+    "name": "Motion",
+    "slug": "motion-ai",
+    "shortDescription": "AI calendar that automatically plans your day and prioritizes tasks.",
+    "description": "Motion uses AI to automatically schedule your tasks, meetings, and projects into your calendar. It continuously re-prioritizes and adjusts based on deadlines and importance.",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "website": "https://usemotion.com",
+    "tags": [
+      "Calendar",
+      "Task Management",
+      "Scheduling AI"
+    ],
+    "features": [
+      "Auto-Scheduling",
+      "Task Prioritization",
+      "Project Planning"
+    ],
+    "dateAdded": "04/19/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=usemotion.com&sz=128"
+  },
+  {
+    "name": "Zapier AI",
+    "slug": "zapier-ai",
+    "shortDescription": "AI-powered automation that connects your apps and builds workflows.",
+    "description": "Zapier's AI features let you describe automations in plain English, build chatbots, and create AI-powered workflows connecting 6000+ apps. No coding required.",
+    "category": "Automation",
+    "pricing": "Freemium",
+    "website": "https://zapier.com",
+    "tags": [
+      "Workflow Automation",
+      "No-Code",
+      "Integration"
+    ],
+    "features": [
+      "Natural Language Automation",
+      "AI Chatbot Builder",
+      "6000+ Apps"
+    ],
+    "dateAdded": "04/19/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=zapier.com&sz=128"
+  },
+  {
+    "name": "Canva Magic Studio",
+    "slug": "canva-magic",
+    "shortDescription": "Canva's built-in AI suite for design, writing, and video editing.",
+    "description": "Canva Magic Studio brings AI-powered tools directly into Canva's design platform. Magic Write, Magic Eraser, Magic Expand, and more — all within the familiar Canva interface.",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "website": "https://canva.com/magic",
+    "tags": [
+      "Design",
+      "AI Editing",
+      "Creative Suite"
+    ],
+    "features": [
+      "Magic Write",
+      "Background Remover",
+      "Magic Resize"
+    ],
+    "dateAdded": "04/19/2026",
+    "logo": "https://www.google.com/s2/favicons?domain=canva.com&sz=128"
+  },
+  {
     "name": "Heygen",
     "slug": "heygen-ai",
     "shortDescription": "Create AI avatar videos with realistic digital humans.",
