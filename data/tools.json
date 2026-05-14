@@ -1,5 +1,93 @@
 [
   {
+    "name": "Rize AI",
+    "slug": "rize-ai",
+    "shortDescription": "AI-powered time tracking that auto-categorizes your work",
+    "category": "Productivity",
+    "pricing": "Paid",
+    "url": "https://rize.io",
+    "logo": "https://www.google.com/s2/favicons?domain=rize.io&sz=128",
+    "dateAdded": "05/14/2026",
+    "featured": false
+  },
+  {
+    "name": "Finta AI",
+    "slug": "finta-ai",
+    "shortDescription": "AI-powered fundraising CRM for startup founders",
+    "category": "Finance",
+    "pricing": "Paid",
+    "url": "https://finta.com",
+    "logo": "https://www.google.com/s2/favicons?domain=finta.com&sz=128",
+    "dateAdded": "05/14/2026",
+    "featured": false
+  },
+  {
+    "name": "Recraft V2",
+    "slug": "recraft-v2",
+    "shortDescription": "AI design tool for creating consistent brand illustrations",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "url": "https://recraft.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=recraft.ai&sz=128",
+    "dateAdded": "05/14/2026",
+    "featured": false
+  },
+  {
+    "name": "Stability AI V2",
+    "slug": "stability-ai-v2",
+    "shortDescription": "Creator of Stable Diffusion and cutting-edge generative AI models",
+    "category": "Image Generation",
+    "pricing": "Freemium",
+    "url": "https://stability.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=stability.ai&sz=128",
+    "dateAdded": "05/14/2026",
+    "featured": false
+  },
+  {
+    "name": "Morgen",
+    "slug": "morgen",
+    "shortDescription": "AI scheduling assistant for managing multiple calendars",
+    "category": "Productivity",
+    "pricing": "Freemium",
+    "url": "https://morgen.so",
+    "logo": "https://www.google.com/s2/favicons?domain=morgen.so&sz=128",
+    "dateAdded": "05/14/2026",
+    "featured": false
+  },
+  {
+    "name": "Puzzle AI",
+    "slug": "puzzle-ai",
+    "shortDescription": "AI-powered accounting software for startups",
+    "category": "Finance",
+    "pricing": "Freemium",
+    "url": "https://puzzle.io",
+    "logo": "https://www.google.com/s2/favicons?domain=puzzle.io&sz=128",
+    "dateAdded": "05/14/2026",
+    "featured": false
+  },
+  {
+    "name": "Scispace V3",
+    "slug": "scispace-v3",
+    "shortDescription": "AI research platform for reading and understanding papers",
+    "category": "Research",
+    "pricing": "Freemium",
+    "url": "https://scispace.com",
+    "logo": "https://www.google.com/s2/favicons?domain=scispace.com&sz=128",
+    "dateAdded": "05/14/2026",
+    "featured": false
+  },
+  {
+    "name": "Baseten",
+    "slug": "baseten",
+    "shortDescription": "ML infrastructure platform for deploying and scaling AI models",
+    "category": "Coding & Development",
+    "pricing": "Freemium",
+    "url": "https://baseten.co",
+    "logo": "https://www.google.com/s2/favicons?domain=baseten.co&sz=128",
+    "dateAdded": "05/14/2026",
+    "featured": false
+  },
+  {
     "name": "Lovable",
     "slug": "lovable",
     "shortDescription": "Build production-grade web apps from natural language.",

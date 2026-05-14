@@ -1,0 +1,115 @@
+name,url,category,pricing,description
+Raycast AI,https://raycast.com,Productivity,Freemium,AI-powered launcher and productivity tool for macOS with built-in AI chat
+Superhuman AI,https://superhuman.com,Productivity,Paid,AI email client with instant reply suggestions and email triage
+Granola AI,https://granola.so,Productivity,Freemium,AI notepad for meetings that combines your notes with AI transcription
+Dust AI,https://dust.tt,Automation,Paid,Platform for building custom AI assistants connected to company data
+Retool AI,https://retool.com,Automation,Freemium,Build internal tools with AI-powered code generation and workflows
+Vapi AI,https://vapi.ai,Automation,Freemium,Voice AI platform for building conversational voice agents
+Camelot AI,https://camelot.ai,Research,Paid,AI-powered due diligence and market research platform
+Hebbia AI,https://hebbia.ai,Research,Paid,AI analyst that reads documents and extracts insights at scale
+Suno V2,https://suno.com,Audio & Voice,Freemium,Create full songs with vocals and instruments using AI
+Stable Audio,https://stableaudio.com,Audio & Voice,Freemium,Stability AIs audio generation model for music and sound effects
+Artlist AI,https://artlist.io,Video Creation,Paid,AI-powered stock footage and music licensing platform
+Runway ML V3,https://runwayml.com,Video Creation,Freemium,Gen-3 Alpha video generation model with motion brush and lip sync
+Magnific V2,https://magnific.ai,Image Generation,Paid,AI image upscaler and enhancer with guided generation controls
+Krea Realtime,https://krea.ai/realtime,Image Generation,Freemium,Real-time AI image generation that responds to your sketches
+PhotoRoom V2,https://photoroom.com,Image Generation,Freemium,AI photo editor for product photography and background removal
+Cerebras AI,https://cerebras.ai,Coding & Development,Paid,Ultra-fast AI inference platform with custom chip architecture
+Groq Cloud,https://groq.com,Coding & Development,Freemium,Ultra-fast LLM inference with custom LPU chips
+Fireworks AI,https://fireworks.ai,Coding & Development,Freemium,Fast and affordable API for running open-source AI models
+Cohere V2,https://cohere.com,Coding & Development,Freemium,Enterprise AI platform for RAG search and text generation
+Weights AI,https://weights.gg,Image Generation,Freemium,AI image generation platform with community model sharing
+Recraft V2,https://recraft.ai,Image Generation,Freemium,AI design tool for creating consistent brand illustrations
+Vizcom AI,https://vizcom.ai,Image Generation,Paid,AI-powered industrial design rendering and sketching tool
+Midjourney V7,https://midjourney.com,Image Generation,Paid,Industry-leading AI image generation with web interface
+Suno Bark,https://suno.ai/bark,Audio & Voice,Open Source,Open-source text-to-speech model with multilingual support
+Cartesia AI,https://cartesia.ai,Audio & Voice,Freemium,Real-time voice AI with sub-100ms latency for conversations
+PlayHT V3,https://play.ht,Audio & Voice,Freemium,Ultra-realistic AI voice cloning and text-to-speech platform
+Descript V4,https://descript.com,Video Creation,Freemium,AI video editor with text-based editing and screen recording
+Captions V2,https://captions.ai,Video Creation,Freemium,AI video editor with auto-captions eye contact and teleprompter
+Riverside V2,https://riverside.fm,Video Creation,Freemium,AI-powered podcast and video recording platform with transcription
+Writesonic V2,https://writesonic.com,Writing,Freemium,AI writing platform for SEO articles and marketing content
+Anyword V2,https://anyword.com,Writing,Paid,AI copywriting platform with predictive performance scoring
+Writer V2,https://writer.com,Writing,Paid,Enterprise AI writing platform with brand voice and compliance
+Notion Calendar,https://notion.so/calendar,Productivity,Free,AI-powered calendar integrated with Notion workspace
+Sunsama V2,https://sunsama.com,Productivity,Paid,AI daily planner that integrates tasks from all your tools
+Morgen,https://morgen.so,Productivity,Freemium,AI scheduling assistant for managing multiple calendars
+Beehiiv AI,https://beehiiv.com,Marketing,Freemium,AI-powered newsletter platform with growth and monetization tools
+ConvertKit AI,https://convertkit.com,Marketing,Freemium,AI email marketing platform for creators and small businesses
+Attio AI,https://attio.com,Marketing,Freemium,AI-powered CRM that automatically enriches and organizes contacts
+Folk CRM,https://folk.app,Marketing,Freemium,AI-powered lightweight CRM for relationship management
+Lavender AI,https://lavender.ai,Marketing,Freemium,AI email coaching that helps sales reps write better emails
+Streak AI,https://streak.com,Marketing,Freemium,CRM built into Gmail with AI-powered pipeline management
+Koala AI,https://koala.sh,Writing,Freemium,AI SEO writer that generates full articles optimized for Google
+Rytr V2,https://rytr.me,Writing,Freemium,AI writing assistant with 40+ use cases and 30+ languages
+Hemingway AI,https://hemingwayapp.com,Writing,Freemium,AI writing editor focused on clarity and readability
+ProWritingAid V2,https://prowritingaid.com,Writing,Freemium,AI grammar checker with style analysis and writing reports
+Lexica V2,https://lexica.art,Image Generation,Freemium,AI image search and generation engine with Aperture model
+Viggle AI,https://viggle.ai,Video Creation,Freemium,AI video generator that animates characters with motion control
+Hailuo AI,https://hailuoai.video,Video Creation,Freemium,Chinese AI video generation platform with high-quality output
+Stability AI V2,https://stability.ai,Image Generation,Freemium,Creator of Stable Diffusion and cutting-edge generative AI models
+Mem0 AI,https://mem0.ai,Coding & Development,Open Source,Memory layer for AI applications enabling personalized interactions
+AutoGen,https://microsoft.github.io/autogen,Coding & Development,Open Source,Microsofts framework for building multi-agent AI applications
+MetaGPT,https://metagpt.io,Coding & Development,Open Source,Multi-agent framework where AI agents collaborate like a software team
+SmythOS,https://smythos.com,Automation,Paid,Enterprise platform for building and deploying AI agent workflows
+Langbase,https://langbase.com,Coding & Development,Freemium,Serverless AI platform for building and deploying LLM applications
+Portkey AI,https://portkey.ai,Coding & Development,Freemium,AI gateway for managing routing and observability of LLM calls
+PromptLayer,https://promptlayer.com,Coding & Development,Freemium,Prompt engineering platform for versioning and monitoring LLM prompts
+Helicone,https://helicone.ai,Coding & Development,Open Source,Open-source LLM observability platform for logging and analytics
+Braintrust,https://braintrustdata.com,Coding & Development,Freemium,AI evaluation platform for testing and improving LLM applications
+Instructor AI,https://instructor.ai,Coding & Development,Open Source,Structured output library for getting reliable data from LLMs
+DSPy,https://dspy.ai,Coding & Development,Open Source,Framework for programming with foundation models using Python
+Outlines AI,https://github.com/outlines-dev/outlines,Coding & Development,Open Source,Structured generation library for reliable LLM output formatting
+Composio,https://composio.dev,Automation,Open Source,Tool integration platform for connecting AI agents to 250+ apps
+Trigger Dev,https://trigger.dev,Automation,Open Source,Background jobs and workflow automation platform for developers
+Inngest,https://inngest.com,Automation,Freemium,Event-driven workflow engine for building reliable AI pipelines
+Modal V2,https://modal.com,Coding & Development,Freemium,Serverless cloud for running AI workloads with GPU acceleration
+Baseten,https://baseten.co,Coding & Development,Freemium,ML infrastructure platform for deploying and scaling AI models
+Vast AI V2,https://vast.ai,Coding & Development,Paid,GPU marketplace for affordable AI compute and model training
+Perplexity Labs,https://labs.perplexity.ai,Research,Free,Experimental AI playground for testing latest Perplexity models
+Genspark,https://genspark.ai,Research,Free,AI search engine that generates comprehensive custom pages
+Globe Explorer,https://explorer.globe.engineer,Research,Free,AI-powered visual knowledge explorer for research topics
+Sourcely,https://sourcely.net,Research,Freemium,AI tool for finding and citing academic sources for papers
+Scispace V3,https://scispace.com,Research,Freemium,AI research platform for reading and understanding papers
+Consensus V3,https://consensus.app,Research,Freemium,AI search engine extracting findings from scientific papers
+Silatus,https://silatus.com,Research,Freemium,AI research assistant that creates comprehensive reports
+Storm Stanford,https://storm.genie.stanford.edu,Research,Free,Stanford AI generating Wikipedia-style articles from research
+Marketsy AI,https://marketsy.ai,Marketing,Paid,AI-powered marketplace builder for selling digital products
+Postly AI,https://postly.ai,Marketing,Freemium,AI social media management with scheduling and analytics
+Highperformr,https://highperformr.ai,Marketing,Freemium,AI-powered social media management for LinkedIn and Twitter
+Missinglettr,https://missinglettr.com,Marketing,Paid,AI social media drip campaign tool from blog content
+Lately AI,https://lately.ai,Marketing,Paid,AI content atomization platform for enterprise social media
+Brand24 AI,https://brand24.com,Marketing,Paid,AI-powered social listening and media monitoring platform
+Sprout Social AI,https://sproutsocial.com,Marketing,Paid,Enterprise social media management with AI-powered insights
+Metatext AI,https://metatext.io,Writing,Freemium,AI text analysis and NLP platform for content optimization
+Originality AI,https://originality.ai,Writing,Paid,AI content detector and plagiarism checker for publishers
+GPTZero,https://gptzero.me,Writing,Freemium,AI detection tool identifying AI-generated text in writing
+Undetectable AI,https://undetectable.ai,Writing,Paid,AI tool that humanizes AI-generated text to bypass detectors
+StealthWriter,https://stealthwriter.ai,Writing,Paid,AI writing tool producing undetectable human-quality content
+Framer AI,https://framer.com,Marketing,Freemium,AI-powered website builder with design and publishing tools
+Relume AI,https://relume.io,Marketing,Paid,AI wireframe and sitemap generator for web designers
+Looka AI,https://looka.com,Image Generation,Freemium,AI logo maker with full brand identity package generation
+Namelix V2,https://namelix.com,Marketing,Free,AI business name generator with available domain checking
+10Web AI,https://10web.io,Marketing,Paid,AI-powered WordPress hosting with automated website building
+Zapier Tables,https://zapier.com/tables,Automation,Freemium,AI-powered no-code database with automation integration
+Airtable AI,https://airtable.com,Automation,Freemium,AI-enhanced database platform for team collaboration
+Notion Projects,https://notion.so/projects,Productivity,Freemium,AI project management within Notion workspace
+Rize AI,https://rize.io,Productivity,Paid,AI-powered time tracking that auto-categorizes your work
+Toggl AI,https://toggl.com,Productivity,Freemium,AI time tracking and project management for teams
+Clockify AI,https://clockify.me,Productivity,Freemium,Free AI time tracker with team management features
+RescueTime V2,https://rescuetime.com,Productivity,Freemium,AI productivity tracker analyzing your digital habits
+Almanac AI,https://almanac.io,Productivity,Freemium,AI-powered document collaboration and knowledge sharing
+Scribe AI V2,https://scribehow.com,Productivity,Freemium,AI tool that auto-creates step-by-step process documentation
+Tango AI,https://tango.us,Productivity,Freemium,AI-powered workflow documentation with automatic screenshots
+Spekit AI,https://spekit.com,Productivity,Paid,AI-powered just-in-time learning and enablement platform
+Trainual AI,https://trainual.com,Productivity,Paid,AI-powered employee onboarding and training platform
+Deel AI,https://deel.com,Finance,Paid,AI-powered global payroll and compliance for remote teams
+Rippling AI,https://rippling.com,Finance,Paid,AI-powered HR finance and IT management platform
+Ramp V2,https://ramp.com,Finance,Free,AI expense management with automated receipt matching
+Brex AI,https://brex.com,Finance,Freemium,AI-powered corporate card with automated expense management
+Mercury AI,https://mercury.com,Finance,Free,AI-powered business banking for startups and tech companies
+Puzzle AI,https://puzzle.io,Finance,Freemium,AI-powered accounting software for startups
+Pry Financial,https://pry.co,Finance,Paid,AI financial planning and modeling for startups
+Causal AI,https://causal.app,Finance,Freemium,AI-powered financial modeling and planning tool
+Finta AI,https://finta.com,Finance,Paid,AI-powered fundraising CRM for startup founders
+Visible AI,https://visible.vc,Finance,Paid,AI investor relations and fundraising platform for startups

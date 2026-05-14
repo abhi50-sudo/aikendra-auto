@@ -2,16 +2,12 @@ name: Daily Auto-Scraper
 
 on:
   schedule:
-    # Runs at midnight (00:00 UTC) every day
     - cron: '0 0 * * *'
-  # Allows you to manually trigger the workflow from the Actions tab on GitHub
   workflow_dispatch:
 
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
-    
-    # We need permission to push code changes back to the repository
     permissions:
       contents: write
 
@@ -24,16 +20,29 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
       - name: Run Python Scraper Engine
         run: python scripts/run_daily_pipeline.py
 
-      - name: Commit newly found tools to database
+      - name: Build static site
+        run: npm run build
+
+      - name: Deploy to Cloudflare
+        run: npx wrangler deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
+      - name: Commit and push
         run: |
-          # If data/tools.json was updated, commit and push it.
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          
-          git add data/tools.json
-          
-          # Only commit if there are actual changes
-          git diff --staged --quiet || (git commit -m "🤖 Auto-added new AI tools to database" && git push)
+          git add data/tools.json scripts/backlog.csv
+          git diff --staged --quiet || (git commit -m "🤖 Auto-added new AI tools" && git push)
